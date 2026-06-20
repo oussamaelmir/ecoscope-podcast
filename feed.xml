@@ -4,7 +4,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ÉcoScope</title>
+    <title>ÉcoScope : Regard sur l'Économie au Maroc</title>
     <link>https://oussamaelmir.github.io/ecoscope-podcast</link>
     <language>fr</language>
     <description>Chaque jour, ÉcoScope décrypte en quelques minutes les principaux titres de l'actualité économique du Maroc, présenté par Aïcha.</description>
@@ -19,14 +19,14 @@
     <itunes:image href="https://oussamaelmir.github.io/ecoscope-podcast/cover.png"/>
     <image>
       <url>https://oussamaelmir.github.io/ecoscope-podcast/cover.png</url>
-      <title>ÉcoScope</title>
+      <title>ÉcoScope : Regard sur l'Économie au Maroc</title>
       <link>https://oussamaelmir.github.io/ecoscope-podcast</link>
     </image>
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 20 Jun 2026 19:36:24 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 19:56:32 +0100</lastBuildDate>
     <item>
       <title>ÉcoScope — 20/06/2026 : Méga-centre de déchets à Casablanca, RER marocain avec la Corée du Sud, et sécurité hydrique</title>
       <description>On commence par un projet historique à Casablanca : un méga-centre de valorisation des déchets à plus de onze milliards de dirhams, qui transformera les ordures en électricité dès cet automne. On enchaîne avec le futur réseau RER marocain, dont l'ONCF vient de confier la réalisation à deux géants ferroviaires sud-coréens. Et on termine par l'eau, avec une double actualité qui illustre les tensions hydriques du pays : une bonne nouvelle pour Marrakech, mais des nappes phréatiques qui peinent encore à se reconstituer.</description>
