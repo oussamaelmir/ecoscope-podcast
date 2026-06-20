@@ -26,7 +26,7 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 20 Jun 2026 18:44:33 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 19:24:07 +0100</lastBuildDate>
     <item>
       <title>ÉcoScope — samedi 20 juin 2026 : méga-centre de déchets à Casablanca, RER marocain avec la Corée du Sud, et sécurité hydrique</title>
       <description>On commence par un projet historique à Casablanca : un méga-centre de valorisation des déchets à plus de onze milliards de dirhams, qui transformera les ordures en électricité dès cet automne. On enchaîne avec le futur réseau RER marocain, dont l'ONCF vient de confier la réalisation à deux géants ferroviaires sud-coréens. Et on termine par l'eau, avec une double actualité qui illustre les tensions hydriques du pays : une bonne nouvelle pour Marrakech, mais des nappes phréatiques qui peinent encore à se reconstituer.</description>
@@ -35,6 +35,17 @@
       <guid isPermaLink="false">ecoscope-2026-06-20</guid>
       <pubDate>Sat, 20 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>365</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ÉcoScope — 19/06/2026 : Taux directeur, retraites privées et entreprises familiales</title>
+      <description>Au programme ce matin : Bank Al-Maghrib devrait laisser son taux directeur inchangé lors de son Conseil du 23 juin, une décision très attendue par les ménages et les entreprises. Ensuite, la Caisse de Dépôt et de Gestion ouvre une compétition inédite pour confier quinze milliards de dirhams de retraites publiques à des gestionnaires privés. Et enfin, une première étude nationale révèle une réalité troublante sur les entreprises familiales marocaines : elles font tourner l'économie du pays, mais très peu survivent au-delà d'une génération.</description>
+      <itunes:summary>Au programme ce matin : Bank Al-Maghrib devrait laisser son taux directeur inchangé lors de son Conseil du 23 juin, une décision très attendue par les ménages et les entreprises. Ensuite, la Caisse de Dépôt et de Gestion ouvre une compétition inédite pour confier quinze milliards de dirhams de retraites publiques à des gestionnaires privés. Et enfin, une première étude nationale révèle une réalité troublante sur les entreprises familiales marocaines : elles font tourner l'économie du pays, mais très peu survivent au-delà d'une génération.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-19.mp3" length="5085114" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-06-19</guid>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>317</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
