@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 20 Jun 2026 19:56:32 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 10:01:09 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 21/06/2026 : Banque mondiale, Aluminium du Maroc et OCP au cœur de l'actu</title>
+      <description>Au programme ce matin : la Banque mondiale publie un diagnostic ambitieux sur les réformes dont le Maroc a besoin pour créer des emplois et accélérer sa croissance. Ensuite, Aluminium du Maroc tourne une page de son histoire en abandonnant définitivement l'acier, tout en regardant vers le Mondial 2030. Et enfin, le groupe OCP accueille à Jorf Lasfar le ministre japonais de l'Agriculture dans le cadre d'un partenariat vieux de plus de soixante ans.</description>
+      <itunes:summary>Au programme ce matin : la Banque mondiale publie un diagnostic ambitieux sur les réformes dont le Maroc a besoin pour créer des emplois et accélérer sa croissance. Ensuite, Aluminium du Maroc tourne une page de son histoire en abandonnant définitivement l'acier, tout en regardant vers le Mondial 2030. Et enfin, le groupe OCP accueille à Jorf Lasfar le ministre japonais de l'Agriculture dans le cadre d'un partenariat vieux de plus de soixante ans.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-21.mp3" length="5967141" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-06-21</guid>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>372</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 20/06/2026 : Méga-centre de déchets à Casablanca, RER marocain avec la Corée du Sud, et sécurité hydrique</title>
       <description>On commence par un projet historique à Casablanca : un méga-centre de valorisation des déchets à plus de onze milliards de dirhams, qui transformera les ordures en électricité dès cet automne. On enchaîne avec le futur réseau RER marocain, dont l'ONCF vient de confier la réalisation à deux géants ferroviaires sud-coréens. Et on termine par l'eau, avec une double actualité qui illustre les tensions hydriques du pays : une bonne nouvelle pour Marrakech, mais des nappes phréatiques qui peinent encore à se reconstituer.</description>
