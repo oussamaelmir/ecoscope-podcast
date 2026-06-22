@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 21 Jun 2026 10:37:20 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 06:03:38 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 22/06/2026 : Taux directeur en suspens, le Japon chez OCP, et les PME face au plafond de verre</title>
+      <description>Au programme ce matin : à la veille d'une décision cruciale de Bank Al-Maghrib, tout indique que le taux directeur restera inchangé à deux virgule vingt-cinq pour cent. Ensuite, le Japon s'est déplacé en personne à Jorf Lasfar pour sécuriser ses approvisionnements en phosphates auprès d'OCP, signe que le Maroc est devenu un partenaire incontournable dans un marché des engrais sous haute tension. Et enfin, une étude de Bank Al-Maghrib lève le voile sur les freins structurels qui empêchent nos PME de changer de dimension.</description>
+      <itunes:summary>Au programme ce matin : à la veille d'une décision cruciale de Bank Al-Maghrib, tout indique que le taux directeur restera inchangé à deux virgule vingt-cinq pour cent. Ensuite, le Japon s'est déplacé en personne à Jorf Lasfar pour sécuriser ses approvisionnements en phosphates auprès d'OCP, signe que le Maroc est devenu un partenaire incontournable dans un marché des engrais sous haute tension. Et enfin, une étude de Bank Al-Maghrib lève le voile sur les freins structurels qui empêchent nos PME de changer de dimension.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-22.mp3" length="5958400" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-06-22</guid>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>372</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 21/06/2026 : OCDE, Royal Air Maroc et droits des PME face aux banques</title>
       <description>Au programme ce matin : le Maroc confirme son statut d'exception africaine sur la voie d'une adhésion à l'OCDE, un objectif ambitieux à l'horizon 2040. Ensuite, une bonne nouvelle pour Royal Air Maroc, qui voit enfin se desserrer l'étau des coûts du kérosène. Et enfin, Bank Al-Maghrib rappelle aux entreprises marocaines leurs droits trop souvent méconnus face aux banques lorsqu'elles cherchent à se financer.</description>
