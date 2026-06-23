@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 22 Jun 2026 06:03:38 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:03:21 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 23/06/2026 : Inflation en légère baisse, réforme portuaire et vide juridique sur le gaz</title>
+      <description>Au programme ce matin : l'inflation ralentit à 1,2 pour cent en mai, un répit pour les ménages, mais pas une victoire totale. Ensuite, les ports du Maroc s'apprêtent à changer de statut juridique, une réforme structurelle votée par les représentants. Et enfin, le Maroc avance sur ses projets gaziers, mais sans cadre légal, et cela inquiète les investisseurs.</description>
+      <itunes:summary>Au programme ce matin : l'inflation ralentit à 1,2 pour cent en mai, un répit pour les ménages, mais pas une victoire totale. Ensuite, les ports du Maroc s'apprêtent à changer de statut juridique, une réforme structurelle votée par les représentants. Et enfin, le Maroc avance sur ses projets gaziers, mais sans cadre légal, et cela inquiète les investisseurs.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-23.mp3" length="5676681" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-06-23</guid>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>354</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 22/06/2026 : Taux directeur en suspens, le Japon chez OCP, et les PME face au plafond de verre</title>
       <description>Au programme ce matin : à la veille d'une décision cruciale de Bank Al-Maghrib, tout indique que le taux directeur restera inchangé à deux virgule vingt-cinq pour cent. Ensuite, le Japon s'est déplacé en personne à Jorf Lasfar pour sécuriser ses approvisionnements en phosphates auprès d'OCP, signe que le Maroc est devenu un partenaire incontournable dans un marché des engrais sous haute tension. Et enfin, une étude de Bank Al-Maghrib lève le voile sur les freins structurels qui empêchent nos PME de changer de dimension.</description>
