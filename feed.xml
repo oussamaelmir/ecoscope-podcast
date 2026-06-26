@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 25 Jun 2026 06:03:20 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:03:14 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 26/06/2026 : Retour au GMT, verdict Naciri-Bioui et feuille de route de Bank Al-Maghrib</title>
+      <description>Au programme aujourd'hui : le Maroc tourne définitivement la page de l'heure GMT+1, une décision très attendue par des millions de citoyens. Ensuite, le verdict historique de l'affaire dite Escobar du Sahara, avec des peines lourdes et un volet financier colossal pour l'État. Et enfin, Bank Al-Maghrib dévoile ses grandes priorités stratégiques pour les mois à venir.</description>
+      <itunes:summary>Au programme aujourd'hui : le Maroc tourne définitivement la page de l'heure GMT+1, une décision très attendue par des millions de citoyens. Ensuite, le verdict historique de l'affaire dite Escobar du Sahara, avec des peines lourdes et un volet financier colossal pour l'État. Et enfin, Bank Al-Maghrib dévoile ses grandes priorités stratégiques pour les mois à venir.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-26.mp3" length="5739799" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-06-26</guid>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>358</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 25/06/2026 : OCP lève 5 milliards, l'Office des changes surveille les dépenses à l'étranger, et le tourisme s'envole</title>
       <description>Au programme aujourd'hui : le groupe OCP réalise une opération financière d'envergure avec une émission obligataire de cinq milliards de dirhams. Ensuite, l'Office des changes passe au crible les dépenses en espèces de Marocains à l'étranger, alerté par des partenaires européens. Et enfin, bonne nouvelle pour le tourisme : cinquante-deux nouvelles dessertes aériennes lancées en un semestre, et des recettes en forte hausse.</description>
