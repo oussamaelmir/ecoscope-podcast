@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 26 Jun 2026 06:03:14 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:03:38 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 27/06/2026 : Record fiscal, Safran à Nouaceur et crise avicole</title>
+      <description>Au programme ce matin : les impôts rapportent plus que jamais au Maroc, avec un record historique de recettes fiscales en 2025, mais le déficit budgétaire se creuse quand même. Ensuite, le groupe Safran lance une extension majeure de son usine de Nouaceur, un signal fort pour l'industrie aéronautique marocaine. Et enfin, une alerte sérieuse dans la filière avicole : les éleveurs de poulets sont au bord du gouffre, écrasés entre des prix de vente en chute libre et des coûts de production qui ne baissent pas.</description>
+      <itunes:summary>Au programme ce matin : les impôts rapportent plus que jamais au Maroc, avec un record historique de recettes fiscales en 2025, mais le déficit budgétaire se creuse quand même. Ensuite, le groupe Safran lance une extension majeure de son usine de Nouaceur, un signal fort pour l'industrie aéronautique marocaine. Et enfin, une alerte sérieuse dans la filière avicole : les éleveurs de poulets sont au bord du gouffre, écrasés entre des prix de vente en chute libre et des coûts de production qui ne baissent pas.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-27.mp3" length="5829606" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-06-27</guid>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>364</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 26/06/2026 : Retour au GMT, verdict Naciri-Bioui et feuille de route de Bank Al-Maghrib</title>
       <description>Au programme aujourd'hui : le Maroc tourne définitivement la page de l'heure GMT+1, une décision très attendue par des millions de citoyens. Ensuite, le verdict historique de l'affaire dite Escobar du Sahara, avec des peines lourdes et un volet financier colossal pour l'État. Et enfin, Bank Al-Maghrib dévoile ses grandes priorités stratégiques pour les mois à venir.</description>
