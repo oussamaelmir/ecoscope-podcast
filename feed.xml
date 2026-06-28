@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 27 Jun 2026 06:03:38 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 06:03:07 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 28/06/2026 : BEI au Maroc, Nador West Med s'équipe, l'ASMEX change de cap</title>
+      <description>Au programme ce matin : la présidente de la Banque européenne d'investissement débarque au Maroc dès demain pour signer deux financements majeurs dans les transports. Le futur grand port de Nador West Med réceptionne ses premiers portiques géants et confirme que sa mise en service approche. Et enfin, la nouvelle présidente de l'ASMEX détaille son programme : son ambition, c'est de faire du financement le vrai moteur de l'export marocain.</description>
+      <itunes:summary>Au programme ce matin : la présidente de la Banque européenne d'investissement débarque au Maroc dès demain pour signer deux financements majeurs dans les transports. Le futur grand port de Nador West Med réceptionne ses premiers portiques géants et confirme que sa mise en service approche. Et enfin, la nouvelle présidente de l'ASMEX détaille son programme : son ambition, c'est de faire du financement le vrai moteur de l'export marocain.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-28.mp3" length="5646148" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-06-28</guid>
+      <pubDate>Sun, 28 Jun 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>352</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 27/06/2026 : Record fiscal, Safran à Nouaceur et crise avicole</title>
       <description>Au programme ce matin : les impôts rapportent plus que jamais au Maroc, avec un record historique de recettes fiscales en 2025, mais le déficit budgétaire se creuse quand même. Ensuite, le groupe Safran lance une extension majeure de son usine de Nouaceur, un signal fort pour l'industrie aéronautique marocaine. Et enfin, une alerte sérieuse dans la filière avicole : les éleveurs de poulets sont au bord du gouffre, écrasés entre des prix de vente en chute libre et des coûts de production qui ne baissent pas.</description>
