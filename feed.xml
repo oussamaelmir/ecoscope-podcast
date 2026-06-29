@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 28 Jun 2026 15:59:26 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 06:03:26 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 29/06/2026 : CGEM renouvelée, banques sous pression, fraude douanière démantelée</title>
+      <description>Au programme de cet épisode : la CGEM, le patronat marocain, se dote d'une nouvelle gouvernance largement renouvelée avec des implications concrètes pour le dialogue social. Ensuite, nous ferons le point sur le secteur bancaire coté, qui traverse un début d'année difficile mais garde, selon les analystes, de solides fondamentaux. Et enfin, nous révèlerons les détails d'une opération antifraud de grande ampleur, avec un réseau de sept sociétés dans le viseur des douanes et du fisc.</description>
+      <itunes:summary>Au programme de cet épisode : la CGEM, le patronat marocain, se dote d'une nouvelle gouvernance largement renouvelée avec des implications concrètes pour le dialogue social. Ensuite, nous ferons le point sur le secteur bancaire coté, qui traverse un début d'année difficile mais garde, selon les analystes, de solides fondamentaux. Et enfin, nous révèlerons les détails d'une opération antifraud de grande ampleur, avec un réseau de sept sociétés dans le viseur des douanes et du fisc.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-29.mp3" length="5991808" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-06-29</guid>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>374</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 28/06/2026 : Sila Atlantik, réforme fiscale et alertes sur le textile et l'agriculture</title>
       <description>Au programme ce matin : le projet d'interconnexion électrique Sila Atlantik franchit une étape décisive vers l'export d'énergie renouvelable marocaine vers l'Allemagne. Ensuite, le FMI salue les progrès de l'administration fiscale marocaine, avec plus de vingt-six virgule cinq millions d'opérations en ligne en 2025. Et enfin, deux signaux d'alarme dans l'économie réelle : le textile marocain perd du terrain en Europe, et les agriculteurs s'interrogent sur la viabilité de leurs exploitations.</description>
