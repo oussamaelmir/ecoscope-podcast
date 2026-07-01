@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 30 Jun 2026 06:03:28 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 06:03:34 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 01/07/2026 : Fin du cash dans l'immobilier, record de réserves de change et ouverture du marché américain pour l'OCP</title>
+      <description>Au programme ce mercredi : dès aujourd'hui, payer un bien immobilier en espèces devient beaucoup plus coûteux au Maroc. Ensuite, le Royaume s'impose au cinquième rang africain des réserves de change avec un record à quarante-huit virgule six milliards de dollars. Et enfin, Washington suspend temporairement ses droits de douane sur les engrais phosphatés marocains, une aubaine directe pour le Groupe OCP.</description>
+      <itunes:summary>Au programme ce mercredi : dès aujourd'hui, payer un bien immobilier en espèces devient beaucoup plus coûteux au Maroc. Ensuite, le Royaume s'impose au cinquième rang africain des réserves de change avec un record à quarante-huit virgule six milliards de dollars. Et enfin, Washington suspend temporairement ses droits de douane sur les engrais phosphatés marocains, une aubaine directe pour le Groupe OCP.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-01.mp3" length="5698487" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-01</guid>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>356</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 30/06/2026 : Oracle s'installe à Agadir, l'offshoring sous pression, et la demande intérieure en hausse</title>
       <description>Au programme de cet épisode : Oracle inaugure son deuxième hub de recherche et développement au Maroc, cette fois à Agadir, un signal fort pour l'attractivité technologique du pays. Ensuite, l'offshoring marocain fait face à trois chocs simultanés qui menacent l'emploi dans ce secteur clé. Et enfin, bonne nouvelle du côté de la croissance : la demande intérieure a progressé de six virgule cinq pour cent au premier trimestre 2026 selon le Haut-Commissariat au Plan.</description>
