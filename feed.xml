@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 01 Jul 2026 22:37:02 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 06:03:30 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 02/07/2026 : Déficit commercial en hausse, viande ovine sous tension, et 365 millions d'euros de la BEI pour les transports</title>
+      <description>Au programme aujourd'hui : un bilan contrasté des échanges extérieurs à fin mai, avec un déficit commercial qui se creuse mais des investissements étrangers en forte accélération. Ensuite, la flambée des prix de la viande ovine pousse le gouvernement à envisager des mesures d'urgence. Et enfin, une excellente nouvelle pour les infrastructures marocaines : la Banque européenne d'investissement signe deux accords de financement pour un total de trois cent soixante-cinq millions d'euros.</description>
+      <itunes:summary>Au programme aujourd'hui : un bilan contrasté des échanges extérieurs à fin mai, avec un déficit commercial qui se creuse mais des investissements étrangers en forte accélération. Ensuite, la flambée des prix de la viande ovine pousse le gouvernement à envisager des mesures d'urgence. Et enfin, une excellente nouvelle pour les infrastructures marocaines : la Banque européenne d'investissement signe deux accords de financement pour un total de trois cent soixante-cinq millions d'euros.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-02.mp3" length="5583134" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>348</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 01/07/2026 : Baisse des carburants, bilan boursier mitigé et crise du textile</title>
       <description>Au programme ce matin : une bonne nouvelle pour votre portefeuille, avec une nouvelle baisse des prix des carburants à la pompe dès ce matin. Ensuite, nous ferons le point sur le bilan semestriel de la Bourse de Casablanca, où les valeurs minières ont sauvé un semestre difficile. Et enfin, nous aborderons une alerte sérieuse pour le secteur textile, dont les exportations reculent sous l'effet d'un déficit structurel de main-d'œuvre.</description>
