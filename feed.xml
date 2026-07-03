@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 02 Jul 2026 06:03:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:03:29 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 03/07/2026 : CNI, Banque mondiale et automobile, le Maroc en pleine dynamique</title>
+      <description>Au programme ce matin : la Commission nationale des investissements valide près de 42 milliards de dirhams de projets et promet des milliers d'emplois. La Banque mondiale débloque 265 millions de dollars pour une infrastructure énergétique clé dans le nord du Maroc. Et les constructeurs automobiles européens prennent officiellement la défense de leurs usines marocaines face à Bruxelles.</description>
+      <itunes:summary>Au programme ce matin : la Commission nationale des investissements valide près de 42 milliards de dirhams de projets et promet des milliers d'emplois. La Banque mondiale débloque 265 millions de dollars pour une infrastructure énergétique clé dans le nord du Maroc. Et les constructeurs automobiles européens prennent officiellement la défense de leurs usines marocaines face à Bruxelles.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-03.mp3" length="5582212" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-03</guid>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>348</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 02/07/2026 : Déficit commercial en hausse, viande ovine sous tension, et 365 millions d'euros de la BEI pour les transports</title>
       <description>Au programme aujourd'hui : un bilan contrasté des échanges extérieurs à fin mai, avec un déficit commercial qui se creuse mais des investissements étrangers en forte accélération. Ensuite, la flambée des prix de la viande ovine pousse le gouvernement à envisager des mesures d'urgence. Et enfin, une excellente nouvelle pour les infrastructures marocaines : la Banque européenne d'investissement signe deux accords de financement pour un total de trois cent soixante-cinq millions d'euros.</description>
