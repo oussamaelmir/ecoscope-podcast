@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 03 Jul 2026 06:03:29 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 06:03:44 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 04/07/2026 : Emplois offshore menacés, blé tendre en crise et bitcoin dans les banques marocaines</title>
+      <description>Au programme aujourd'hui : une loi française qui fait trembler des dizaines de milliers de salariés des centres d'appel au Maroc. Ensuite, la collecte du blé tendre qui s'emballe bien moins vite que prévu, avec des conséquences possibles sur les prix. Et pour finir, une banque marocaine qui franchit un cap historique en proposant pour la première fois un placement indexé au bitcoin.</description>
+      <itunes:summary>Au programme aujourd'hui : une loi française qui fait trembler des dizaines de milliers de salariés des centres d'appel au Maroc. Ensuite, la collecte du blé tendre qui s'emballe bien moins vite que prévu, avec des conséquences possibles sur les prix. Et pour finir, une banque marocaine qui franchit un cap historique en proposant pour la première fois un placement indexé au bitcoin.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-04.mp3" length="5823829" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>363</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 03/07/2026 : CNI, Banque mondiale et automobile, le Maroc en pleine dynamique</title>
       <description>Au programme ce matin : la Commission nationale des investissements valide près de 42 milliards de dirhams de projets et promet des milliers d'emplois. La Banque mondiale débloque 265 millions de dollars pour une infrastructure énergétique clé dans le nord du Maroc. Et les constructeurs automobiles européens prennent officiellement la défense de leurs usines marocaines face à Bruxelles.</description>
