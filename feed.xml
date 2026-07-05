@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 04 Jul 2026 06:03:44 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 06:03:44 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 05/07/2026 : Marsa Maroc investit 3 milliards au port de Casablanca, la DGI clarifie les avantages fiscaux en bourse, Gibraltar ferme sa liaison maritime avec le Maroc</title>
+      <description>Au programme aujourd'hui : Marsa Maroc prolonge la concession d'un terminal stratégique au port de Casablanca et annonce trois milliards de dirhams d'investissements. Ensuite, la Direction Générale des Impôts publie un guide pour rendre la bourse plus accessible aux épargnants. Et enfin, Gibraltar met fin à sa ligne de ferry vers le Maroc, une fermeture qui touche directement de nombreuses familles marocaines.</description>
+      <itunes:summary>Au programme aujourd'hui : Marsa Maroc prolonge la concession d'un terminal stratégique au port de Casablanca et annonce trois milliards de dirhams d'investissements. Ensuite, la Direction Générale des Impôts publie un guide pour rendre la bourse plus accessible aux épargnants. Et enfin, Gibraltar met fin à sa ligne de ferry vers le Maroc, une fermeture qui touche directement de nombreuses familles marocaines.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-05.mp3" length="5798059" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>362</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 04/07/2026 : Emplois offshore menacés, blé tendre en crise et bitcoin dans les banques marocaines</title>
       <description>Au programme aujourd'hui : une loi française qui fait trembler des dizaines de milliers de salariés des centres d'appel au Maroc. Ensuite, la collecte du blé tendre qui s'emballe bien moins vite que prévu, avec des conséquences possibles sur les prix. Et pour finir, une banque marocaine qui franchit un cap historique en proposant pour la première fois un placement indexé au bitcoin.</description>
