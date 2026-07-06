@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 05 Jul 2026 06:03:44 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 06:03:55 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 06/07/2026 : Immobilier sous tension, Jorf Lasfar vire au vert, et la Bourse de Casablanca décryptée</title>
+      <description>Au programme ce matin : un marché immobilier grippé entre hausse des coûts et pénurie de main-d'œuvre, où les ventes s'effondrent mais les prix refusent de baisser. Ensuite, le port de Jorf Lasfar qui se réinvente avec le projet « Green Basin », en misant sur les batteries et l'hydrogène vert. Et enfin, un décryptage des comportements des investisseurs à la Bourse de Casablanca lors de la correction du premier trimestre 2026.</description>
+      <itunes:summary>Au programme ce matin : un marché immobilier grippé entre hausse des coûts et pénurie de main-d'œuvre, où les ventes s'effondrent mais les prix refusent de baisser. Ensuite, le port de Jorf Lasfar qui se réinvente avec le projet « Green Basin », en misant sur les batteries et l'hydrogène vert. Et enfin, un décryptage des comportements des investisseurs à la Bourse de Casablanca lors de la correction du premier trimestre 2026.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-06.mp3" length="4666086" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-06</guid>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>291</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 05/07/2026 : Marsa Maroc investit 3 milliards au port de Casablanca, la DGI clarifie les avantages fiscaux en bourse, Gibraltar ferme sa liaison maritime avec le Maroc</title>
       <description>Au programme aujourd'hui : Marsa Maroc prolonge la concession d'un terminal stratégique au port de Casablanca et annonce trois milliards de dirhams d'investissements. Ensuite, la Direction Générale des Impôts publie un guide pour rendre la bourse plus accessible aux épargnants. Et enfin, Gibraltar met fin à sa ligne de ferry vers le Maroc, une fermeture qui touche directement de nombreuses familles marocaines.</description>
