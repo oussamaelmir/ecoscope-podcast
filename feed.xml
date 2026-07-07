@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 06 Jul 2026 06:03:55 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 06:03:49 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 07/07/2026 : IPO T2S Group, balance commerciale sous pression et farine subventionnée</title>
+      <description>Au programme aujourd'hui : la première introduction en Bourse de Casablanca de l'année, signée par le groupe de medtech T2S, avec une opération à un milliard cent millions de dirhams. Nous ferons aussi le point sur la balance commerciale du Maroc, dont le taux de couverture a atteint son niveau le plus bas depuis 2018. Et enfin, un décryptage du nouveau dispositif officiel de subvention de la farine pour la campagne 2026-2027.</description>
+      <itunes:summary>Au programme aujourd'hui : la première introduction en Bourse de Casablanca de l'année, signée par le groupe de medtech T2S, avec une opération à un milliard cent millions de dirhams. Nous ferons aussi le point sur la balance commerciale du Maroc, dont le taux de couverture a atteint son niveau le plus bas depuis 2018. Et enfin, un décryptage du nouveau dispositif officiel de subvention de la farine pour la campagne 2026-2027.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-07.mp3" length="4577867" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>286</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 06/07/2026 : Immobilier sous tension, Jorf Lasfar vire au vert, et la Bourse de Casablanca décryptée</title>
       <description>Au programme ce matin : un marché immobilier grippé entre hausse des coûts et pénurie de main-d'œuvre, où les ventes s'effondrent mais les prix refusent de baisser. Ensuite, le port de Jorf Lasfar qui se réinvente avec le projet « Green Basin », en misant sur les batteries et l'hydrogène vert. Et enfin, un décryptage des comportements des investisseurs à la Bourse de Casablanca lors de la correction du premier trimestre 2026.</description>
