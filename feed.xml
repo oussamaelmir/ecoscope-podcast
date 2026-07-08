@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 07 Jul 2026 06:03:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 06:03:41 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 08/07/2026 : Finances publiques record, filière batterie et crédit en hausse</title>
+      <description>Au programme aujourd'hui : les finances publiques marocaines affichent des résultats largement supérieurs aux prévisions pour 2024, avec des recettes record adoptées par la Chambre des conseillers. Ensuite, le Maroc accélère sa montée en gamme dans la filière des batteries, du phosphate aux cathodes. Et enfin, le crédit bancaire poursuit son élan, avec un encours qui dépasse mille deux cent cinquante-neuf milliards de dirhams à fin mai 2026.</description>
+      <itunes:summary>Au programme aujourd'hui : les finances publiques marocaines affichent des résultats largement supérieurs aux prévisions pour 2024, avec des recettes record adoptées par la Chambre des conseillers. Ensuite, le Maroc accélère sa montée en gamme dans la filière des batteries, du phosphate aux cathodes. Et enfin, le crédit bancaire poursuit son élan, avec un encours qui dépasse mille deux cent cinquante-neuf milliards de dirhams à fin mai 2026.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-08.mp3" length="4458318" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>278</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 07/07/2026 : IPO T2S Group, balance commerciale sous pression et farine subventionnée</title>
       <description>Au programme aujourd'hui : la première introduction en Bourse de Casablanca de l'année, signée par le groupe de medtech T2S, avec une opération à un milliard cent millions de dirhams. Nous ferons aussi le point sur la balance commerciale du Maroc, dont le taux de couverture a atteint son niveau le plus bas depuis 2018. Et enfin, un décryptage du nouveau dispositif officiel de subvention de la farine pour la campagne 2026-2027.</description>
