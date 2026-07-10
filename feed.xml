@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 09 Jul 2026 06:04:19 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 06:03:35 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 10/07/2026 : Résilience bancaire, gares RER à Casablanca et pénurie de main-d'œuvre</title>
+      <description>Au programme aujourd'hui : le système bancaire marocain affiche un bénéfice net record, confirmé par le tout dernier rapport sur la stabilité financière. Ensuite, l'ONCF lance un chantier colossal pour construire neuf nouvelles gares du futur RER de Casablanca. Et enfin, un paradoxe inquiétant : malgré un chômage encore élevé, les entreprises du BTP, du textile et du câblage n'arrivent plus à recruter.</description>
+      <itunes:summary>Au programme aujourd'hui : le système bancaire marocain affiche un bénéfice net record, confirmé par le tout dernier rapport sur la stabilité financière. Ensuite, l'ONCF lance un chantier colossal pour construire neuf nouvelles gares du futur RER de Casablanca. Et enfin, un paradoxe inquiétant : malgré un chômage encore élevé, les entreprises du BTP, du textile et du câblage n'arrivent plus à recruter.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-10.mp3" length="4763444" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-10</guid>
+      <pubDate>Fri, 10 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 09/07/2026 : Médicaments moins chers, TVA sur le numérique et Orbite 2030 pour les TPME</title>
       <description>Au programme ce matin : un décret très attendu sur les prix des médicaments arrive enfin devant le Conseil de gouvernement, et il promet des économies concrètes pour les assurés. Ensuite, Meta, Netflix, TikTok et YouTube sont désormais soumis à la TVA au Maroc, une mesure entrée en vigueur le mois dernier. Et enfin, Maroc PME dévoile sa stratégie Orbite 2030 pour redonner de l'air aux très petites, petites et moyennes entreprises du pays.</description>
