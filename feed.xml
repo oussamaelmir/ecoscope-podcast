@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 12 Jul 2026 06:03:44 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 06:03:32 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 13/07/2026 : Port Dakhla, interconnexions énergétiques et flambée du pétrole</title>
+      <description>Au programme ce matin : le chantier du port Dakhla Atlantique avance à grands pas et confirme les ambitions africaines du Maroc. Le Royaume accélère également ses interconnexions électriques avec l'Europe et vers l'Afrique, consolidant son rôle de carrefour de l'énergie verte. Et enfin, une actualité qui touche directement nos portefeuilles : les cours du pétrole ont bondi ce matin après des frappes américaines sur l'Iran et la fermeture annoncée du détroit d'Ormuz.</description>
+      <itunes:summary>Au programme ce matin : le chantier du port Dakhla Atlantique avance à grands pas et confirme les ambitions africaines du Maroc. Le Royaume accélère également ses interconnexions électriques avec l'Europe et vers l'Afrique, consolidant son rôle de carrefour de l'énergie verte. Et enfin, une actualité qui touche directement nos portefeuilles : les cours du pétrole ont bondi ce matin après des frappes américaines sur l'Iran et la fermeture annoncée du détroit d'Ormuz.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-13.mp3" length="4431983" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-13</guid>
+      <pubDate>Mon, 13 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>276</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 12/07/2026 : IDE en hausse spectaculaire, TVA numérique et cadastre minier en panne</title>
       <description>Au programme aujourd'hui : le Maroc s'impose comme une destination de premier plan pour les investisseurs étrangers, avec des chiffres qui donnent le vertige. Nous verrons aussi comment l'État marocain entend désormais taxer Netflix, Meta et les autres géants du numérique étrangers. Et enfin, un outil censé moderniser le secteur minier qui, sur le terrain, ne fonctionne toujours pas.</description>
