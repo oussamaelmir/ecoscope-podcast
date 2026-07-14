@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 13 Jul 2026 06:03:32 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:03:35 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 14/07/2026 : Banque mondiale, crise agricole et boom des véhicules électrifiés</title>
+      <description>Au programme aujourd'hui : la Banque mondiale dévoile un partenariat historique de quinze milliards de dollars sur dix ans pour accompagner le Maroc dans ses grandes réformes. Ensuite, la campagne agricole 2026 révèle une réalité contrastée : un rebond encourageant, mais une pénurie de moissonneuses qui menace des milliards de dirhams de récoltes. Et enfin, les ventes de véhicules électrifiés explosent au Maroc, avec une progression de près de cent pour cent en un an.</description>
+      <itunes:summary>Au programme aujourd'hui : la Banque mondiale dévoile un partenariat historique de quinze milliards de dollars sur dix ans pour accompagner le Maroc dans ses grandes réformes. Ensuite, la campagne agricole 2026 révèle une réalité contrastée : un rebond encourageant, mais une pénurie de moissonneuses qui menace des milliards de dirhams de récoltes. Et enfin, les ventes de véhicules électrifiés explosent au Maroc, avec une progression de près de cent pour cent en un an.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-14.mp3" length="5447210" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-14</guid>
+      <pubDate>Tue, 14 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>340</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 13/07/2026 : Port Dakhla, interconnexions énergétiques et flambée du pétrole</title>
       <description>Au programme ce matin : le chantier du port Dakhla Atlantique avance à grands pas et confirme les ambitions africaines du Maroc. Le Royaume accélère également ses interconnexions électriques avec l'Europe et vers l'Afrique, consolidant son rôle de carrefour de l'énergie verte. Et enfin, une actualité qui touche directement nos portefeuilles : les cours du pétrole ont bondi ce matin après des frappes américaines sur l'Iran et la fermeture annoncée du détroit d'Ormuz.</description>
