@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 14 Jul 2026 06:03:35 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:03:52 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 15/07/2026 : Pétrole en hausse, déficit en baisse et innovation chez OCP</title>
+      <description>Au programme aujourd'hui : la reprise des hostilités au Moyen-Orient fait flamber le pétrole, avec des conséquences directes sur le portefeuille des Marocains. Côté finances publiques, une bonne nouvelle : le déficit du Trésor s'allège sensiblement à fin juin. Et enfin, OCP mise sur l'innovation pour ne plus dépendre des importations de soufre.</description>
+      <itunes:summary>Au programme aujourd'hui : la reprise des hostilités au Moyen-Orient fait flamber le pétrole, avec des conséquences directes sur le portefeuille des Marocains. Côté finances publiques, une bonne nouvelle : le déficit du Trésor s'allège sensiblement à fin juin. Et enfin, OCP mise sur l'innovation pour ne plus dépendre des importations de soufre.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-15.mp3" length="4812742" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-15</guid>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>300</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 14/07/2026 : Banque mondiale, crise agricole et boom des véhicules électrifiés</title>
       <description>Au programme aujourd'hui : la Banque mondiale dévoile un partenariat historique de quinze milliards de dollars sur dix ans pour accompagner le Maroc dans ses grandes réformes. Ensuite, la campagne agricole 2026 révèle une réalité contrastée : un rebond encourageant, mais une pénurie de moissonneuses qui menace des milliards de dirhams de récoltes. Et enfin, les ventes de véhicules électrifiés explosent au Maroc, avec une progression de près de cent pour cent en un an.</description>
