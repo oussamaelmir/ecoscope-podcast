@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 16 Jul 2026 06:03:37 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 06:03:49 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 17/07/2026 : RHN Maroc-France, croissance à 5,4% et exportations vers l'UE</title>
+      <description>Au programme aujourd'hui : la quinzième Réunion de Haut Niveau entre le Maroc et la France a accouché d'accords concrets dans des secteurs stratégiques. Ensuite, le Haut-Commissariat au Plan annonce une accélération de la croissance à cinq virgule quatre pour cent au troisième trimestre. Et enfin, les exportations marocaines vers l'Union européenne atteignent deux virgule cinq milliards d'euros en mai, confirmant la résistance du Royaume face à un contexte européen difficile.</description>
+      <itunes:summary>Au programme aujourd'hui : la quinzième Réunion de Haut Niveau entre le Maroc et la France a accouché d'accords concrets dans des secteurs stratégiques. Ensuite, le Haut-Commissariat au Plan annonce une accélération de la croissance à cinq virgule quatre pour cent au troisième trimestre. Et enfin, les exportations marocaines vers l'Union européenne atteignent deux virgule cinq milliards d'euros en mai, confirmant la résistance du Royaume face à un contexte européen difficile.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-17.mp3" length="5163831" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>322</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 16/07/2026 : Confiance des ménages, Maroc-France et accord Forafric</title>
       <description>Au programme ce matin : le moral des ménages marocains s'améliore sur un an, mais les familles restent sous pression. À Rabat, la visite du Premier ministre français marque un tournant dans les relations économiques entre le Maroc et la France. Et du côté de l'agroalimentaire, le Crédit Agricole du Maroc tourne la page d'un contentieux de plus de cent quatre-vingt-dix millions de dirhams avec le groupe Forafric.</description>
