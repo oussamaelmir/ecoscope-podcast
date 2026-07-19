@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 18 Jul 2026 06:03:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 06:03:03 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 19/07/2026 : Gazoduc atlantique, inégalités régionales et investissement hôtelier</title>
+      <description>Au programme aujourd'hui : le tronçon marocain du gazoduc Afrique-Atlantique se dessine avec précision, et les chiffres sont impressionnants. Ensuite, une étude sur dix ans confirme ce que beaucoup redoutaient : la richesse nationale reste très concentrée dans trois régions. Et enfin, le groupe hôtelier Pickalbatros annonce un plan d'investissement massif de trois cent cinquante millions de dollars au Maroc. Entrons dans le vif du sujet.</description>
+      <itunes:summary>Au programme aujourd'hui : le tronçon marocain du gazoduc Afrique-Atlantique se dessine avec précision, et les chiffres sont impressionnants. Ensuite, une étude sur dix ans confirme ce que beaucoup redoutaient : la richesse nationale reste très concentrée dans trois régions. Et enfin, le groupe hôtelier Pickalbatros annonce un plan d'investissement massif de trois cent cinquante millions de dollars au Maroc. Entrons dans le vif du sujet.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-19.mp3" length="4689044" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>293</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 18/07/2026 : OCP-Koch, cyberfraude bancaire et Auto Hall en Bourse</title>
       <description>Au programme ce matin : OCP signe un accord historique avec le géant américain Koch pour créer une nouvelle joint-venture dans les engrais phosphatés à Jorf Lasfar. Ensuite, Bank Al-Maghrib tire la sonnette d'alarme face à l'explosion des fraudes en ligne et lance une campagne de sensibilisation avec l'Autorité nationale du renseignement financier. Et enfin, Auto Hall prépare une augmentation de capital de près de deux cent cinquante millions de dirhams pour accélérer son développement.</description>
