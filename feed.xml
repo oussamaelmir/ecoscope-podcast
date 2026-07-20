@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 19 Jul 2026 06:03:03 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 06:03:25 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 20/07/2026 : Gazoduc Nigeria-Maroc, financement du Trésor et raffinage du lithium</title>
+      <description>Au programme ce matin : une étape historique pour le Gazoduc Nigeria-Maroc, avec la signature d'un accord intergouvernemental par les États de la CEDEAO. Ensuite, un point précis sur les besoins de financement du Trésor pour le reste de l'année, qui restent considérables. Et enfin, nous verrons pourquoi le Maroc mise sur le raffinage du lithium pour s'imposer dans la filière mondiale des batteries électriques.</description>
+      <itunes:summary>Au programme ce matin : une étape historique pour le Gazoduc Nigeria-Maroc, avec la signature d'un accord intergouvernemental par les États de la CEDEAO. Ensuite, un point précis sur les besoins de financement du Trésor pour le reste de l'année, qui restent considérables. Et enfin, nous verrons pourquoi le Maroc mise sur le raffinage du lithium pour s'imposer dans la filière mondiale des batteries électriques.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-20.mp3" length="5153808" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>322</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 19/07/2026 : Gazoduc atlantique, inégalités régionales et investissement hôtelier</title>
       <description>Au programme aujourd'hui : le tronçon marocain du gazoduc Afrique-Atlantique se dessine avec précision, et les chiffres sont impressionnants. Ensuite, une étude sur dix ans confirme ce que beaucoup redoutaient : la richesse nationale reste très concentrée dans trois régions. Et enfin, le groupe hôtelier Pickalbatros annonce un plan d'investissement massif de trois cent cinquante millions de dollars au Maroc. Entrons dans le vif du sujet.</description>
