@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 20 Jul 2026 06:03:25 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 06:03:33 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 21/07/2026 : Rapport Bank Al-Maghrib au Roi, interconnexion électrique Maroc-Portugal et perspectives budgétaires 2027</title>
+      <description>Au programme de cet épisode : le wali de Bank Al-Maghrib a remis hier son rapport annuel au Roi Mohammed VI, avec des chiffres encourageants sur la croissance et l'inflation. Côté énergie, le Maroc et le Portugal relancent leur projet d'interconnexion électrique avec l'appui espéré de l'Union européenne. Et enfin, le Haut-Commissariat au Plan dessine les contours budgétaires de 2027 : un déficit qui se réduit, mais une croissance qui marque le pas.</description>
+      <itunes:summary>Au programme de cet épisode : le wali de Bank Al-Maghrib a remis hier son rapport annuel au Roi Mohammed VI, avec des chiffres encourageants sur la croissance et l'inflation. Côté énergie, le Maroc et le Portugal relancent leur projet d'interconnexion électrique avec l'appui espéré de l'Union européenne. Et enfin, le Haut-Commissariat au Plan dessine les contours budgétaires de 2027 : un déficit qui se réduit, mais une croissance qui marque le pas.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-21.mp3" length="5104563" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>318</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 20/07/2026 : Gazoduc Nigeria-Maroc, financement du Trésor et raffinage du lithium</title>
       <description>Au programme ce matin : une étape historique pour le Gazoduc Nigeria-Maroc, avec la signature d'un accord intergouvernemental par les États de la CEDEAO. Ensuite, un point précis sur les besoins de financement du Trésor pour le reste de l'année, qui restent considérables. Et enfin, nous verrons pourquoi le Maroc mise sur le raffinage du lithium pour s'imposer dans la filière mondiale des batteries électriques.</description>
