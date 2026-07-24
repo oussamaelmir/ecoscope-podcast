@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 23 Jul 2026 06:03:23 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:03:12 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 24/07/2026 : Pétrole à 100 dollars, Tanger Med noté Investment Grade et Power Export en action</title>
+      <description>Au menu ce matin : le baril de Brent franchit le seuil des cent dollars sous l'effet des tensions en mer Rouge, ce qui fait peser un risque sérieux sur le budget marocain. Ensuite, Tanger Med Port Authority décroche une double notation Investment Grade de Moody's et de Standard and Poor's. Et enfin, le programme Power Export retient une centaine d'entreprises marocaines pour les accompagner vers les marchés extérieurs.</description>
+      <itunes:summary>Au menu ce matin : le baril de Brent franchit le seuil des cent dollars sous l'effet des tensions en mer Rouge, ce qui fait peser un risque sérieux sur le budget marocain. Ensuite, Tanger Med Port Authority décroche une double notation Investment Grade de Moody's et de Standard and Poor's. Et enfin, le programme Power Export retient une centaine d'entreprises marocaines pour les accompagner vers les marchés extérieurs.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-24.mp3" length="4600880" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>287</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 23/07/2026 : Croissance à 5,3%, viandes rouges et câble Maroc-Allemagne dans l'impasse</title>
       <description>Au programme de cet épisode : la ministre des Finances présente des prévisions encourageantes au Parlement, avec une croissance attendue à cinq virgule trois pour cent en 2026. Ensuite, le gouvernement tente de faire baisser les prix de la viande rouge en supprimant les droits de douane sur les importations. Et enfin, le projet de câble sous-marin entre le Maroc et l'Allemagne, estimé à trente milliards de dollars, est bloqué par des désaccords bilatéraux.</description>
