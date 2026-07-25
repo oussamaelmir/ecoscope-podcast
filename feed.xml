@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 24 Jul 2026 06:03:12 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:03:32 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 25/07/2026 : Droits de douane américains, milliards de la BAD et tourisme record</title>
+      <description>Au programme ce matin : le Maroc dans le viseur de Washington, avec une hausse des droits de douane américains et une mauvaise nouvelle supplémentaire pour les engrais d'OCP. Ensuite, une pluie de financements de la Banque africaine de développement, avec près de sept cents millions d'euros mobilisés en une seule journée pour des projets stratégiques. Et enfin, une très belle nouvelle pour le tourisme marocain, qui affiche près de neuf virgule quatre millions de visiteurs à mi-parcours de l'année.</description>
+      <itunes:summary>Au programme ce matin : le Maroc dans le viseur de Washington, avec une hausse des droits de douane américains et une mauvaise nouvelle supplémentaire pour les engrais d'OCP. Ensuite, une pluie de financements de la Banque africaine de développement, avec près de sept cents millions d'euros mobilisés en une seule journée pour des projets stratégiques. Et enfin, une très belle nouvelle pour le tourisme marocain, qui affiche près de neuf virgule quatre millions de visiteurs à mi-parcours de l'année.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-25.mp3" length="4637211" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-25</guid>
+      <pubDate>Sat, 25 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>289</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 24/07/2026 : Pétrole à 100 dollars, Tanger Med noté Investment Grade et Power Export en action</title>
       <description>Au menu ce matin : le baril de Brent franchit le seuil des cent dollars sous l'effet des tensions en mer Rouge, ce qui fait peser un risque sérieux sur le budget marocain. Ensuite, Tanger Med Port Authority décroche une double notation Investment Grade de Moody's et de Standard and Poor's. Et enfin, le programme Power Export retient une centaine d'entreprises marocaines pour les accompagner vers les marchés extérieurs.</description>
