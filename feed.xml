@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 26 Jul 2026 06:03:34 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 06:03:49 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 27/07/2026 : Marché du travail fragile, l'État dévore le crédit bancaire, Renault et la 5G d'IAM en plein essor</title>
+      <description>Au programme aujourd'hui : la Banque mondiale salue la croissance marocaine, mais tire la sonnette d'alarme sur un marché de l'emploi bien plus fragile qu'on ne le croyait. Ensuite, nous verrons comment l'État est devenu le premier client des banques marocaines, au détriment des entreprises et des ménages. Et enfin, deux signaux positifs pour l'économie : Renault renforce sa production au Maroc, et la 5G de Maroc Telecom commence à produire des effets bien concrets.</description>
+      <itunes:summary>Au programme aujourd'hui : la Banque mondiale salue la croissance marocaine, mais tire la sonnette d'alarme sur un marché de l'emploi bien plus fragile qu'on ne le croyait. Ensuite, nous verrons comment l'État est devenu le premier client des banques marocaines, au détriment des entreprises et des ménages. Et enfin, deux signaux positifs pour l'économie : Renault renforce sa production au Maroc, et la 5G de Maroc Telecom commence à produire des effets bien concrets.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-27.mp3" length="5346130" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>334</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 26/07/2026 : TVA en recul, contrôle des changes renforcé, ciment en baisse</title>
       <description>Au programme aujourd'hui : les recettes nettes de TVA intérieure affichent un taux d'exécution inhabituellement bas à mi-année, et nous allons vous expliquer pourquoi ce chiffre est trompeur. Ensuite, l'Office des Changes révèle l'ampleur de sa surveillance sur les flux financiers extérieurs des entreprises. Et enfin, le secteur du bâtiment montre des signes d'essoufflement après une année 2025 très dynamique.</description>
