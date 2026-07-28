@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 27 Jul 2026 06:03:49 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:03:25 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 28/07/2026 : IPO de T2S, réforme des prix des médicaments et LGV Kénitra-Marrakech</title>
+      <description>Au programme ce matin : un engouement historique pour l'introduction en Bourse de T2S, sursouscrite près de quarante-quatre fois par plus de cent onze mille investisseurs. Nous ferons ensuite le point sur le nouveau décret de réforme des prix des médicaments, adopté dans un contexte de négociations tendues entre le ministre de la Santé et les acteurs du secteur. Et pour finir, une nouvelle attribution de marché sur le chantier de la ligne à grande vitesse entre Kénitra et Marrakech, avec un contrat de plus de cinq cent soixante millions de dirhams décroché par le groupe TGCC.</description>
+      <itunes:summary>Au programme ce matin : un engouement historique pour l'introduction en Bourse de T2S, sursouscrite près de quarante-quatre fois par plus de cent onze mille investisseurs. Nous ferons ensuite le point sur le nouveau décret de réforme des prix des médicaments, adopté dans un contexte de négociations tendues entre le ministre de la Santé et les acteurs du secteur. Et pour finir, une nouvelle attribution de marché sur le chantier de la ligne à grande vitesse entre Kénitra et Marrakech, avec un contrat de plus de cinq cent soixante millions de dirhams décroché par le groupe TGCC.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-28.mp3" length="4586640" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-28</guid>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>286</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 27/07/2026 : Marché du travail fragile, l'État dévore le crédit bancaire, Renault et la 5G d'IAM en plein essor</title>
       <description>Au programme aujourd'hui : la Banque mondiale salue la croissance marocaine, mais tire la sonnette d'alarme sur un marché de l'emploi bien plus fragile qu'on ne le croyait. Ensuite, nous verrons comment l'État est devenu le premier client des banques marocaines, au détriment des entreprises et des ménages. Et enfin, deux signaux positifs pour l'économie : Renault renforce sa production au Maroc, et la 5G de Maroc Telecom commence à produire des effets bien concrets.</description>
