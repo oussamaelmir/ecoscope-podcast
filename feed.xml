@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 28 Jul 2026 06:03:25 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:03:44 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 29/07/2026 : Plan géant de l'ONEE, bénéfice record d'Attijariwafa et facture import en hausse</title>
+      <description>Au programme aujourd'hui : l'ONEE lance un plan d'investissement historique de plus de 248 milliards de dirhams pour transformer notre mix énergétique d'ici 2030. Attijariwafa bank affiche un bénéfice proche de six milliards de dirhams au premier semestre, signe d'un secteur bancaire en pleine forme. Et enfin, une facture qui inquiète : les importations de biens de consommation ont franchi le cap des 203 milliards de dirhams en 2025, une hausse qui interpelle sur la capacité industrielle du Maroc.</description>
+      <itunes:summary>Au programme aujourd'hui : l'ONEE lance un plan d'investissement historique de plus de 248 milliards de dirhams pour transformer notre mix énergétique d'ici 2030. Attijariwafa bank affiche un bénéfice proche de six milliards de dirhams au premier semestre, signe d'un secteur bancaire en pleine forme. Et enfin, une facture qui inquiète : les importations de biens de consommation ont franchi le cap des 203 milliards de dirhams en 2025, une hausse qui interpelle sur la capacité industrielle du Maroc.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-29.mp3" length="5130015" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>320</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 28/07/2026 : IPO de T2S, réforme des prix des médicaments et LGV Kénitra-Marrakech</title>
       <description>Au programme ce matin : un engouement historique pour l'introduction en Bourse de T2S, sursouscrite près de quarante-quatre fois par plus de cent onze mille investisseurs. Nous ferons ensuite le point sur le nouveau décret de réforme des prix des médicaments, adopté dans un contexte de négociations tendues entre le ministre de la Santé et les acteurs du secteur. Et pour finir, une nouvelle attribution de marché sur le chantier de la ligne à grande vitesse entre Kénitra et Marrakech, avec un contrat de plus de cinq cent soixante millions de dirhams décroché par le groupe TGCC.</description>
