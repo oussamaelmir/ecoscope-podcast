@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 29 Jul 2026 06:03:44 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:03:36 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 30/07/2026 : Discours du Trône, exportations agroalimentaires et sécurité hydrique</title>
+      <description>Au programme ce matin : le Roi Mohammed VI a prononcé son Discours du Trône et placé la finance au cœur de la transformation du pays. Le secteur agroalimentaire marocain affiche une performance impressionnante à l'export, avec plus de 86 milliards de dirhams de recettes en 2025. Et sur le front de l'eau, deux avancées majeures en une seule journée : une garantie de 250 millions d'euros mobilisée pour l'ONEE, et la station de dessalement de Tanger qui avance à grands pas.</description>
+      <itunes:summary>Au programme ce matin : le Roi Mohammed VI a prononcé son Discours du Trône et placé la finance au cœur de la transformation du pays. Le secteur agroalimentaire marocain affiche une performance impressionnante à l'export, avec plus de 86 milliards de dirhams de recettes en 2025. Et sur le front de l'eau, deux avancées majeures en une seule journée : une garantie de 250 millions d'euros mobilisée pour l'ONEE, et la station de dessalement de Tanger qui avance à grands pas.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-30.mp3" length="4996658" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>312</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 29/07/2026 : Plan géant de l'ONEE, bénéfice record d'Attijariwafa et facture import en hausse</title>
       <description>Au programme aujourd'hui : l'ONEE lance un plan d'investissement historique de plus de 248 milliards de dirhams pour transformer notre mix énergétique d'ici 2030. Attijariwafa bank affiche un bénéfice proche de six milliards de dirhams au premier semestre, signe d'un secteur bancaire en pleine forme. Et enfin, une facture qui inquiète : les importations de biens de consommation ont franchi le cap des 203 milliards de dirhams en 2025, une hausse qui interpelle sur la capacité industrielle du Maroc.</description>
