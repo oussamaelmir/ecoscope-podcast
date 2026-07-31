@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 30 Jul 2026 06:03:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:03:29 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 31/07/2026 : Gazoduc Nigeria-Maroc, retraites en suspens et fiscalité des entreprises</title>
+      <description>Au programme aujourd'hui : le projet de Gazoduc Nigeria-Maroc franchit un cap historique, avec l'adhésion officielle des pays de la CEDEAO. Ensuite, nous ferons le point sur la réforme des retraites, une nouvelle fois renvoyée au prochain gouvernement malgré des signaux financiers légèrement meilleurs. Et enfin, un rapport de l'OCDE place le Maroc parmi les pays où l'impôt sur les sociétés pèse le plus lourd au monde.</description>
+      <itunes:summary>Au programme aujourd'hui : le projet de Gazoduc Nigeria-Maroc franchit un cap historique, avec l'adhésion officielle des pays de la CEDEAO. Ensuite, nous ferons le point sur la réforme des retraites, une nouvelle fois renvoyée au prochain gouvernement malgré des signaux financiers légèrement meilleurs. Et enfin, un rapport de l'OCDE place le Maroc parmi les pays où l'impôt sur les sociétés pèse le plus lourd au monde.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-31.mp3" length="4759687" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 30/07/2026 : Discours du Trône, exportations agroalimentaires et sécurité hydrique</title>
       <description>Au programme ce matin : le Roi Mohammed VI a prononcé son Discours du Trône et placé la finance au cœur de la transformation du pays. Le secteur agroalimentaire marocain affiche une performance impressionnante à l'export, avec plus de 86 milliards de dirhams de recettes en 2025. Et sur le front de l'eau, deux avancées majeures en une seule journée : une garantie de 250 millions d'euros mobilisée pour l'ONEE, et la station de dessalement de Tanger qui avance à grands pas.</description>
