@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 31 Jul 2026 06:03:29 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:03:17 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 01/08/2026 : Balance des paiements record, hausse des carburants et boom des exportations automobiles</title>
+      <description>Au programme aujourd'hui : l'Office des Changes publie son tableau de bord semestriel, et les résultats sont remarquables, que ce soit pour les investissements étrangers, le tourisme ou les transferts des Marocains résidant à l'étranger. Ensuite, une mauvaise nouvelle pour les automobilistes : les prix des carburants pourraient bondir dès ce mois d'août. Et enfin, le secteur automobile confirme qu'il est bien le champion des exportations marocaines, avec un premier semestre historique.</description>
+      <itunes:summary>Au programme aujourd'hui : l'Office des Changes publie son tableau de bord semestriel, et les résultats sont remarquables, que ce soit pour les investissements étrangers, le tourisme ou les transferts des Marocains résidant à l'étranger. Ensuite, une mauvaise nouvelle pour les automobilistes : les prix des carburants pourraient bondir dès ce mois d'août. Et enfin, le secteur automobile confirme qu'il est bien le champion des exportations marocaines, avec un premier semestre historique.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-01.mp3" length="4762215" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 31/07/2026 : Gazoduc Nigeria-Maroc, retraites en suspens et fiscalité des entreprises</title>
       <description>Au programme aujourd'hui : le projet de Gazoduc Nigeria-Maroc franchit un cap historique, avec l'adhésion officielle des pays de la CEDEAO. Ensuite, nous ferons le point sur la réforme des retraites, une nouvelle fois renvoyée au prochain gouvernement malgré des signaux financiers légèrement meilleurs. Et enfin, un rapport de l'OCDE place le Maroc parmi les pays où l'impôt sur les sociétés pèse le plus lourd au monde.</description>
