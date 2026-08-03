@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 02 Aug 2026 06:03:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:03:39 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 03/08/2026 : Crise de Sebta, records en bourse et montée en gamme électrique</title>
+      <description>Au programme ce matin : la crise migratoire autour de Sebta, qui révèle une détresse sociale profonde et soulève de vraies questions économiques. Ensuite, une bonne nouvelle pour les marchés financiers marocains, qui ont battu des records en 2025 grâce à l'engouement des épargnants. Et enfin, comment le Maroc monte en gamme dans l'industrie du véhicule électrique, bien au-delà du simple assemblage.</description>
+      <itunes:summary>Au programme ce matin : la crise migratoire autour de Sebta, qui révèle une détresse sociale profonde et soulève de vraies questions économiques. Ensuite, une bonne nouvelle pour les marchés financiers marocains, qui ont battu des records en 2025 grâce à l'engouement des épargnants. Et enfin, comment le Maroc monte en gamme dans l'industrie du véhicule électrique, bien au-delà du simple assemblage.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-03.mp3" length="4681914" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-03</guid>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>292</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 02/08/2026 : Carburants stables, profits sans emplois et assurances au sommet</title>
       <description>Au programme aujourd'hui : une hausse des prix des carburants attendue depuis plusieurs jours qui ne s'est finalement pas produite, et ce pour des raisons encore floues. Ensuite, nous nous pencherons sur un paradoxe qui interroge : les entreprises marocaines font davantage de bénéfices, mais investissent et créent peu d'emplois. Et enfin, bonne nouvelle pour le secteur des assurances, qui affiche des résultats historiques en 2025 et se prépare à une réforme réglementaire de fond.</description>
