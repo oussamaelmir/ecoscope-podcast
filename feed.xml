@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 03 Aug 2026 06:03:39 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:03:41 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 04/08/2026 : Carburant en hausse, chômage en baisse et le barrage Kheng Grou en avance</title>
+      <description>Au programme de cet épisode : une nouvelle hausse d'un dirham à la pompe qui alourdit encore le budget des Marocains, les derniers chiffres du marché du travail publiés par le HCP qui révèlent une réalité contrastée, et enfin une bonne nouvelle pour la sécurité hydrique du pays avec le barrage géant Kheng Grou, dont la mise en eau est avancée à décembre prochain.</description>
+      <itunes:summary>Au programme de cet épisode : une nouvelle hausse d'un dirham à la pompe qui alourdit encore le budget des Marocains, les derniers chiffres du marché du travail publiés par le HCP qui révèlent une réalité contrastée, et enfin une bonne nouvelle pour la sécurité hydrique du pays avec le barrage géant Kheng Grou, dont la mise en eau est avancée à décembre prochain.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-04.mp3" length="4965729" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>310</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 03/08/2026 : Crise de Sebta, records en bourse et montée en gamme électrique</title>
       <description>Au programme ce matin : la crise migratoire autour de Sebta, qui révèle une détresse sociale profonde et soulève de vraies questions économiques. Ensuite, une bonne nouvelle pour les marchés financiers marocains, qui ont battu des records en 2025 grâce à l'engouement des épargnants. Et enfin, comment le Maroc monte en gamme dans l'industrie du véhicule électrique, bien au-delà du simple assemblage.</description>
