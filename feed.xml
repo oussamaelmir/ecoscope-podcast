@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 04 Aug 2026 06:03:41 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:04:06 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 21/08/2026 : Déficit budgétaire en recul, OCP et engrais européens, importations turques en hausse</title>
+      <description>Au programme ce matin : une bonne nouvelle pour les finances publiques, avec un déficit budgétaire qui recule malgré des dépenses en forte hausse. Ensuite, nous verrons comment les tensions mondiales sur le marché des engrais profitent au Maroc et renforcent le rôle stratégique de l'OCP en Europe. Et enfin, un coup d'œil sur la montée en puissance des importations turques, qui posent des questions sur la compétitivité de notre industrie locale.</description>
+      <itunes:summary>Au programme ce matin : une bonne nouvelle pour les finances publiques, avec un déficit budgétaire qui recule malgré des dépenses en forte hausse. Ensuite, nous verrons comment les tensions mondiales sur le marché des engrais profitent au Maroc et renforcent le rôle stratégique de l'OCP en Europe. Et enfin, un coup d'œil sur la montée en puissance des importations turques, qui posent des questions sur la compétitivité de notre industrie locale.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-21.mp3" length="4767230" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 04/08/2026 : Carburant en hausse, chômage en baisse et le barrage Kheng Grou en avance</title>
       <description>Au programme de cet épisode : une nouvelle hausse d'un dirham à la pompe qui alourdit encore le budget des Marocains, les derniers chiffres du marché du travail publiés par le HCP qui révèlent une réalité contrastée, et enfin une bonne nouvelle pour la sécurité hydrique du pays avec le barrage géant Kheng Grou, dont la mise en eau est avancée à décembre prochain.</description>
