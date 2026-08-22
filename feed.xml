@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Aug 2026 06:04:06 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:04:04 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 22/08/2026 : Équipementier chinois au Maroc, Maersk mise sur le rail, et cuivre dans le Haut Atlas</title>
+      <description>Au programme ce matin : un fabricant chinois de composants automobiles choisit le Maroc pour sa toute première usine en dehors de l'Asie, un signal fort pour notre industrie. Ensuite, le géant du transport maritime Maersk s'appuie désormais sur le rail pour relier Tanger Med à Casablanca. Et enfin, des découvertes minières spectaculaires dans le Haut Atlas occidental relancent l'exploration cuprifère au Maroc.</description>
+      <itunes:summary>Au programme ce matin : un fabricant chinois de composants automobiles choisit le Maroc pour sa toute première usine en dehors de l'Asie, un signal fort pour notre industrie. Ensuite, le géant du transport maritime Maersk s'appuie désormais sur le rail pour relier Tanger Med à Casablanca. Et enfin, des découvertes minières spectaculaires dans le Haut Atlas occidental relancent l'exploration cuprifère au Maroc.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-22.mp3" length="4883837" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>305</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 21/08/2026 : Déficit budgétaire en recul, OCP et engrais européens, importations turques en hausse</title>
       <description>Au programme ce matin : une bonne nouvelle pour les finances publiques, avec un déficit budgétaire qui recule malgré des dépenses en forte hausse. Ensuite, nous verrons comment les tensions mondiales sur le marché des engrais profitent au Maroc et renforcent le rôle stratégique de l'OCP en Europe. Et enfin, un coup d'œil sur la montée en puissance des importations turques, qui posent des questions sur la compétitivité de notre industrie locale.</description>
