@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 22 Aug 2026 06:04:04 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:03:21 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 23/08/2026 : Loi bancaire, énergie verte et hub commercial africain</title>
+      <description>Au programme : une réforme majeure qui renforce les outils de Bank Al-Maghrib face aux crises bancaires. Ensuite, l'énergie renouvelable s'ouvre davantage aux producteurs privés grâce à un nouveau cadre réglementaire. Et enfin, un rapport international confirme que le Maroc s'impose comme l'un des grands hubs commerciaux du continent africain.</description>
+      <itunes:summary>Au programme : une réforme majeure qui renforce les outils de Bank Al-Maghrib face aux crises bancaires. Ensuite, l'énergie renouvelable s'ouvre davantage aux producteurs privés grâce à un nouveau cadre réglementaire. Et enfin, un rapport international confirme que le Maroc s'impose comme l'un des grands hubs commerciaux du continent africain.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-23.mp3" length="4616285" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>288</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 22/08/2026 : Équipementier chinois au Maroc, Maersk mise sur le rail, et cuivre dans le Haut Atlas</title>
       <description>Au programme ce matin : un fabricant chinois de composants automobiles choisit le Maroc pour sa toute première usine en dehors de l'Asie, un signal fort pour notre industrie. Ensuite, le géant du transport maritime Maersk s'appuie désormais sur le rail pour relier Tanger Med à Casablanca. Et enfin, des découvertes minières spectaculaires dans le Haut Atlas occidental relancent l'exploration cuprifère au Maroc.</description>
