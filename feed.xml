@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 06:03:12 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:03:08 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 25/08/2026 : Maroc-Inde, CIMR dans le minier, et retour des importations de blé tendre</title>
+      <description>Au programme aujourd'hui : le Maroc et l'Inde scellent un nouveau partenariat ambitieux pour doubler leurs échanges en cinq ans. Ensuite, un fonds de retraite marocain entre dans la gouvernance d'une entreprise minière cotée en Bourse, un signal fort pour les investisseurs institutionnels. Et enfin, le Maroc rouvre ses importations de blé tendre dès la mi-septembre, face à une récolte nationale décevante.</description>
+      <itunes:summary>Au programme aujourd'hui : le Maroc et l'Inde scellent un nouveau partenariat ambitieux pour doubler leurs échanges en cinq ans. Ensuite, un fonds de retraite marocain entre dans la gouvernance d'une entreprise minière cotée en Bourse, un signal fort pour les investisseurs institutionnels. Et enfin, le Maroc rouvre ses importations de blé tendre dès la mi-septembre, face à une récolte nationale décevante.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-25.mp3" length="4736689" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>295</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 24/08/2026 : Sanlian à Tanger, échanges Maroc-Allemagne et taxonomie verte</title>
       <description>Au programme ce matin : un nouveau groupe chinois pose ses valises à Tanger et renforce l'écosystème automobile du Royaume. Ensuite, les échanges entre le Maroc et l'Allemagne franchissent un nouveau cap, portés par l'industrie automobile. Et enfin, les exportateurs marocains prennent position sur la taxonomie verte et veulent en faire un atout plutôt qu'un obstacle.</description>
