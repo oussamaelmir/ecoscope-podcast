@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 06:03:08 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:03:34 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 26/08/2026 : Maroc-Espagne, Stellantis à Kénitra et le RER de Casablanca</title>
+      <description>Au programme aujourd'hui : les échanges entre le Maroc et l'Espagne ont franchi un cap impressionnant en 2025, confirmant la solidité d'un partenariat stratégique. Ensuite, l'usine Stellantis de Kénitra s'apprête à produire deux nouveaux modèles Fiat, renforçant encore le rôle du Maroc comme hub automobile africain. Et enfin, le futur RER de Casablanca avance : deux marchés de construction de gares viennent d'être attribués pour près de cinq cents millions de dirhams.</description>
+      <itunes:summary>Au programme aujourd'hui : les échanges entre le Maroc et l'Espagne ont franchi un cap impressionnant en 2025, confirmant la solidité d'un partenariat stratégique. Ensuite, l'usine Stellantis de Kénitra s'apprête à produire deux nouveaux modèles Fiat, renforçant encore le rôle du Maroc comme hub automobile africain. Et enfin, le futur RER de Casablanca avance : deux marchés de construction de gares viennent d'être attribués pour près de cinq cents millions de dirhams.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-26.mp3" length="4792674" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>299</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 25/08/2026 : Maroc-Inde, CIMR dans le minier, et retour des importations de blé tendre</title>
       <description>Au programme aujourd'hui : le Maroc et l'Inde scellent un nouveau partenariat ambitieux pour doubler leurs échanges en cinq ans. Ensuite, un fonds de retraite marocain entre dans la gouvernance d'une entreprise minière cotée en Bourse, un signal fort pour les investisseurs institutionnels. Et enfin, le Maroc rouvre ses importations de blé tendre dès la mi-septembre, face à une récolte nationale décevante.</description>
