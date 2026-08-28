@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 27 Aug 2026 06:03:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:03:51 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 28/08/2026 : Centres d'appels sous pression, Trésor en difficulté et phosphate pour batteries électriques</title>
+      <description>Au programme aujourd'hui : les premières fermetures de centres d'appels au Maroc après la nouvelle réglementation française, et leurs conséquences humaines très concrètes. Ensuite, le marché obligataire qui marque le pas, laissant le Trésor dans l'attente. Et enfin, une opportunité stratégique que le Maroc pourrait saisir dans la chaîne des batteries électriques, grâce à son phosphate.</description>
+      <itunes:summary>Au programme aujourd'hui : les premières fermetures de centres d'appels au Maroc après la nouvelle réglementation française, et leurs conséquences humaines très concrètes. Ensuite, le marché obligataire qui marque le pas, laissant le Trésor dans l'attente. Et enfin, une opportunité stratégique que le Maroc pourrait saisir dans la chaîne des batteries électriques, grâce à son phosphate.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-28.mp3" length="5058562" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>316</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 27/08/2026 : OCP aux États-Unis, chômage des jeunes en Afrique du Nord et crédit bancaire productif</title>
       <description>Au programme aujourd'hui : OCP frappe fort aux États-Unis avec un investissement colossal dans une usine d'engrais en Louisiane. Nous ferons ensuite le point sur un rapport de l'OIT qui tire la sonnette d'alarme sur le chômage des jeunes en Afrique du Nord, une réalité qui interpelle directement le Maroc. Et enfin, nous regarderons ce que nous dit la structure du crédit bancaire sur la santé et l'orientation de l'économie marocaine.</description>
