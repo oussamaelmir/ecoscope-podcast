@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 29 Aug 2026 06:03:13 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:03:49 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 30/08/2026 : Déficit commercial en hausse, fonds IFC-EOS pour les créances douteuses et exportations marocaines en forme</title>
+      <description>Au programme aujourd'hui : le déficit commercial du Maroc a fortement progressé au premier semestre, un signal macro-économique à décrypter. Nous verrons aussi comment un fonds international pourrait transformer la gestion des créances douteuses dans les banques marocaines. Et enfin, bonne nouvelle du côté des exportations : le textile et les légumes sous serre confirment la montée en puissance du Maroc sur les marchés européens.</description>
+      <itunes:summary>Au programme aujourd'hui : le déficit commercial du Maroc a fortement progressé au premier semestre, un signal macro-économique à décrypter. Nous verrons aussi comment un fonds international pourrait transformer la gestion des créances douteuses dans les banques marocaines. Et enfin, bonne nouvelle du côté des exportations : le textile et les légumes sous serre confirment la montée en puissance du Maroc sur les marchés européens.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-30.mp3" length="5283872" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>330</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 29/08/2026 : Fiscalité des multinationales, patrimoine des ménages et boom du trafic aérien</title>
       <description>Au programme ce matin : le Maroc resserre son filet fiscal autour des multinationales grâce à une toute nouvelle loi sur la transparence des bénéfices. Ensuite, un paradoxe saisissant révélé par les chiffres officiels : les ménages marocains sont plus riches sur le papier, mais se sentent plus pauvres dans leur quotidien. Et enfin, une bonne nouvelle pour le tourisme et la connectivité du Royaume : les aéroports marocains ont franchi le cap des vingt-deux millions de passagers en seulement sept mois.</description>
