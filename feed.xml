@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 30 Aug 2026 06:03:49 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:03:36 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 31/08/2026 : TVA Apple, investissements américains et viande ovine</title>
+      <description>Au programme aujourd'hui : Apple intègre la TVA marocaine de vingt pour cent sur l'App Store, avec des répercussions dès le 14 septembre sur les prix des applications. Ensuite, les États-Unis placent le Maroc au cœur de leur stratégie d'approvisionnement en ressources stratégiques. Et enfin, la viande ovine reste obstinément au-dessus de cent cinquante dirhams le kilogramme, malgré la reprise des importations depuis l'Espagne.</description>
+      <itunes:summary>Au programme aujourd'hui : Apple intègre la TVA marocaine de vingt pour cent sur l'App Store, avec des répercussions dès le 14 septembre sur les prix des applications. Ensuite, les États-Unis placent le Maroc au cœur de leur stratégie d'approvisionnement en ressources stratégiques. Et enfin, la viande ovine reste obstinément au-dessus de cent cinquante dirhams le kilogramme, malgré la reprise des importations depuis l'Espagne.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-31.mp3" length="5034654" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>314</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 30/08/2026 : Déficit commercial en hausse, fonds IFC-EOS pour les créances douteuses et exportations marocaines en forme</title>
       <description>Au programme aujourd'hui : le déficit commercial du Maroc a fortement progressé au premier semestre, un signal macro-économique à décrypter. Nous verrons aussi comment un fonds international pourrait transformer la gestion des créances douteuses dans les banques marocaines. Et enfin, bonne nouvelle du côté des exportations : le textile et les légumes sous serre confirment la montée en puissance du Maroc sur les marchés européens.</description>
