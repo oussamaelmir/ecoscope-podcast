@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 01 Sep 2026 06:05:16 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:06:04 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 02/09/2026 : Devises au beau fixe, déficit commercial en hausse et OCP sous pression</title>
+      <description>Au programme aujourd'hui : les trois grandes sources de devises du Maroc affichent toutes des hausses remarquables à fin juillet, un signe de vitalité économique indéniable. Mais attention, le déficit commercial continue lui aussi de se creuser à un rythme soutenu. Et enfin, le groupe OCP publie des résultats en recul pour le premier semestre 2026, dans un contexte mondial particulièrement agité.</description>
+      <itunes:summary>Au programme aujourd'hui : les trois grandes sources de devises du Maroc affichent toutes des hausses remarquables à fin juillet, un signe de vitalité économique indéniable. Mais attention, le déficit commercial continue lui aussi de se creuser à un rythme soutenu. Et enfin, le groupe OCP publie des résultats en recul pour le premier semestre 2026, dans un contexte mondial particulièrement agité.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-02.mp3" length="4658959" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>291</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 01/09/2026 : Crédit en hausse, immobilier en rebond et un géant chinois au Maroc</title>
       <description>Au programme ce matin : le crédit bancaire poursuit son envolée et confirme une dynamique d'investissement solide à fin juillet. Le marché immobilier, lui, surprend par la vigueur de ses volumes de transactions au deuxième trimestre. Et enfin, un groupe chinois spécialisé dans les réseaux électriques pose ses premières valises au Maroc. Trois sujets, trois signaux forts pour l'économie du Royaume.</description>
