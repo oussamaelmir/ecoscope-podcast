@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 02 Sep 2026 06:06:04 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:03:59 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 03/09/2026 : Résultats semestriels, risques Fed et records touristiques</title>
+      <description>Au programme ce matin : une vague de résultats semestriels qui dresse un portrait encourageant de plusieurs grands acteurs marocains, de l'immobilier à la banque en passant par l'acier. Ensuite, nous nous pencherons sur les signaux inquiétants venus de Washington, où la Réserve fédérale américaine agite le spectre d'une hausse des taux, avec des conséquences potentielles bien réelles pour le Maroc. Et enfin, bonne nouvelle pour terminer : le tourisme marocain enchaîne les records cet été, et la saison n'est pas encore terminée.</description>
+      <itunes:summary>Au programme ce matin : une vague de résultats semestriels qui dresse un portrait encourageant de plusieurs grands acteurs marocains, de l'immobilier à la banque en passant par l'acier. Ensuite, nous nous pencherons sur les signaux inquiétants venus de Washington, où la Réserve fédérale américaine agite le spectre d'une hausse des taux, avec des conséquences potentielles bien réelles pour le Maroc. Et enfin, bonne nouvelle pour terminer : le tourisme marocain enchaîne les records cet été, et la saison n'est pas encore terminée.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-03.mp3" length="4767178" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 02/09/2026 : Devises au beau fixe, déficit commercial en hausse et OCP sous pression</title>
       <description>Au programme aujourd'hui : les trois grandes sources de devises du Maroc affichent toutes des hausses remarquables à fin juillet, un signe de vitalité économique indéniable. Mais attention, le déficit commercial continue lui aussi de se creuser à un rythme soutenu. Et enfin, le groupe OCP publie des résultats en recul pour le premier semestre 2026, dans un contexte mondial particulièrement agité.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-20</guid>
       <pubDate>Sat, 20 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>365</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 19/06/2026 : Taux directeur, retraites privées et entreprises familiales</title>
-      <description>Au programme ce matin : Bank Al-Maghrib devrait laisser son taux directeur inchangé lors de son Conseil du 23 juin, une décision très attendue par les ménages et les entreprises. Ensuite, la Caisse de Dépôt et de Gestion ouvre une compétition inédite pour confier quinze milliards de dirhams de retraites publiques à des gestionnaires privés. Et enfin, une première étude nationale révèle une réalité troublante sur les entreprises familiales marocaines : elles font tourner l'économie du pays, mais très peu survivent au-delà d'une génération.</description>
-      <itunes:summary>Au programme ce matin : Bank Al-Maghrib devrait laisser son taux directeur inchangé lors de son Conseil du 23 juin, une décision très attendue par les ménages et les entreprises. Ensuite, la Caisse de Dépôt et de Gestion ouvre une compétition inédite pour confier quinze milliards de dirhams de retraites publiques à des gestionnaires privés. Et enfin, une première étude nationale révèle une réalité troublante sur les entreprises familiales marocaines : elles font tourner l'économie du pays, mais très peu survivent au-delà d'une génération.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-19.mp3" length="5085114" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-19</guid>
-      <pubDate>Fri, 19 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>317</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

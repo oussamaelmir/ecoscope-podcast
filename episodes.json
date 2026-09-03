@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-03",
+    "date": "2026-09-03",
+    "title": "ÉcoScope — 03/09/2026 : Résultats semestriels, risques Fed et records touristiques",
+    "description": "Au programme ce matin : une vague de résultats semestriels qui dresse un portrait encourageant de plusieurs grands acteurs marocains, de l'immobilier à la banque en passant par l'acier. Ensuite, nous nous pencherons sur les signaux inquiétants venus de Washington, où la Réserve fédérale américaine agite le spectre d'une hausse des taux, avec des conséquences potentielles bien réelles pour le Maroc. Et enfin, bonne nouvelle pour terminer : le tourisme marocain enchaîne les records cet été, et la saison n'est pas encore terminée.",
+    "filename": "ecoscope-2026-09-03.mp3",
+    "bytes": 4767178,
+    "duration": 297
+  },
+  {
     "guid": "ecoscope-2026-09-02",
     "date": "2026-09-02",
     "title": "ÉcoScope — 02/09/2026 : Devises au beau fixe, déficit commercial en hausse et OCP sous pression",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-06-20.mp3",
     "bytes": 5843903,
     "duration": 365
-  },
-  {
-    "guid": "ecoscope-2026-06-19",
-    "date": "2026-06-19",
-    "title": "ÉcoScope — 19/06/2026 : Taux directeur, retraites privées et entreprises familiales",
-    "description": "Au programme ce matin : Bank Al-Maghrib devrait laisser son taux directeur inchangé lors de son Conseil du 23 juin, une décision très attendue par les ménages et les entreprises. Ensuite, la Caisse de Dépôt et de Gestion ouvre une compétition inédite pour confier quinze milliards de dirhams de retraites publiques à des gestionnaires privés. Et enfin, une première étude nationale révèle une réalité troublante sur les entreprises familiales marocaines : elles font tourner l'économie du pays, mais très peu survivent au-delà d'une génération.",
-    "filename": "ecoscope-2026-06-19.mp3",
-    "bytes": 5085114,
-    "duration": 317
   }
 ]
