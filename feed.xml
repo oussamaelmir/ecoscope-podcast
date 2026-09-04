@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 03 Sep 2026 06:03:59 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:04:06 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 04/09/2026 : Nador West Med lève 2,2 milliards, PLF 2027 et flambée du pétrole</title>
+      <description>Au programme ce matin : Nador West Med boucle une levée de fonds colossale de deux virgule deux milliards de dirhams pour accélérer le développement du complexe industrialo-portuaire de l'Oriental. Ensuite, cap sur le projet de loi de finances 2027, qui dessine une nouvelle philosophie fiscale pour l'État marocain. Et enfin, les frappes américaines en Iran font flamber le pétrole et le gaz à des niveaux inédits depuis des mois, avec des conséquences directes pour le Maroc.</description>
+      <itunes:summary>Au programme ce matin : Nador West Med boucle une levée de fonds colossale de deux virgule deux milliards de dirhams pour accélérer le développement du complexe industrialo-portuaire de l'Oriental. Ensuite, cap sur le projet de loi de finances 2027, qui dessine une nouvelle philosophie fiscale pour l'État marocain. Et enfin, les frappes américaines en Iran font flamber le pétrole et le gaz à des niveaux inédits depuis des mois, avec des conséquences directes pour le Maroc.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-04.mp3" length="4995404" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>312</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 03/09/2026 : Résultats semestriels, risques Fed et records touristiques</title>
       <description>Au programme ce matin : une vague de résultats semestriels qui dresse un portrait encourageant de plusieurs grands acteurs marocains, de l'immobilier à la banque en passant par l'acier. Ensuite, nous nous pencherons sur les signaux inquiétants venus de Washington, où la Réserve fédérale américaine agite le spectre d'une hausse des taux, avec des conséquences potentielles bien réelles pour le Maroc. Et enfin, bonne nouvelle pour terminer : le tourisme marocain enchaîne les records cet été, et la saison n'est pas encore terminée.</description>
@@ -672,17 +683,6 @@
       <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-21.mp3" length="5849268" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-06-21</guid>
       <pubDate>Sun, 21 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>365</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 20/06/2026 : Méga-centre de déchets à Casablanca, RER marocain avec la Corée du Sud, et sécurité hydrique</title>
-      <description>On commence par un projet historique à Casablanca : un méga-centre de valorisation des déchets à plus de onze milliards de dirhams, qui transformera les ordures en électricité dès cet automne. On enchaîne avec le futur réseau RER marocain, dont l'ONCF vient de confier la réalisation à deux géants ferroviaires sud-coréens. Et on termine par l'eau, avec une double actualité qui illustre les tensions hydriques du pays : une bonne nouvelle pour Marrakech, mais des nappes phréatiques qui peinent encore à se reconstituer.</description>
-      <itunes:summary>On commence par un projet historique à Casablanca : un méga-centre de valorisation des déchets à plus de onze milliards de dirhams, qui transformera les ordures en électricité dès cet automne. On enchaîne avec le futur réseau RER marocain, dont l'ONCF vient de confier la réalisation à deux géants ferroviaires sud-coréens. Et on termine par l'eau, avec une double actualité qui illustre les tensions hydriques du pays : une bonne nouvelle pour Marrakech, mais des nappes phréatiques qui peinent encore à se reconstituer.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-20.mp3" length="5843903" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-20</guid>
-      <pubDate>Sat, 20 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>365</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
