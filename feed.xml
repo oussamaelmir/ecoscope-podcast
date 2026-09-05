@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 04 Sep 2026 06:04:06 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 06:03:30 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 05/09/2026 : AMO à 25 millions de bénéficiaires, recettes fiscales locales en hausse et bonne santé des sociétés cotées</title>
+      <description>Au programme ce matin : la CNSS publie des chiffres records sur la couverture médicale obligatoire et la masse salariale déclarée en 2025. Ensuite, les recettes fiscales des collectivités territoriales bondissent de plus de 17 pour cent à fin juillet 2026. Et enfin, les sociétés cotées en bourse affichent un chiffre d'affaires en hausse de 11 pour cent au premier semestre. Trois sujets qui dessinent l'état de santé de l'économie marocaine.</description>
+      <itunes:summary>Au programme ce matin : la CNSS publie des chiffres records sur la couverture médicale obligatoire et la masse salariale déclarée en 2025. Ensuite, les recettes fiscales des collectivités territoriales bondissent de plus de 17 pour cent à fin juillet 2026. Et enfin, les sociétés cotées en bourse affichent un chiffre d'affaires en hausse de 11 pour cent au premier semestre. Trois sujets qui dessinent l'état de santé de l'économie marocaine.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-05.mp3" length="4834150" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>302</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 04/09/2026 : Nador West Med lève 2,2 milliards, PLF 2027 et flambée du pétrole</title>
       <description>Au programme ce matin : Nador West Med boucle une levée de fonds colossale de deux virgule deux milliards de dirhams pour accélérer le développement du complexe industrialo-portuaire de l'Oriental. Ensuite, cap sur le projet de loi de finances 2027, qui dessine une nouvelle philosophie fiscale pour l'État marocain. Et enfin, les frappes américaines en Iran font flamber le pétrole et le gaz à des niveaux inédits depuis des mois, avec des conséquences directes pour le Maroc.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-22</guid>
       <pubDate>Mon, 22 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>372</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 21/06/2026 : OCDE, Royal Air Maroc et droits des PME face aux banques</title>
-      <description>Au programme ce matin : le Maroc confirme son statut d'exception africaine sur la voie d'une adhésion à l'OCDE, un objectif ambitieux à l'horizon 2040. Ensuite, une bonne nouvelle pour Royal Air Maroc, qui voit enfin se desserrer l'étau des coûts du kérosène. Et enfin, Bank Al-Maghrib rappelle aux entreprises marocaines leurs droits trop souvent méconnus face aux banques lorsqu'elles cherchent à se financer.</description>
-      <itunes:summary>Au programme ce matin : le Maroc confirme son statut d'exception africaine sur la voie d'une adhésion à l'OCDE, un objectif ambitieux à l'horizon 2040. Ensuite, une bonne nouvelle pour Royal Air Maroc, qui voit enfin se desserrer l'étau des coûts du kérosène. Et enfin, Bank Al-Maghrib rappelle aux entreprises marocaines leurs droits trop souvent méconnus face aux banques lorsqu'elles cherchent à se financer.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-21.mp3" length="5849268" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-21</guid>
-      <pubDate>Sun, 21 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>365</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

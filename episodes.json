@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-05",
+    "date": "2026-09-05",
+    "title": "ÉcoScope — 05/09/2026 : AMO à 25 millions de bénéficiaires, recettes fiscales locales en hausse et bonne santé des sociétés cotées",
+    "description": "Au programme ce matin : la CNSS publie des chiffres records sur la couverture médicale obligatoire et la masse salariale déclarée en 2025. Ensuite, les recettes fiscales des collectivités territoriales bondissent de plus de 17 pour cent à fin juillet 2026. Et enfin, les sociétés cotées en bourse affichent un chiffre d'affaires en hausse de 11 pour cent au premier semestre. Trois sujets qui dessinent l'état de santé de l'économie marocaine.",
+    "filename": "ecoscope-2026-09-05.mp3",
+    "bytes": 4834150,
+    "duration": 302
+  },
+  {
     "guid": "ecoscope-2026-09-04",
     "date": "2026-09-04",
     "title": "ÉcoScope — 04/09/2026 : Nador West Med lève 2,2 milliards, PLF 2027 et flambée du pétrole",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-06-22.mp3",
     "bytes": 5958400,
     "duration": 372
-  },
-  {
-    "guid": "ecoscope-2026-06-21",
-    "date": "2026-06-21",
-    "title": "ÉcoScope — 21/06/2026 : OCDE, Royal Air Maroc et droits des PME face aux banques",
-    "description": "Au programme ce matin : le Maroc confirme son statut d'exception africaine sur la voie d'une adhésion à l'OCDE, un objectif ambitieux à l'horizon 2040. Ensuite, une bonne nouvelle pour Royal Air Maroc, qui voit enfin se desserrer l'étau des coûts du kérosène. Et enfin, Bank Al-Maghrib rappelle aux entreprises marocaines leurs droits trop souvent méconnus face aux banques lorsqu'elles cherchent à se financer.",
-    "filename": "ecoscope-2026-06-21.mp3",
-    "bytes": 5849268,
-    "duration": 365
   }
 ]
