@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 05 Sep 2026 06:03:30 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 06:03:59 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 06/09/2026 : Maroc 1er en Afrique pour les investissements, textile sous pression européenne, accord Maroc-Italie</title>
+      <description>Au programme aujourd'hui : le Maroc décroche la première place en Afrique dans un classement mondial sur la liberté des investissements, une reconnaissance historique. Ensuite, l'industrie textile marocaine se prépare à une révolution réglementaire imposée par l'Europe. Et enfin, un accord concret vient de rapprocher les milieux d'affaires marocains et italiens, avec des retombées attendues aussi bien pour les entreprises que pour la diaspora marocaine en Italie.</description>
+      <itunes:summary>Au programme aujourd'hui : le Maroc décroche la première place en Afrique dans un classement mondial sur la liberté des investissements, une reconnaissance historique. Ensuite, l'industrie textile marocaine se prépare à une révolution réglementaire imposée par l'Europe. Et enfin, un accord concret vient de rapprocher les milieux d'affaires marocains et italiens, avec des retombées attendues aussi bien pour les entreprises que pour la diaspora marocaine en Italie.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-06.mp3" length="5146357" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>321</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 05/09/2026 : AMO à 25 millions de bénéficiaires, recettes fiscales locales en hausse et bonne santé des sociétés cotées</title>
       <description>Au programme ce matin : la CNSS publie des chiffres records sur la couverture médicale obligatoire et la masse salariale déclarée en 2025. Ensuite, les recettes fiscales des collectivités territoriales bondissent de plus de 17 pour cent à fin juillet 2026. Et enfin, les sociétés cotées en bourse affichent un chiffre d'affaires en hausse de 11 pour cent au premier semestre. Trois sujets qui dessinent l'état de santé de l'économie marocaine.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-23</guid>
       <pubDate>Tue, 23 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>354</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 22/06/2026 : Taux directeur en suspens, le Japon chez OCP, et les PME face au plafond de verre</title>
-      <description>Au programme ce matin : à la veille d'une décision cruciale de Bank Al-Maghrib, tout indique que le taux directeur restera inchangé à deux virgule vingt-cinq pour cent. Ensuite, le Japon s'est déplacé en personne à Jorf Lasfar pour sécuriser ses approvisionnements en phosphates auprès d'OCP, signe que le Maroc est devenu un partenaire incontournable dans un marché des engrais sous haute tension. Et enfin, une étude de Bank Al-Maghrib lève le voile sur les freins structurels qui empêchent nos PME de changer de dimension.</description>
-      <itunes:summary>Au programme ce matin : à la veille d'une décision cruciale de Bank Al-Maghrib, tout indique que le taux directeur restera inchangé à deux virgule vingt-cinq pour cent. Ensuite, le Japon s'est déplacé en personne à Jorf Lasfar pour sécuriser ses approvisionnements en phosphates auprès d'OCP, signe que le Maroc est devenu un partenaire incontournable dans un marché des engrais sous haute tension. Et enfin, une étude de Bank Al-Maghrib lève le voile sur les freins structurels qui empêchent nos PME de changer de dimension.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-22.mp3" length="5958400" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-22</guid>
-      <pubDate>Mon, 22 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>372</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
