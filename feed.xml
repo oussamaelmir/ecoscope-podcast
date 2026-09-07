@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 06 Sep 2026 06:03:59 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:03:44 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 07/09/2026 : Dirham sous pression, filière sardinière en alerte et assurance à deux vitesses</title>
+      <description>Au programme de cet épisode : le dirham a encore reculé face au dollar et à l'euro, une tendance qui pèse sur le pouvoir d'achat et le coût des importations. La filière sardinière marocaine fait face à un double choc climatique et économique qui menace notre position de premier exportateur mondial. Et le marché de l'assurance affiche une croissance de façade qui cache en réalité des dynamiques très contrastées. Entrons dans le vif du sujet.</description>
+      <itunes:summary>Au programme de cet épisode : le dirham a encore reculé face au dollar et à l'euro, une tendance qui pèse sur le pouvoir d'achat et le coût des importations. La filière sardinière marocaine fait face à un double choc climatique et économique qui menace notre position de premier exportateur mondial. Et le marché de l'assurance affiche une croissance de façade qui cache en réalité des dynamiques très contrastées. Entrons dans le vif du sujet.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-07.mp3" length="4945689" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>309</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 06/09/2026 : Maroc 1er en Afrique pour les investissements, textile sous pression européenne, accord Maroc-Italie</title>
       <description>Au programme aujourd'hui : le Maroc décroche la première place en Afrique dans un classement mondial sur la liberté des investissements, une reconnaissance historique. Ensuite, l'industrie textile marocaine se prépare à une révolution réglementaire imposée par l'Europe. Et enfin, un accord concret vient de rapprocher les milieux d'affaires marocains et italiens, avec des retombées attendues aussi bien pour les entreprises que pour la diaspora marocaine en Italie.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-24</guid>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>374</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 23/06/2026 : Inflation en légère baisse, réforme portuaire et vide juridique sur le gaz</title>
-      <description>Au programme ce matin : l'inflation ralentit à 1,2 pour cent en mai, un répit pour les ménages, mais pas une victoire totale. Ensuite, les ports du Maroc s'apprêtent à changer de statut juridique, une réforme structurelle votée par les représentants. Et enfin, le Maroc avance sur ses projets gaziers, mais sans cadre légal, et cela inquiète les investisseurs.</description>
-      <itunes:summary>Au programme ce matin : l'inflation ralentit à 1,2 pour cent en mai, un répit pour les ménages, mais pas une victoire totale. Ensuite, les ports du Maroc s'apprêtent à changer de statut juridique, une réforme structurelle votée par les représentants. Et enfin, le Maroc avance sur ses projets gaziers, mais sans cadre légal, et cela inquiète les investisseurs.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-23.mp3" length="5676681" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-23</guid>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>354</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
