@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 07 Sep 2026 06:03:44 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:04:17 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 08/09/2026 : Akhannouch à l'OCDE, boom des créations d'entreprises et Akdital s'installe à Riyad</title>
+      <description>Au programme de cet épisode : le chef du gouvernement Aziz Akhannouch défend le bilan économique du Maroc devant l'OCDE à Paris, avec une croissance de quatre virgule neuf pour cent en 2025 à la clé. Ensuite, les chiffres de la création d'entreprises pour le premier semestre 2026 confirment un tissu entrepreneurial en pleine expansion. Et pour finir, le groupe hospitalier marocain Akdital franchit une étape historique en ouvrant son premier hôpital à Riyad, en Arabie Saoudite.</description>
+      <itunes:summary>Au programme de cet épisode : le chef du gouvernement Aziz Akhannouch défend le bilan économique du Maroc devant l'OCDE à Paris, avec une croissance de quatre virgule neuf pour cent en 2025 à la clé. Ensuite, les chiffres de la création d'entreprises pour le premier semestre 2026 confirment un tissu entrepreneurial en pleine expansion. Et pour finir, le groupe hospitalier marocain Akdital franchit une étape historique en ouvrant son premier hôpital à Riyad, en Arabie Saoudite.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-08.mp3" length="4924799" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>307</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 07/09/2026 : Dirham sous pression, filière sardinière en alerte et assurance à deux vitesses</title>
       <description>Au programme de cet épisode : le dirham a encore reculé face au dollar et à l'euro, une tendance qui pèse sur le pouvoir d'achat et le coût des importations. La filière sardinière marocaine fait face à un double choc climatique et économique qui menace notre position de premier exportateur mondial. Et le marché de l'assurance affiche une croissance de façade qui cache en réalité des dynamiques très contrastées. Entrons dans le vif du sujet.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-25</guid>
       <pubDate>Thu, 25 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>363</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 24/06/2026 : Croissance à 5,2%, ONHYM-SA et IA dans les entreprises</title>
-      <description>Au programme ce matin : Bank Al-Maghrib confirme une croissance soutenue à cinq virgule deux pour cent pour cette année, mais le gouverneur Jouahri lance un appel clair à l'investissement privé. Ensuite, l'ONHYM change de statut et devient société anonyme, une transformation discrète mais aux conséquences très concrètes pour les ambitions énergétiques du Maroc. Et enfin, une enquête révèle que l'intelligence artificielle commence à peser sur l'emploi dans les entreprises marocaines : dix pour cent d'entre elles envisagent déjà des licenciements.</description>
-      <itunes:summary>Au programme ce matin : Bank Al-Maghrib confirme une croissance soutenue à cinq virgule deux pour cent pour cette année, mais le gouverneur Jouahri lance un appel clair à l'investissement privé. Ensuite, l'ONHYM change de statut et devient société anonyme, une transformation discrète mais aux conséquences très concrètes pour les ambitions énergétiques du Maroc. Et enfin, une enquête révèle que l'intelligence artificielle commence à peser sur l'emploi dans les entreprises marocaines : dix pour cent d'entre elles envisagent déjà des licenciements.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-24.mp3" length="5993042" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-24</guid>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>374</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
