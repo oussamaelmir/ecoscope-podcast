@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 08 Sep 2026 06:04:17 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:03:52 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 09/09/2026 : Programme social RNI, Jouahri distingué mondialement, grève des transporteurs</title>
+      <description>Au programme aujourd'hui : le RNI dévoile un plan social colossal de deux cent vingt-quatre milliards de dirhams à l'horizon 2031. Abdellatif Jouahri, le gouverneur de Bank Al-Maghrib, entre dans le palmarès des vingt-cinq meilleurs banquiers centraux du monde. Et les professionnels du transport routier de marchandises menacent de paralyser leur secteur dès le 14 septembre. Trois sujets qui touchent directement au quotidien des Marocains.</description>
+      <itunes:summary>Au programme aujourd'hui : le RNI dévoile un plan social colossal de deux cent vingt-quatre milliards de dirhams à l'horizon 2031. Abdellatif Jouahri, le gouverneur de Bank Al-Maghrib, entre dans le palmarès des vingt-cinq meilleurs banquiers centraux du monde. Et les professionnels du transport routier de marchandises menacent de paralyser leur secteur dès le 14 septembre. Trois sujets qui touchent directement au quotidien des Marocains.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-09.mp3" length="4391477" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>274</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 08/09/2026 : Akhannouch à l'OCDE, boom des créations d'entreprises et Akdital s'installe à Riyad</title>
       <description>Au programme de cet épisode : le chef du gouvernement Aziz Akhannouch défend le bilan économique du Maroc devant l'OCDE à Paris, avec une croissance de quatre virgule neuf pour cent en 2025 à la clé. Ensuite, les chiffres de la création d'entreprises pour le premier semestre 2026 confirment un tissu entrepreneurial en pleine expansion. Et pour finir, le groupe hospitalier marocain Akdital franchit une étape historique en ouvrant son premier hôpital à Riyad, en Arabie Saoudite.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-26</guid>
       <pubDate>Fri, 26 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>358</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 25/06/2026 : OCP lève 5 milliards, l'Office des changes surveille les dépenses à l'étranger, et le tourisme s'envole</title>
-      <description>Au programme aujourd'hui : le groupe OCP réalise une opération financière d'envergure avec une émission obligataire de cinq milliards de dirhams. Ensuite, l'Office des changes passe au crible les dépenses en espèces de Marocains à l'étranger, alerté par des partenaires européens. Et enfin, bonne nouvelle pour le tourisme : cinquante-deux nouvelles dessertes aériennes lancées en un semestre, et des recettes en forte hausse.</description>
-      <itunes:summary>Au programme aujourd'hui : le groupe OCP réalise une opération financière d'envergure avec une émission obligataire de cinq milliards de dirhams. Ensuite, l'Office des changes passe au crible les dépenses en espèces de Marocains à l'étranger, alerté par des partenaires européens. Et enfin, bonne nouvelle pour le tourisme : cinquante-deux nouvelles dessertes aériennes lancées en un semestre, et des recettes en forte hausse.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-25.mp3" length="5813412" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-25</guid>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>363</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
