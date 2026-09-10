@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-10",
+    "date": "2026-09-10",
+    "title": "ÉcoScope — 10/09/2026 : Carburants solaires à Tan-Tan, cryptos dans le viseur du GAFI et frais bancaires réduits pour les petits commerçants",
+    "description": "Au programme ce matin : un groupe suisse va produire du carburant renouvelable dans le sud du Maroc, une annonce qui confirme l'ambition énergétique du Royaume. Ensuite, le gendarme mondial de la finance tire la sonnette d'alarme sur l'interdiction des cryptomonnaies au Maroc. Et enfin, Bank Al-Maghrib réduit les frais bancaires pour encourager les petits commerçants à accepter la carte. Trois sujets, trois enjeux concrets pour l'économie marocaine.",
+    "filename": "ecoscope-2026-09-10.mp3",
+    "bytes": 5156834,
+    "duration": 322
+  },
+  {
     "guid": "ecoscope-2026-09-09",
     "date": "2026-09-09",
     "title": "ÉcoScope — 09/09/2026 : Programme social RNI, Jouahri distingué mondialement, grève des transporteurs",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-06-27.mp3",
     "bytes": 5829606,
     "duration": 364
-  },
-  {
-    "guid": "ecoscope-2026-06-26",
-    "date": "2026-06-26",
-    "title": "ÉcoScope — 26/06/2026 : Retour au GMT, verdict Naciri-Bioui et feuille de route de Bank Al-Maghrib",
-    "description": "Au programme aujourd'hui : le Maroc tourne définitivement la page de l'heure GMT+1, une décision très attendue par des millions de citoyens. Ensuite, le verdict historique de l'affaire dite Escobar du Sahara, avec des peines lourdes et un volet financier colossal pour l'État. Et enfin, Bank Al-Maghrib dévoile ses grandes priorités stratégiques pour les mois à venir.",
-    "filename": "ecoscope-2026-06-26.mp3",
-    "bytes": 5739799,
-    "duration": 358
   }
 ]
