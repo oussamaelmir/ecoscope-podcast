@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 10 Sep 2026 06:04:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:04:21 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 11/09/2026 : Nador West Med opérationnel, deux nouvelles ZAI créées, la colère des transporteurs monte</title>
+      <description>Au programme aujourd'hui : le port de Nador West Med franchit une étape historique avec son Terminal Est prêt à accueillir ses premières escales commerciales. Le Conseil de gouvernement donne son feu vert à deux nouvelles Zones d'accélération industrielle. Et les syndicats du transport haussent le ton face à une coupe brutale des subventions, avec une grève annoncée pour le 14 septembre.</description>
+      <itunes:summary>Au programme aujourd'hui : le port de Nador West Med franchit une étape historique avec son Terminal Est prêt à accueillir ses premières escales commerciales. Le Conseil de gouvernement donne son feu vert à deux nouvelles Zones d'accélération industrielle. Et les syndicats du transport haussent le ton face à une coupe brutale des subventions, avec une grève annoncée pour le 14 septembre.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-11.mp3" length="5196074" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>324</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 10/09/2026 : Carburants solaires à Tan-Tan, cryptos dans le viseur du GAFI et frais bancaires réduits pour les petits commerçants</title>
       <description>Au programme ce matin : un groupe suisse va produire du carburant renouvelable dans le sud du Maroc, une annonce qui confirme l'ambition énergétique du Royaume. Ensuite, le gendarme mondial de la finance tire la sonnette d'alarme sur l'interdiction des cryptomonnaies au Maroc. Et enfin, Bank Al-Maghrib réduit les frais bancaires pour encourager les petits commerçants à accepter la carte. Trois sujets, trois enjeux concrets pour l'économie marocaine.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-28</guid>
       <pubDate>Sun, 28 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>365</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 27/06/2026 : Record fiscal, Safran à Nouaceur et crise avicole</title>
-      <description>Au programme ce matin : les impôts rapportent plus que jamais au Maroc, avec un record historique de recettes fiscales en 2025, mais le déficit budgétaire se creuse quand même. Ensuite, le groupe Safran lance une extension majeure de son usine de Nouaceur, un signal fort pour l'industrie aéronautique marocaine. Et enfin, une alerte sérieuse dans la filière avicole : les éleveurs de poulets sont au bord du gouffre, écrasés entre des prix de vente en chute libre et des coûts de production qui ne baissent pas.</description>
-      <itunes:summary>Au programme ce matin : les impôts rapportent plus que jamais au Maroc, avec un record historique de recettes fiscales en 2025, mais le déficit budgétaire se creuse quand même. Ensuite, le groupe Safran lance une extension majeure de son usine de Nouaceur, un signal fort pour l'industrie aéronautique marocaine. Et enfin, une alerte sérieuse dans la filière avicole : les éleveurs de poulets sont au bord du gouffre, écrasés entre des prix de vente en chute libre et des coûts de production qui ne baissent pas.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-27.mp3" length="5829606" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-27</guid>
-      <pubDate>Sat, 27 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>364</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
