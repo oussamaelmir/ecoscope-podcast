@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 11 Sep 2026 06:04:21 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:04:04 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 12/09/2026 : CGEM, solaire flottant et nouvelles règles immobilières</title>
+      <description>Au programme aujourd'hui : le président de la CGEM, Mehdi Tazi, dévoile les cinq priorités économiques du patronat marocain pour les mois à venir. On parlera aussi d'énergie solaire flottante, avec une étude ambitieuse lancée sur douze barrages du bassin du Sebou. Et enfin, une décision de la Direction générale des impôts qui change les règles du jeu dans l'immobilier : le chèque ordinaire, c'est terminé.</description>
+      <itunes:summary>Au programme aujourd'hui : le président de la CGEM, Mehdi Tazi, dévoile les cinq priorités économiques du patronat marocain pour les mois à venir. On parlera aussi d'énergie solaire flottante, avec une étude ambitieuse lancée sur douze barrages du bassin du Sebou. Et enfin, une décision de la Direction générale des impôts qui change les règles du jeu dans l'immobilier : le chèque ordinaire, c'est terminé.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-12.mp3" length="4616293" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>288</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 11/09/2026 : Nador West Med opérationnel, deux nouvelles ZAI créées, la colère des transporteurs monte</title>
       <description>Au programme aujourd'hui : le port de Nador West Med franchit une étape historique avec son Terminal Est prêt à accueillir ses premières escales commerciales. Le Conseil de gouvernement donne son feu vert à deux nouvelles Zones d'accélération industrielle. Et les syndicats du transport haussent le ton face à une coupe brutale des subventions, avec une grève annoncée pour le 14 septembre.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-29</guid>
       <pubDate>Mon, 29 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>374</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 28/06/2026 : Sila Atlantik, réforme fiscale et alertes sur le textile et l'agriculture</title>
-      <description>Au programme ce matin : le projet d'interconnexion électrique Sila Atlantik franchit une étape décisive vers l'export d'énergie renouvelable marocaine vers l'Allemagne. Ensuite, le FMI salue les progrès de l'administration fiscale marocaine, avec plus de vingt-six virgule cinq millions d'opérations en ligne en 2025. Et enfin, deux signaux d'alarme dans l'économie réelle : le textile marocain perd du terrain en Europe, et les agriculteurs s'interrogent sur la viabilité de leurs exploitations.</description>
-      <itunes:summary>Au programme ce matin : le projet d'interconnexion électrique Sila Atlantik franchit une étape décisive vers l'export d'énergie renouvelable marocaine vers l'Allemagne. Ensuite, le FMI salue les progrès de l'administration fiscale marocaine, avec plus de vingt-six virgule cinq millions d'opérations en ligne en 2025. Et enfin, deux signaux d'alarme dans l'économie réelle : le textile marocain perd du terrain en Europe, et les agriculteurs s'interrogent sur la viabilité de leurs exploitations.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-28.mp3" length="5848466" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-28</guid>
-      <pubDate>Sun, 28 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>365</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
