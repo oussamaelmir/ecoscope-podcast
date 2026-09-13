@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 12 Sep 2026 06:04:04 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:04:02 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 13/09/2026 : PLF 2027, Bourse de Casablanca dans le rouge et Aya Gold &amp; Silver mise sur Boumadine</title>
+      <description>Au programme ce matin : le projet de loi de finances 2027 dévoile ses ambitions de croissance et ses grandes orientations fiscales. Ensuite, la Bourse de Casablanca a terminé la semaine dans le rouge, mais une valeur bancaire tire son épingle du jeu avec un potentiel de hausse très séduisant. Et enfin, le groupe minier Aya Gold and Silver mise sur un nouveau gisement pour doubler sa production d'argent au Maroc.</description>
+      <itunes:summary>Au programme ce matin : le projet de loi de finances 2027 dévoile ses ambitions de croissance et ses grandes orientations fiscales. Ensuite, la Bourse de Casablanca a terminé la semaine dans le rouge, mais une valeur bancaire tire son épingle du jeu avec un potentiel de hausse très séduisant. Et enfin, le groupe minier Aya Gold and Silver mise sur un nouveau gisement pour doubler sa production d'argent au Maroc.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-13.mp3" length="5005893" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>312</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 12/09/2026 : CGEM, solaire flottant et nouvelles règles immobilières</title>
       <description>Au programme aujourd'hui : le président de la CGEM, Mehdi Tazi, dévoile les cinq priorités économiques du patronat marocain pour les mois à venir. On parlera aussi d'énergie solaire flottante, avec une étude ambitieuse lancée sur douze barrages du bassin du Sebou. Et enfin, une décision de la Direction générale des impôts qui change les règles du jeu dans l'immobilier : le chèque ordinaire, c'est terminé.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-06-30</guid>
       <pubDate>Tue, 30 Jun 2026 06:00:00 +0100</pubDate>
       <itunes:duration>341</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 29/06/2026 : CGEM renouvelée, banques sous pression, fraude douanière démantelée</title>
-      <description>Au programme de cet épisode : la CGEM, le patronat marocain, se dote d'une nouvelle gouvernance largement renouvelée avec des implications concrètes pour le dialogue social. Ensuite, nous ferons le point sur le secteur bancaire coté, qui traverse un début d'année difficile mais garde, selon les analystes, de solides fondamentaux. Et enfin, nous révèlerons les détails d'une opération antifraud de grande ampleur, avec un réseau de sept sociétés dans le viseur des douanes et du fisc.</description>
-      <itunes:summary>Au programme de cet épisode : la CGEM, le patronat marocain, se dote d'une nouvelle gouvernance largement renouvelée avec des implications concrètes pour le dialogue social. Ensuite, nous ferons le point sur le secteur bancaire coté, qui traverse un début d'année difficile mais garde, selon les analystes, de solides fondamentaux. Et enfin, nous révèlerons les détails d'une opération antifraud de grande ampleur, avec un réseau de sept sociétés dans le viseur des douanes et du fisc.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-29.mp3" length="5991808" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-29</guid>
-      <pubDate>Mon, 29 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>374</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
