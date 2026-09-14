@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 13 Sep 2026 06:04:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:04:20 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 14/09/2026 : PLF 2027, coût du travail et importations de bétail</title>
+      <description>Au programme aujourd'hui : le rapport préparatoire du budget 2027 dévoile des objectifs ambitieux pour les finances publiques, avec un déficit visé à trois pour cent du PIB. Ensuite, une étude internationale place le Maroc au quinzième rang mondial des pays où il coûte le plus cher d'embaucher. Et enfin, la flambée des prix du cheptel en Europe freine les importations de bétail, avec des conséquences potentielles sur les prix de la viande pour les consommateurs marocains.</description>
+      <itunes:summary>Au programme aujourd'hui : le rapport préparatoire du budget 2027 dévoile des objectifs ambitieux pour les finances publiques, avec un déficit visé à trois pour cent du PIB. Ensuite, une étude internationale place le Maroc au quinzième rang mondial des pays où il coûte le plus cher d'embaucher. Et enfin, la flambée des prix du cheptel en Europe freine les importations de bétail, avec des conséquences potentielles sur les prix de la viande pour les consommateurs marocains.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-14.mp3" length="5318454" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>332</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 13/09/2026 : PLF 2027, Bourse de Casablanca dans le rouge et Aya Gold &amp; Silver mise sur Boumadine</title>
       <description>Au programme ce matin : le projet de loi de finances 2027 dévoile ses ambitions de croissance et ses grandes orientations fiscales. Ensuite, la Bourse de Casablanca a terminé la semaine dans le rouge, mais une valeur bancaire tire son épingle du jeu avec un potentiel de hausse très séduisant. Et enfin, le groupe minier Aya Gold and Silver mise sur un nouveau gisement pour doubler sa production d'argent au Maroc.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-01</guid>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>362</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 30/06/2026 : Oracle s'installe à Agadir, l'offshoring sous pression, et la demande intérieure en hausse</title>
-      <description>Au programme de cet épisode : Oracle inaugure son deuxième hub de recherche et développement au Maroc, cette fois à Agadir, un signal fort pour l'attractivité technologique du pays. Ensuite, l'offshoring marocain fait face à trois chocs simultanés qui menacent l'emploi dans ce secteur clé. Et enfin, bonne nouvelle du côté de la croissance : la demande intérieure a progressé de six virgule cinq pour cent au premier trimestre 2026 selon le Haut-Commissariat au Plan.</description>
-      <itunes:summary>Au programme de cet épisode : Oracle inaugure son deuxième hub de recherche et développement au Maroc, cette fois à Agadir, un signal fort pour l'attractivité technologique du pays. Ensuite, l'offshoring marocain fait face à trois chocs simultanés qui menacent l'emploi dans ce secteur clé. Et enfin, bonne nouvelle du côté de la croissance : la demande intérieure a progressé de six virgule cinq pour cent au premier trimestre 2026 selon le Haut-Commissariat au Plan.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-06-30.mp3" length="5460628" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-06-30</guid>
-      <pubDate>Tue, 30 Jun 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>341</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
