@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-15",
+    "date": "2026-09-15",
+    "title": "ÉcoScope — 15/09/2026 : Déficit budgétaire, stockage d'énergie à Benguerir et menace sur l'automobile marocaine",
+    "description": "Au programme de cet épisode : les finances publiques sous tension, avec un déficit budgétaire qui continue de se creuser à quelques semaines de la présentation du projet de loi de finances 2027. Ensuite, une première historique pour la transition énergétique marocaine, avec la mise en service d'un système de stockage d'énergie par batteries à Benguerir par OCP Green Energy. Et enfin, une menace qui pèse sur l'industrie automobile marocaine, dans le viseur des lobbies industriels européens à Bruxelles.",
+    "filename": "ecoscope-2026-09-15.mp3",
+    "bytes": 5028881,
+    "duration": 314
+  },
+  {
     "guid": "ecoscope-2026-09-14",
     "date": "2026-09-14",
     "title": "ÉcoScope — 14/09/2026 : PLF 2027, coût du travail et importations de bétail",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-02.mp3",
     "bytes": 5583134,
     "duration": 348
-  },
-  {
-    "guid": "ecoscope-2026-07-01",
-    "date": "2026-07-01",
-    "title": "ÉcoScope — 01/07/2026 : Baisse des carburants, bilan boursier mitigé et crise du textile",
-    "description": "Au programme ce matin : une bonne nouvelle pour votre portefeuille, avec une nouvelle baisse des prix des carburants à la pompe dès ce matin. Ensuite, nous ferons le point sur le bilan semestriel de la Bourse de Casablanca, où les valeurs minières ont sauvé un semestre difficile. Et enfin, nous aborderons une alerte sérieuse pour le secteur textile, dont les exportations reculent sous l'effet d'un déficit structurel de main-d'œuvre.",
-    "filename": "ecoscope-2026-07-01.mp3",
-    "bytes": 5797047,
-    "duration": 362
   }
 ]

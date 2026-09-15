@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Sep 2026 06:04:20 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:04:19 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 15/09/2026 : Déficit budgétaire, stockage d'énergie à Benguerir et menace sur l'automobile marocaine</title>
+      <description>Au programme de cet épisode : les finances publiques sous tension, avec un déficit budgétaire qui continue de se creuser à quelques semaines de la présentation du projet de loi de finances 2027. Ensuite, une première historique pour la transition énergétique marocaine, avec la mise en service d'un système de stockage d'énergie par batteries à Benguerir par OCP Green Energy. Et enfin, une menace qui pèse sur l'industrie automobile marocaine, dans le viseur des lobbies industriels européens à Bruxelles.</description>
+      <itunes:summary>Au programme de cet épisode : les finances publiques sous tension, avec un déficit budgétaire qui continue de se creuser à quelques semaines de la présentation du projet de loi de finances 2027. Ensuite, une première historique pour la transition énergétique marocaine, avec la mise en service d'un système de stockage d'énergie par batteries à Benguerir par OCP Green Energy. Et enfin, une menace qui pèse sur l'industrie automobile marocaine, dans le viseur des lobbies industriels européens à Bruxelles.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-15.mp3" length="5028881" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>314</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 14/09/2026 : PLF 2027, coût du travail et importations de bétail</title>
       <description>Au programme aujourd'hui : le rapport préparatoire du budget 2027 dévoile des objectifs ambitieux pour les finances publiques, avec un déficit visé à trois pour cent du PIB. Ensuite, une étude internationale place le Maroc au quinzième rang mondial des pays où il coûte le plus cher d'embaucher. Et enfin, la flambée des prix du cheptel en Europe freine les importations de bétail, avec des conséquences potentielles sur les prix de la viande pour les consommateurs marocains.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-02</guid>
       <pubDate>Thu, 02 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>348</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 01/07/2026 : Baisse des carburants, bilan boursier mitigé et crise du textile</title>
-      <description>Au programme ce matin : une bonne nouvelle pour votre portefeuille, avec une nouvelle baisse des prix des carburants à la pompe dès ce matin. Ensuite, nous ferons le point sur le bilan semestriel de la Bourse de Casablanca, où les valeurs minières ont sauvé un semestre difficile. Et enfin, nous aborderons une alerte sérieuse pour le secteur textile, dont les exportations reculent sous l'effet d'un déficit structurel de main-d'œuvre.</description>
-      <itunes:summary>Au programme ce matin : une bonne nouvelle pour votre portefeuille, avec une nouvelle baisse des prix des carburants à la pompe dès ce matin. Ensuite, nous ferons le point sur le bilan semestriel de la Bourse de Casablanca, où les valeurs minières ont sauvé un semestre difficile. Et enfin, nous aborderons une alerte sérieuse pour le secteur textile, dont les exportations reculent sous l'effet d'un déficit structurel de main-d'œuvre.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-01.mp3" length="5797047" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-01</guid>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>362</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
