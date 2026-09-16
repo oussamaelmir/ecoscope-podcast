@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 06:04:19 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:03:58 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 16/09/2026 : Nador West Med prêt à ouvrir, stock d'eau au plus haut et OPA sur CMT</title>
+      <description>Au programme ce matin : Nador West Med se prépare à ouvrir ses portes commerciales avant la fin de l'année, et ce port pas comme les autres pourrait bien redessiner la carte économique du nord du Maroc. Nous ferons aussi le point sur les réserves en eau des barrages, qui atteignent leur niveau le plus élevé depuis dix ans, une excellente nouvelle à l'approche de la campagne agricole. Et enfin, un mouvement boursier à surveiller : l'AMMC vient de déclarer recevable une offre publique d'achat sur la Compagnie Minière de Touissit.</description>
+      <itunes:summary>Au programme ce matin : Nador West Med se prépare à ouvrir ses portes commerciales avant la fin de l'année, et ce port pas comme les autres pourrait bien redessiner la carte économique du nord du Maroc. Nous ferons aussi le point sur les réserves en eau des barrages, qui atteignent leur niveau le plus élevé depuis dix ans, une excellente nouvelle à l'approche de la campagne agricole. Et enfin, un mouvement boursier à surveiller : l'AMMC vient de déclarer recevable une offre publique d'achat sur la Compagnie Minière de Touissit.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-16.mp3" length="4908478" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>306</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 15/09/2026 : Déficit budgétaire, stockage d'énergie à Benguerir et menace sur l'automobile marocaine</title>
       <description>Au programme de cet épisode : les finances publiques sous tension, avec un déficit budgétaire qui continue de se creuser à quelques semaines de la présentation du projet de loi de finances 2027. Ensuite, une première historique pour la transition énergétique marocaine, avec la mise en service d'un système de stockage d'énergie par batteries à Benguerir par OCP Green Energy. Et enfin, une menace qui pèse sur l'industrie automobile marocaine, dans le viseur des lobbies industriels européens à Bruxelles.</description>
@@ -672,17 +683,6 @@
       <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-03.mp3" length="5582212" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-07-03</guid>
       <pubDate>Fri, 03 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>348</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 02/07/2026 : Déficit commercial en hausse, viande ovine sous tension, et 365 millions d'euros de la BEI pour les transports</title>
-      <description>Au programme aujourd'hui : un bilan contrasté des échanges extérieurs à fin mai, avec un déficit commercial qui se creuse mais des investissements étrangers en forte accélération. Ensuite, la flambée des prix de la viande ovine pousse le gouvernement à envisager des mesures d'urgence. Et enfin, une excellente nouvelle pour les infrastructures marocaines : la Banque européenne d'investissement signe deux accords de financement pour un total de trois cent soixante-cinq millions d'euros.</description>
-      <itunes:summary>Au programme aujourd'hui : un bilan contrasté des échanges extérieurs à fin mai, avec un déficit commercial qui se creuse mais des investissements étrangers en forte accélération. Ensuite, la flambée des prix de la viande ovine pousse le gouvernement à envisager des mesures d'urgence. Et enfin, une excellente nouvelle pour les infrastructures marocaines : la Banque européenne d'investissement signe deux accords de financement pour un total de trois cent soixante-cinq millions d'euros.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-02.mp3" length="5583134" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-02</guid>
-      <pubDate>Thu, 02 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>348</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
