@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 16 Sep 2026 06:03:58 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:04:01 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 17/09/2026 : Maroc dans l'indice J.P. Morgan, débat sur le SMIG à 5 000 DH, et finances publiques à fin août</title>
+      <description>Au menu de cet épisode : le Maroc fait son entrée dans un tout nouvel indice de dette souveraine signé J.P. Morgan, une reconnaissance qui pourrait changer la donne pour le financement de l'État. Ensuite, nous nous pencherons sur le débat qui agite économistes et entreprises : est-il réaliste de porter le salaire minimum à cinq mille dirhams ? Et enfin, un point sur les finances publiques à fin août : les recettes progressent, mais les dépenses progressent encore plus vite.</description>
+      <itunes:summary>Au menu de cet épisode : le Maroc fait son entrée dans un tout nouvel indice de dette souveraine signé J.P. Morgan, une reconnaissance qui pourrait changer la donne pour le financement de l'État. Ensuite, nous nous pencherons sur le débat qui agite économistes et entreprises : est-il réaliste de porter le salaire minimum à cinq mille dirhams ? Et enfin, un point sur les finances publiques à fin août : les recettes progressent, mais les dépenses progressent encore plus vite.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-17.mp3" length="4742594" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>296</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 16/09/2026 : Nador West Med prêt à ouvrir, stock d'eau au plus haut et OPA sur CMT</title>
       <description>Au programme ce matin : Nador West Med se prépare à ouvrir ses portes commerciales avant la fin de l'année, et ce port pas comme les autres pourrait bien redessiner la carte économique du nord du Maroc. Nous ferons aussi le point sur les réserves en eau des barrages, qui atteignent leur niveau le plus élevé depuis dix ans, une excellente nouvelle à l'approche de la campagne agricole. Et enfin, un mouvement boursier à surveiller : l'AMMC vient de déclarer recevable une offre publique d'achat sur la Compagnie Minière de Touissit.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-04</guid>
       <pubDate>Sat, 04 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>363</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 03/07/2026 : CNI, Banque mondiale et automobile, le Maroc en pleine dynamique</title>
-      <description>Au programme ce matin : la Commission nationale des investissements valide près de 42 milliards de dirhams de projets et promet des milliers d'emplois. La Banque mondiale débloque 265 millions de dollars pour une infrastructure énergétique clé dans le nord du Maroc. Et les constructeurs automobiles européens prennent officiellement la défense de leurs usines marocaines face à Bruxelles.</description>
-      <itunes:summary>Au programme ce matin : la Commission nationale des investissements valide près de 42 milliards de dirhams de projets et promet des milliers d'emplois. La Banque mondiale débloque 265 millions de dollars pour une infrastructure énergétique clé dans le nord du Maroc. Et les constructeurs automobiles européens prennent officiellement la défense de leurs usines marocaines face à Bruxelles.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-03.mp3" length="5582212" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-03</guid>
-      <pubDate>Fri, 03 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>348</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

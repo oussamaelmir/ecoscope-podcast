@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-17",
+    "date": "2026-09-17",
+    "title": "ÉcoScope — 17/09/2026 : Maroc dans l'indice J.P. Morgan, débat sur le SMIG à 5 000 DH, et finances publiques à fin août",
+    "description": "Au menu de cet épisode : le Maroc fait son entrée dans un tout nouvel indice de dette souveraine signé J.P. Morgan, une reconnaissance qui pourrait changer la donne pour le financement de l'État. Ensuite, nous nous pencherons sur le débat qui agite économistes et entreprises : est-il réaliste de porter le salaire minimum à cinq mille dirhams ? Et enfin, un point sur les finances publiques à fin août : les recettes progressent, mais les dépenses progressent encore plus vite.",
+    "filename": "ecoscope-2026-09-17.mp3",
+    "bytes": 4742594,
+    "duration": 296
+  },
+  {
     "guid": "ecoscope-2026-09-16",
     "date": "2026-09-16",
     "title": "ÉcoScope — 16/09/2026 : Nador West Med prêt à ouvrir, stock d'eau au plus haut et OPA sur CMT",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-04.mp3",
     "bytes": 5823829,
     "duration": 363
-  },
-  {
-    "guid": "ecoscope-2026-07-03",
-    "date": "2026-07-03",
-    "title": "ÉcoScope — 03/07/2026 : CNI, Banque mondiale et automobile, le Maroc en pleine dynamique",
-    "description": "Au programme ce matin : la Commission nationale des investissements valide près de 42 milliards de dirhams de projets et promet des milliers d'emplois. La Banque mondiale débloque 265 millions de dollars pour une infrastructure énergétique clé dans le nord du Maroc. Et les constructeurs automobiles européens prennent officiellement la défense de leurs usines marocaines face à Bruxelles.",
-    "filename": "ecoscope-2026-07-03.mp3",
-    "bytes": 5582212,
-    "duration": 348
   }
 ]
