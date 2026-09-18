@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-18",
+    "date": "2026-09-18",
+    "title": "ÉcoScope — 18/09/2026 : BAD-Maroc 405 millions d'euros, taux directeur stable et note Fitch confirmée",
+    "description": "Au programme de cet épisode : la Banque africaine de développement engage plus de quatre milliards de dirhams pour le rail et la formation professionnelle au Maroc. Ensuite, Bank Al-Maghrib se réunit mardi prochain et tous les signaux pointent vers un maintien du taux directeur à deux virgule vingt-cinq pour cent. Et enfin, l'agence Fitch confirme la note souveraine du Maroc à BB plus avec perspective stable, un signal rassurant pour les investisseurs étrangers.",
+    "filename": "ecoscope-2026-09-18.mp3",
+    "bytes": 4956142,
+    "duration": 309
+  },
+  {
     "guid": "ecoscope-2026-09-17",
     "date": "2026-09-17",
     "title": "ÉcoScope — 17/09/2026 : Maroc dans l'indice J.P. Morgan, débat sur le SMIG à 5 000 DH, et finances publiques à fin août",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-05.mp3",
     "bytes": 5798059,
     "duration": 362
-  },
-  {
-    "guid": "ecoscope-2026-07-04",
-    "date": "2026-07-04",
-    "title": "ÉcoScope — 04/07/2026 : Emplois offshore menacés, blé tendre en crise et bitcoin dans les banques marocaines",
-    "description": "Au programme aujourd'hui : une loi française qui fait trembler des dizaines de milliers de salariés des centres d'appel au Maroc. Ensuite, la collecte du blé tendre qui s'emballe bien moins vite que prévu, avec des conséquences possibles sur les prix. Et pour finir, une banque marocaine qui franchit un cap historique en proposant pour la première fois un placement indexé au bitcoin.",
-    "filename": "ecoscope-2026-07-04.mp3",
-    "bytes": 5823829,
-    "duration": 363
   }
 ]
