@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 18 Sep 2026 06:04:21 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:03:57 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 19/09/2026 : Bourse en repli pré-électoral, OCP Nutricrops signe avec le Brésil, et tension sur les taux longs</title>
+      <description>Au programme ce matin : la Bourse de Casablanca accuse une nouvelle correction, les investisseurs retenant leur souffle avant les législatives du 23 septembre. Côté grandes manœuvres internationales, OCP Nutricrops vient de signer un accord majeur avec le Brésil pour livrer trois virgule huit millions de tonnes d'engrais. Et enfin, le marché des capitaux affiche soixante-dix virgule huit sept milliards de dirhams de levées à fin juillet, dans un contexte de tension sur les taux longs.</description>
+      <itunes:summary>Au programme ce matin : la Bourse de Casablanca accuse une nouvelle correction, les investisseurs retenant leur souffle avant les législatives du 23 septembre. Côté grandes manœuvres internationales, OCP Nutricrops vient de signer un accord majeur avec le Brésil pour livrer trois virgule huit millions de tonnes d'engrais. Et enfin, le marché des capitaux affiche soixante-dix virgule huit sept milliards de dirhams de levées à fin juillet, dans un contexte de tension sur les taux longs.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-19.mp3" length="4991704" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>311</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 18/09/2026 : BAD-Maroc 405 millions d'euros, taux directeur stable et note Fitch confirmée</title>
       <description>Au programme de cet épisode : la Banque africaine de développement engage plus de quatre milliards de dirhams pour le rail et la formation professionnelle au Maroc. Ensuite, Bank Al-Maghrib se réunit mardi prochain et tous les signaux pointent vers un maintien du taux directeur à deux virgule vingt-cinq pour cent. Et enfin, l'agence Fitch confirme la note souveraine du Maroc à BB plus avec perspective stable, un signal rassurant pour les investisseurs étrangers.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-06</guid>
       <pubDate>Mon, 06 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>291</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 05/07/2026 : Marsa Maroc investit 3 milliards au port de Casablanca, la DGI clarifie les avantages fiscaux en bourse, Gibraltar ferme sa liaison maritime avec le Maroc</title>
-      <description>Au programme aujourd'hui : Marsa Maroc prolonge la concession d'un terminal stratégique au port de Casablanca et annonce trois milliards de dirhams d'investissements. Ensuite, la Direction Générale des Impôts publie un guide pour rendre la bourse plus accessible aux épargnants. Et enfin, Gibraltar met fin à sa ligne de ferry vers le Maroc, une fermeture qui touche directement de nombreuses familles marocaines.</description>
-      <itunes:summary>Au programme aujourd'hui : Marsa Maroc prolonge la concession d'un terminal stratégique au port de Casablanca et annonce trois milliards de dirhams d'investissements. Ensuite, la Direction Générale des Impôts publie un guide pour rendre la bourse plus accessible aux épargnants. Et enfin, Gibraltar met fin à sa ligne de ferry vers le Maroc, une fermeture qui touche directement de nombreuses familles marocaines.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-05.mp3" length="5798059" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-05</guid>
-      <pubDate>Sun, 05 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>362</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
