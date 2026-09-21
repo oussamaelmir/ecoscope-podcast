@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 19 Sep 2026 06:03:57 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:04:07 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 21/09/2026 : Fiscalité électorale, bourse en berne et Marrakech Airshow</title>
+      <description>Au programme de cet épisode : la campagne des législatives 2026 prend une tournure très concrète avec les propositions fiscales des partis, qui pourraient changer la donne pour votre bulletin de paie. Côté marchés, la Bourse de Casablanca reste dans le rouge depuis janvier, malgré un regain d'activité en juillet. Et enfin, le Marrakech Airshow approche à grands pas, avec la confirmation d'une présence émiratie de poids qui illustre l'ambition industrielle du Maroc.</description>
+      <itunes:summary>Au programme de cet épisode : la campagne des législatives 2026 prend une tournure très concrète avec les propositions fiscales des partis, qui pourraient changer la donne pour votre bulletin de paie. Côté marchés, la Bourse de Casablanca reste dans le rouge depuis janvier, malgré un regain d'activité en juillet. Et enfin, le Marrakech Airshow approche à grands pas, avec la confirmation d'une présence émiratie de poids qui illustre l'ambition industrielle du Maroc.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-21.mp3" length="4852026" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>303</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 19/09/2026 : Bourse en repli pré-électoral, OCP Nutricrops signe avec le Brésil, et tension sur les taux longs</title>
       <description>Au programme ce matin : la Bourse de Casablanca accuse une nouvelle correction, les investisseurs retenant leur souffle avant les législatives du 23 septembre. Côté grandes manœuvres internationales, OCP Nutricrops vient de signer un accord majeur avec le Brésil pour livrer trois virgule huit millions de tonnes d'engrais. Et enfin, le marché des capitaux affiche soixante-dix virgule huit sept milliards de dirhams de levées à fin juillet, dans un contexte de tension sur les taux longs.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-07</guid>
       <pubDate>Tue, 07 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>286</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 06/07/2026 : Immobilier sous tension, Jorf Lasfar vire au vert, et la Bourse de Casablanca décryptée</title>
-      <description>Au programme ce matin : un marché immobilier grippé entre hausse des coûts et pénurie de main-d'œuvre, où les ventes s'effondrent mais les prix refusent de baisser. Ensuite, le port de Jorf Lasfar qui se réinvente avec le projet « Green Basin », en misant sur les batteries et l'hydrogène vert. Et enfin, un décryptage des comportements des investisseurs à la Bourse de Casablanca lors de la correction du premier trimestre 2026.</description>
-      <itunes:summary>Au programme ce matin : un marché immobilier grippé entre hausse des coûts et pénurie de main-d'œuvre, où les ventes s'effondrent mais les prix refusent de baisser. Ensuite, le port de Jorf Lasfar qui se réinvente avec le projet « Green Basin », en misant sur les batteries et l'hydrogène vert. Et enfin, un décryptage des comportements des investisseurs à la Bourse de Casablanca lors de la correction du premier trimestre 2026.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-06.mp3" length="4666086" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-06</guid>
-      <pubDate>Mon, 06 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>291</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

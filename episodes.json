@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-21",
+    "date": "2026-09-21",
+    "title": "ÉcoScope — 21/09/2026 : Fiscalité électorale, bourse en berne et Marrakech Airshow",
+    "description": "Au programme de cet épisode : la campagne des législatives 2026 prend une tournure très concrète avec les propositions fiscales des partis, qui pourraient changer la donne pour votre bulletin de paie. Côté marchés, la Bourse de Casablanca reste dans le rouge depuis janvier, malgré un regain d'activité en juillet. Et enfin, le Marrakech Airshow approche à grands pas, avec la confirmation d'une présence émiratie de poids qui illustre l'ambition industrielle du Maroc.",
+    "filename": "ecoscope-2026-09-21.mp3",
+    "bytes": 4852026,
+    "duration": 303
+  },
+  {
     "guid": "ecoscope-2026-09-19",
     "date": "2026-09-19",
     "title": "ÉcoScope — 19/09/2026 : Bourse en repli pré-électoral, OCP Nutricrops signe avec le Brésil, et tension sur les taux longs",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-07.mp3",
     "bytes": 4577867,
     "duration": 286
-  },
-  {
-    "guid": "ecoscope-2026-07-06",
-    "date": "2026-07-06",
-    "title": "ÉcoScope — 06/07/2026 : Immobilier sous tension, Jorf Lasfar vire au vert, et la Bourse de Casablanca décryptée",
-    "description": "Au programme ce matin : un marché immobilier grippé entre hausse des coûts et pénurie de main-d'œuvre, où les ventes s'effondrent mais les prix refusent de baisser. Ensuite, le port de Jorf Lasfar qui se réinvente avec le projet « Green Basin », en misant sur les batteries et l'hydrogène vert. Et enfin, un décryptage des comportements des investisseurs à la Bourse de Casablanca lors de la correction du premier trimestre 2026.",
-    "filename": "ecoscope-2026-07-06.mp3",
-    "bytes": 4666086,
-    "duration": 291
   }
 ]
