@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-22",
+    "date": "2026-09-22",
+    "title": "ÉcoScope — 22/09/2026 : OCP devant la justice américaine, pouvoir d'achat à la rentrée et partenariat hydrique Maroc-Allemagne",
+    "description": "Au menu de cet épisode : OCP joue une partie serrée aux États-Unis entre bataille juridique et nouvelle levée de fonds. Ensuite, la rentrée met à rude épreuve le budget des ménages marocains, dans un contexte de consommation dynamique mais de confiance fragile. Et enfin, le Maroc et l'Allemagne renforcent leur coopération pour sécuriser l'accès à l'eau potable face au changement climatique.",
+    "filename": "ecoscope-2026-09-22.mp3",
+    "bytes": 4714601,
+    "duration": 294
+  },
+  {
     "guid": "ecoscope-2026-09-21",
     "date": "2026-09-21",
     "title": "ÉcoScope — 21/09/2026 : Fiscalité électorale, bourse en berne et Marrakech Airshow",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-08.mp3",
     "bytes": 4458318,
     "duration": 278
-  },
-  {
-    "guid": "ecoscope-2026-07-07",
-    "date": "2026-07-07",
-    "title": "ÉcoScope — 07/07/2026 : IPO T2S Group, balance commerciale sous pression et farine subventionnée",
-    "description": "Au programme aujourd'hui : la première introduction en Bourse de Casablanca de l'année, signée par le groupe de medtech T2S, avec une opération à un milliard cent millions de dirhams. Nous ferons aussi le point sur la balance commerciale du Maroc, dont le taux de couverture a atteint son niveau le plus bas depuis 2018. Et enfin, un décryptage du nouveau dispositif officiel de subvention de la farine pour la campagne 2026-2027.",
-    "filename": "ecoscope-2026-07-07.mp3",
-    "bytes": 4577867,
-    "duration": 286
   }
 ]
