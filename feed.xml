@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Sep 2026 06:03:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:03:52 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 23/09/2026 : Taux directeur stable, médicaments moins chers, et grand chantier ferroviaire de l'ONCF</title>
+      <description>Au programme aujourd'hui : Bank Al-Maghrib a maintenu son taux directeur inchangé, mais ses nouvelles prévisions méritent qu'on s'y attarde. Ensuite, une bonne nouvelle pour le porte-monnaie des Marocains : près de trois cents médicaments vont voir leur prix baisser, parfois très fortement. Et enfin, l'ONCF dévoile un programme d'investissement massif pour transformer le rail marocain d'ici 2030.</description>
+      <itunes:summary>Au programme aujourd'hui : Bank Al-Maghrib a maintenu son taux directeur inchangé, mais ses nouvelles prévisions méritent qu'on s'y attarde. Ensuite, une bonne nouvelle pour le porte-monnaie des Marocains : près de trois cents médicaments vont voir leur prix baisser, parfois très fortement. Et enfin, l'ONCF dévoile un programme d'investissement massif pour transformer le rail marocain d'ici 2030.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-23.mp3" length="4491809" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>280</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 22/09/2026 : OCP devant la justice américaine, pouvoir d'achat à la rentrée et partenariat hydrique Maroc-Allemagne</title>
       <description>Au menu de cet épisode : OCP joue une partie serrée aux États-Unis entre bataille juridique et nouvelle levée de fonds. Ensuite, la rentrée met à rude épreuve le budget des ménages marocains, dans un contexte de consommation dynamique mais de confiance fragile. Et enfin, le Maroc et l'Allemagne renforcent leur coopération pour sécuriser l'accès à l'eau potable face au changement climatique.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-09</guid>
       <pubDate>Thu, 09 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>297</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 08/07/2026 : Finances publiques record, filière batterie et crédit en hausse</title>
-      <description>Au programme aujourd'hui : les finances publiques marocaines affichent des résultats largement supérieurs aux prévisions pour 2024, avec des recettes record adoptées par la Chambre des conseillers. Ensuite, le Maroc accélère sa montée en gamme dans la filière des batteries, du phosphate aux cathodes. Et enfin, le crédit bancaire poursuit son élan, avec un encours qui dépasse mille deux cent cinquante-neuf milliards de dirhams à fin mai 2026.</description>
-      <itunes:summary>Au programme aujourd'hui : les finances publiques marocaines affichent des résultats largement supérieurs aux prévisions pour 2024, avec des recettes record adoptées par la Chambre des conseillers. Ensuite, le Maroc accélère sa montée en gamme dans la filière des batteries, du phosphate aux cathodes. Et enfin, le crédit bancaire poursuit son élan, avec un encours qui dépasse mille deux cent cinquante-neuf milliards de dirhams à fin mai 2026.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-08.mp3" length="4458318" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-08</guid>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>278</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
