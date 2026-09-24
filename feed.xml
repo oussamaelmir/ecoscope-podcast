@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Sep 2026 06:03:52 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:03:57 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 24/09/2026 : Législatives, compétitivité automobile et création d'entreprises</title>
+      <description>Au programme ce matin : les résultats des législatives 2026 sont tombés, et la majorité sortante est reconduite — nous allons voir ce que cela signifie concrètement pour les grands chantiers économiques. Ensuite, une étude internationale confirme que le Maroc est la destination industrielle automobile la moins chère au monde, devant la Chine et le Mexique. Et enfin, le dynamisme entrepreneurial marocain reste bien réel : plus de cinquante et un mille nouvelles entreprises créées en six mois, mais avec de fortes disparités territoriales.</description>
+      <itunes:summary>Au programme ce matin : les résultats des législatives 2026 sont tombés, et la majorité sortante est reconduite — nous allons voir ce que cela signifie concrètement pour les grands chantiers économiques. Ensuite, une étude internationale confirme que le Maroc est la destination industrielle automobile la moins chère au monde, devant la Chine et le Mexique. Et enfin, le dynamisme entrepreneurial marocain reste bien réel : plus de cinquante et un mille nouvelles entreprises créées en six mois, mais avec de fortes disparités territoriales.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-24.mp3" length="4889236" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>305</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 23/09/2026 : Taux directeur stable, médicaments moins chers, et grand chantier ferroviaire de l'ONCF</title>
       <description>Au programme aujourd'hui : Bank Al-Maghrib a maintenu son taux directeur inchangé, mais ses nouvelles prévisions méritent qu'on s'y attarde. Ensuite, une bonne nouvelle pour le porte-monnaie des Marocains : près de trois cents médicaments vont voir leur prix baisser, parfois très fortement. Et enfin, l'ONCF dévoile un programme d'investissement massif pour transformer le rail marocain d'ici 2030.</description>
@@ -672,17 +683,6 @@
       <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-10.mp3" length="4763444" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-07-10</guid>
       <pubDate>Fri, 10 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>297</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 09/07/2026 : Médicaments moins chers, TVA sur le numérique et Orbite 2030 pour les TPME</title>
-      <description>Au programme ce matin : un décret très attendu sur les prix des médicaments arrive enfin devant le Conseil de gouvernement, et il promet des économies concrètes pour les assurés. Ensuite, Meta, Netflix, TikTok et YouTube sont désormais soumis à la TVA au Maroc, une mesure entrée en vigueur le mois dernier. Et enfin, Maroc PME dévoile sa stratégie Orbite 2030 pour redonner de l'air aux très petites, petites et moyennes entreprises du pays.</description>
-      <itunes:summary>Au programme ce matin : un décret très attendu sur les prix des médicaments arrive enfin devant le Conseil de gouvernement, et il promet des économies concrètes pour les assurés. Ensuite, Meta, Netflix, TikTok et YouTube sont désormais soumis à la TVA au Maroc, une mesure entrée en vigueur le mois dernier. Et enfin, Maroc PME dévoile sa stratégie Orbite 2030 pour redonner de l'air aux très petites, petites et moyennes entreprises du pays.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-09.mp3" length="4759683" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-09</guid>
-      <pubDate>Thu, 09 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>297</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
