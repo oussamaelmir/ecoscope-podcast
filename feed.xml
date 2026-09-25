@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Sep 2026 06:03:57 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:03:23 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 25/09/2026 : Attentes du secteur privé, finances publiques et l'ONCF primé à Berlin</title>
+      <description>Au programme aujourd'hui : au lendemain des élections législatives, les acteurs économiques marocains parlent sans détour et dressent leur feuille de route pour le prochain gouvernement. Nous ferons également le point sur l'état des finances publiques à fin août. Et enfin, bonne nouvelle pour le rail marocain : l'ONCF revient de Berlin avec un prix international et un partenariat de poids.</description>
+      <itunes:summary>Au programme aujourd'hui : au lendemain des élections législatives, les acteurs économiques marocains parlent sans détour et dressent leur feuille de route pour le prochain gouvernement. Nous ferons également le point sur l'état des finances publiques à fin août. Et enfin, bonne nouvelle pour le rail marocain : l'ONCF revient de Berlin avec un prix international et un partenariat de poids.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-25.mp3" length="4518524" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>282</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 24/09/2026 : Législatives, compétitivité automobile et création d'entreprises</title>
       <description>Au programme ce matin : les résultats des législatives 2026 sont tombés, et la majorité sortante est reconduite — nous allons voir ce que cela signifie concrètement pour les grands chantiers économiques. Ensuite, une étude internationale confirme que le Maroc est la destination industrielle automobile la moins chère au monde, devant la Chine et le Mexique. Et enfin, le dynamisme entrepreneurial marocain reste bien réel : plus de cinquante et un mille nouvelles entreprises créées en six mois, mais avec de fortes disparités territoriales.</description>
@@ -672,17 +683,6 @@
       <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-11.mp3" length="4766390" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-07-11</guid>
       <pubDate>Sat, 11 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>297</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 10/07/2026 : Résilience bancaire, gares RER à Casablanca et pénurie de main-d'œuvre</title>
-      <description>Au programme aujourd'hui : le système bancaire marocain affiche un bénéfice net record, confirmé par le tout dernier rapport sur la stabilité financière. Ensuite, l'ONCF lance un chantier colossal pour construire neuf nouvelles gares du futur RER de Casablanca. Et enfin, un paradoxe inquiétant : malgré un chômage encore élevé, les entreprises du BTP, du textile et du câblage n'arrivent plus à recruter.</description>
-      <itunes:summary>Au programme aujourd'hui : le système bancaire marocain affiche un bénéfice net record, confirmé par le tout dernier rapport sur la stabilité financière. Ensuite, l'ONCF lance un chantier colossal pour construire neuf nouvelles gares du futur RER de Casablanca. Et enfin, un paradoxe inquiétant : malgré un chômage encore élevé, les entreprises du BTP, du textile et du câblage n'arrivent plus à recruter.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-10.mp3" length="4763444" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-10</guid>
-      <pubDate>Fri, 10 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>297</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
