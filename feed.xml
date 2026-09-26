@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 25 Sep 2026 06:03:23 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:03:48 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 26/09/2026 : Trésor sous pression, Heidelberg quitte Ciments du Maroc, TVA Meta dès octobre</title>
+      <description>Au programme aujourd'hui : le Trésor doit encore lever près de 46 milliards de dirhams avant la fin de l'année, une pression budgétaire considérable. Ensuite, le géant allemand Heidelberg Materials quitte totalement le capital de Ciments du Maroc, et cette sortie fait du bruit à la Bourse de Casablanca. Enfin, Meta va appliquer une TVA de 20 pour cent sur la publicité digitale au Maroc dès le 1er octobre, une mauvaise nouvelle pour les PME et les entrepreneurs du numérique.</description>
+      <itunes:summary>Au programme aujourd'hui : le Trésor doit encore lever près de 46 milliards de dirhams avant la fin de l'année, une pression budgétaire considérable. Ensuite, le géant allemand Heidelberg Materials quitte totalement le capital de Ciments du Maroc, et cette sortie fait du bruit à la Bourse de Casablanca. Enfin, Meta va appliquer une TVA de 20 pour cent sur la publicité digitale au Maroc dès le 1er octobre, une mauvaise nouvelle pour les PME et les entrepreneurs du numérique.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-26.mp3" length="4738383" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>296</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 25/09/2026 : Attentes du secteur privé, finances publiques et l'ONCF primé à Berlin</title>
       <description>Au programme aujourd'hui : au lendemain des élections législatives, les acteurs économiques marocains parlent sans détour et dressent leur feuille de route pour le prochain gouvernement. Nous ferons également le point sur l'état des finances publiques à fin août. Et enfin, bonne nouvelle pour le rail marocain : l'ONCF revient de Berlin avec un prix international et un partenariat de poids.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-12</guid>
       <pubDate>Sun, 12 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>298</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 11/07/2026 : Frais d'interchange, bilan Génération Green et augmentation de capital de CIH Bank</title>
-      <description>Au programme aujourd'hui : Bank Al-Maghrib abaisse les frais d'interchange sur les paiements par carte, une bonne nouvelle concrète pour les commerçants marocains. Ensuite, le gouvernement lance l'évaluation à mi-parcours de la stratégie agricole Génération Green, après cinq années de sécheresse qui ont tout bousculé. Et enfin, CIH Bank prépare une augmentation de capital pouvant atteindre sept cent cinquante millions de dirhams pour financer son plan stratégique à l'horizon 2030.</description>
-      <itunes:summary>Au programme aujourd'hui : Bank Al-Maghrib abaisse les frais d'interchange sur les paiements par carte, une bonne nouvelle concrète pour les commerçants marocains. Ensuite, le gouvernement lance l'évaluation à mi-parcours de la stratégie agricole Génération Green, après cinq années de sécheresse qui ont tout bousculé. Et enfin, CIH Bank prépare une augmentation de capital pouvant atteindre sept cent cinquante millions de dirhams pour financer son plan stratégique à l'horizon 2030.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-11.mp3" length="4766390" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-11</guid>
-      <pubDate>Sat, 11 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>297</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
