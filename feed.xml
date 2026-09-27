@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 06:03:48 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:03:19 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 27/09/2026 : Managem multiplie son bénéfice par dix, Boumadine revalorisé à 3,5 milliards de dollars, la Bourse de Casablanca dans le vert</title>
+      <description>Au programme de cet épisode : le groupe minier Managem réalise un bond spectaculaire de son bénéfice net, multiplié par dix en un an. Le projet minier Boumadine voit sa valeur plus que doubler selon une nouvelle évaluation. Et la Bourse de Casablanca termine la semaine dans le vert, avec un MASI en hausse de un virgule vingt-huit pour cent.</description>
+      <itunes:summary>Au programme de cet épisode : le groupe minier Managem réalise un bond spectaculaire de son bénéfice net, multiplié par dix en un an. Le projet minier Boumadine voit sa valeur plus que doubler selon une nouvelle évaluation. Et la Bourse de Casablanca termine la semaine dans le vert, avec un MASI en hausse de un virgule vingt-huit pour cent.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-27.mp3" length="4477674" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>279</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 26/09/2026 : Trésor sous pression, Heidelberg quitte Ciments du Maroc, TVA Meta dès octobre</title>
       <description>Au programme aujourd'hui : le Trésor doit encore lever près de 46 milliards de dirhams avant la fin de l'année, une pression budgétaire considérable. Ensuite, le géant allemand Heidelberg Materials quitte totalement le capital de Ciments du Maroc, et cette sortie fait du bruit à la Bourse de Casablanca. Enfin, Meta va appliquer une TVA de 20 pour cent sur la publicité digitale au Maroc dès le 1er octobre, une mauvaise nouvelle pour les PME et les entrepreneurs du numérique.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-13</guid>
       <pubDate>Mon, 13 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>276</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 12/07/2026 : IDE en hausse spectaculaire, TVA numérique et cadastre minier en panne</title>
-      <description>Au programme aujourd'hui : le Maroc s'impose comme une destination de premier plan pour les investisseurs étrangers, avec des chiffres qui donnent le vertige. Nous verrons aussi comment l'État marocain entend désormais taxer Netflix, Meta et les autres géants du numérique étrangers. Et enfin, un outil censé moderniser le secteur minier qui, sur le terrain, ne fonctionne toujours pas.</description>
-      <itunes:summary>Au programme aujourd'hui : le Maroc s'impose comme une destination de premier plan pour les investisseurs étrangers, avec des chiffres qui donnent le vertige. Nous verrons aussi comment l'État marocain entend désormais taxer Netflix, Meta et les autres géants du numérique étrangers. Et enfin, un outil censé moderniser le secteur minier qui, sur le terrain, ne fonctionne toujours pas.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-12.mp3" length="4771804" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-12</guid>
-      <pubDate>Sun, 12 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>298</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

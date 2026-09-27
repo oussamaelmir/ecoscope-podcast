@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-27",
+    "date": "2026-09-27",
+    "title": "ÉcoScope — 27/09/2026 : Managem multiplie son bénéfice par dix, Boumadine revalorisé à 3,5 milliards de dollars, la Bourse de Casablanca dans le vert",
+    "description": "Au programme de cet épisode : le groupe minier Managem réalise un bond spectaculaire de son bénéfice net, multiplié par dix en un an. Le projet minier Boumadine voit sa valeur plus que doubler selon une nouvelle évaluation. Et la Bourse de Casablanca termine la semaine dans le vert, avec un MASI en hausse de un virgule vingt-huit pour cent.",
+    "filename": "ecoscope-2026-09-27.mp3",
+    "bytes": 4477674,
+    "duration": 279
+  },
+  {
     "guid": "ecoscope-2026-09-26",
     "date": "2026-09-26",
     "title": "ÉcoScope — 26/09/2026 : Trésor sous pression, Heidelberg quitte Ciments du Maroc, TVA Meta dès octobre",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-13.mp3",
     "bytes": 4431983,
     "duration": 276
-  },
-  {
-    "guid": "ecoscope-2026-07-12",
-    "date": "2026-07-12",
-    "title": "ÉcoScope — 12/07/2026 : IDE en hausse spectaculaire, TVA numérique et cadastre minier en panne",
-    "description": "Au programme aujourd'hui : le Maroc s'impose comme une destination de premier plan pour les investisseurs étrangers, avec des chiffres qui donnent le vertige. Nous verrons aussi comment l'État marocain entend désormais taxer Netflix, Meta et les autres géants du numérique étrangers. Et enfin, un outil censé moderniser le secteur minier qui, sur le terrain, ne fonctionne toujours pas.",
-    "filename": "ecoscope-2026-07-12.mp3",
-    "bytes": 4771804,
-    "duration": 298
   }
 ]
