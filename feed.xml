@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Sep 2026 06:03:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:03:37 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 28/09/2026 : Croissance à 4,4%, tour de vis budgétaire et tourisme à Agadir</title>
+      <description>Bank Al-Maghrib revoit ses prévisions de croissance à la hausse pour 2026, portée par une récolte céréalière exceptionnelle et des créations d'emplois solides. Le gouvernement, lui, prépare un budget 2027 sous le signe de la rigueur, en limitant les recrutements dans la fonction publique et en comprimant les dépenses de fonctionnement. Et à Agadir, la saison estivale affiche un taux d'occupation proche de quatre-vingts pour cent, mais les professionnels tirent la sonnette d'alarme sur le manque criant de nouvelles infrastructures hôtelières.</description>
+      <itunes:summary>Bank Al-Maghrib revoit ses prévisions de croissance à la hausse pour 2026, portée par une récolte céréalière exceptionnelle et des créations d'emplois solides. Le gouvernement, lui, prépare un budget 2027 sous le signe de la rigueur, en limitant les recrutements dans la fonction publique et en comprimant les dépenses de fonctionnement. Et à Agadir, la saison estivale affiche un taux d'occupation proche de quatre-vingts pour cent, mais les professionnels tirent la sonnette d'alarme sur le manque criant de nouvelles infrastructures hôtelières.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-28.mp3" length="5143351" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>321</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 27/09/2026 : Managem multiplie son bénéfice par dix, Boumadine revalorisé à 3,5 milliards de dollars, la Bourse de Casablanca dans le vert</title>
       <description>Au programme de cet épisode : le groupe minier Managem réalise un bond spectaculaire de son bénéfice net, multiplié par dix en un an. Le projet minier Boumadine voit sa valeur plus que doubler selon une nouvelle évaluation. Et la Bourse de Casablanca termine la semaine dans le vert, avec un MASI en hausse de un virgule vingt-huit pour cent.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-14</guid>
       <pubDate>Tue, 14 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>340</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 13/07/2026 : Port Dakhla, interconnexions énergétiques et flambée du pétrole</title>
-      <description>Au programme ce matin : le chantier du port Dakhla Atlantique avance à grands pas et confirme les ambitions africaines du Maroc. Le Royaume accélère également ses interconnexions électriques avec l'Europe et vers l'Afrique, consolidant son rôle de carrefour de l'énergie verte. Et enfin, une actualité qui touche directement nos portefeuilles : les cours du pétrole ont bondi ce matin après des frappes américaines sur l'Iran et la fermeture annoncée du détroit d'Ormuz.</description>
-      <itunes:summary>Au programme ce matin : le chantier du port Dakhla Atlantique avance à grands pas et confirme les ambitions africaines du Maroc. Le Royaume accélère également ses interconnexions électriques avec l'Europe et vers l'Afrique, consolidant son rôle de carrefour de l'énergie verte. Et enfin, une actualité qui touche directement nos portefeuilles : les cours du pétrole ont bondi ce matin après des frappes américaines sur l'Iran et la fermeture annoncée du détroit d'Ormuz.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-13.mp3" length="4431983" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-13</guid>
-      <pubDate>Mon, 13 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>276</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-28",
+    "date": "2026-09-28",
+    "title": "ÉcoScope — 28/09/2026 : Croissance à 4,4%, tour de vis budgétaire et tourisme à Agadir",
+    "description": "Bank Al-Maghrib revoit ses prévisions de croissance à la hausse pour 2026, portée par une récolte céréalière exceptionnelle et des créations d'emplois solides. Le gouvernement, lui, prépare un budget 2027 sous le signe de la rigueur, en limitant les recrutements dans la fonction publique et en comprimant les dépenses de fonctionnement. Et à Agadir, la saison estivale affiche un taux d'occupation proche de quatre-vingts pour cent, mais les professionnels tirent la sonnette d'alarme sur le manque criant de nouvelles infrastructures hôtelières.",
+    "filename": "ecoscope-2026-09-28.mp3",
+    "bytes": 5143351,
+    "duration": 321
+  },
+  {
     "guid": "ecoscope-2026-09-27",
     "date": "2026-09-27",
     "title": "ÉcoScope — 27/09/2026 : Managem multiplie son bénéfice par dix, Boumadine revalorisé à 3,5 milliards de dollars, la Bourse de Casablanca dans le vert",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-14.mp3",
     "bytes": 5447210,
     "duration": 340
-  },
-  {
-    "guid": "ecoscope-2026-07-13",
-    "date": "2026-07-13",
-    "title": "ÉcoScope — 13/07/2026 : Port Dakhla, interconnexions énergétiques et flambée du pétrole",
-    "description": "Au programme ce matin : le chantier du port Dakhla Atlantique avance à grands pas et confirme les ambitions africaines du Maroc. Le Royaume accélère également ses interconnexions électriques avec l'Europe et vers l'Afrique, consolidant son rôle de carrefour de l'énergie verte. Et enfin, une actualité qui touche directement nos portefeuilles : les cours du pétrole ont bondi ce matin après des frappes américaines sur l'Iran et la fermeture annoncée du détroit d'Ormuz.",
-    "filename": "ecoscope-2026-07-13.mp3",
-    "bytes": 4431983,
-    "duration": 276
   }
 ]
