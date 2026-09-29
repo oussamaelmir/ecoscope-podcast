@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 28 Sep 2026 06:03:37 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 07:04:06 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 29/09/2026 : BERD, interchange bancaire et trafic aérien</title>
+      <description>Au programme aujourd'hui : la BERD confirme sa confiance dans l'économie marocaine en relevant sa prévision de croissance à quatre virgule huit pour cent pour 2026. Ensuite, une bonne nouvelle pour les commerçants : Bank Al-Maghrib abaisse les frais d'interchange sur les paiements par carte à compter du premier octobre. Et enfin, les aéroports marocains continuent sur leur lancée, avec plus de vingt-deux millions de passagers enregistrés en seulement sept mois.</description>
+      <itunes:summary>Au programme aujourd'hui : la BERD confirme sa confiance dans l'économie marocaine en relevant sa prévision de croissance à quatre virgule huit pour cent pour 2026. Ensuite, une bonne nouvelle pour les commerçants : Bank Al-Maghrib abaisse les frais d'interchange sur les paiements par carte à compter du premier octobre. Et enfin, les aéroports marocains continuent sur leur lancée, avec plus de vingt-deux millions de passagers enregistrés en seulement sept mois.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-29.mp3" length="4839457" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>302</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 28/09/2026 : Croissance à 4,4%, tour de vis budgétaire et tourisme à Agadir</title>
       <description>Bank Al-Maghrib revoit ses prévisions de croissance à la hausse pour 2026, portée par une récolte céréalière exceptionnelle et des créations d'emplois solides. Le gouvernement, lui, prépare un budget 2027 sous le signe de la rigueur, en limitant les recrutements dans la fonction publique et en comprimant les dépenses de fonctionnement. Et à Agadir, la saison estivale affiche un taux d'occupation proche de quatre-vingts pour cent, mais les professionnels tirent la sonnette d'alarme sur le manque criant de nouvelles infrastructures hôtelières.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-15</guid>
       <pubDate>Wed, 15 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>300</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 14/07/2026 : Banque mondiale, crise agricole et boom des véhicules électrifiés</title>
-      <description>Au programme aujourd'hui : la Banque mondiale dévoile un partenariat historique de quinze milliards de dollars sur dix ans pour accompagner le Maroc dans ses grandes réformes. Ensuite, la campagne agricole 2026 révèle une réalité contrastée : un rebond encourageant, mais une pénurie de moissonneuses qui menace des milliards de dirhams de récoltes. Et enfin, les ventes de véhicules électrifiés explosent au Maroc, avec une progression de près de cent pour cent en un an.</description>
-      <itunes:summary>Au programme aujourd'hui : la Banque mondiale dévoile un partenariat historique de quinze milliards de dollars sur dix ans pour accompagner le Maroc dans ses grandes réformes. Ensuite, la campagne agricole 2026 révèle une réalité contrastée : un rebond encourageant, mais une pénurie de moissonneuses qui menace des milliards de dirhams de récoltes. Et enfin, les ventes de véhicules électrifiés explosent au Maroc, avec une progression de près de cent pour cent en un an.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-14.mp3" length="5447210" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-14</guid>
-      <pubDate>Tue, 14 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>340</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

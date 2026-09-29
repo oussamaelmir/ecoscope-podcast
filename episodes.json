@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-29",
+    "date": "2026-09-29",
+    "title": "ÉcoScope — 29/09/2026 : BERD, interchange bancaire et trafic aérien",
+    "description": "Au programme aujourd'hui : la BERD confirme sa confiance dans l'économie marocaine en relevant sa prévision de croissance à quatre virgule huit pour cent pour 2026. Ensuite, une bonne nouvelle pour les commerçants : Bank Al-Maghrib abaisse les frais d'interchange sur les paiements par carte à compter du premier octobre. Et enfin, les aéroports marocains continuent sur leur lancée, avec plus de vingt-deux millions de passagers enregistrés en seulement sept mois.",
+    "filename": "ecoscope-2026-09-29.mp3",
+    "bytes": 4839457,
+    "duration": 302
+  },
+  {
     "guid": "ecoscope-2026-09-28",
     "date": "2026-09-28",
     "title": "ÉcoScope — 28/09/2026 : Croissance à 4,4%, tour de vis budgétaire et tourisme à Agadir",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-15.mp3",
     "bytes": 4812742,
     "duration": 300
-  },
-  {
-    "guid": "ecoscope-2026-07-14",
-    "date": "2026-07-14",
-    "title": "ÉcoScope — 14/07/2026 : Banque mondiale, crise agricole et boom des véhicules électrifiés",
-    "description": "Au programme aujourd'hui : la Banque mondiale dévoile un partenariat historique de quinze milliards de dollars sur dix ans pour accompagner le Maroc dans ses grandes réformes. Ensuite, la campagne agricole 2026 révèle une réalité contrastée : un rebond encourageant, mais une pénurie de moissonneuses qui menace des milliards de dirhams de récoltes. Et enfin, les ventes de véhicules électrifiés explosent au Maroc, avec une progression de près de cent pour cent en un an.",
-    "filename": "ecoscope-2026-07-14.mp3",
-    "bytes": 5447210,
-    "duration": 340
   }
 ]
