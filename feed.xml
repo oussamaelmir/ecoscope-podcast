@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 29 Sep 2026 07:04:06 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:03:53 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 30/09/2026 : El Mansouri cheffe du gouvernement, record au GII et résilience de l'OCP</title>
+      <description>Au programme aujourd'hui : Fatima Ezzahra El Mansouri vient d'être nommée cheffe du gouvernement par le Roi Mohammed VI, une première qui va remodeler les orientations économiques du pays. Ensuite, le Maroc signe son meilleur classement historique à l'Indice mondial de l'innovation. Et enfin, le groupe OCP confirme sa solidité face à la flambée des prix du soufre.</description>
+      <itunes:summary>Au programme aujourd'hui : Fatima Ezzahra El Mansouri vient d'être nommée cheffe du gouvernement par le Roi Mohammed VI, une première qui va remodeler les orientations économiques du pays. Ensuite, le Maroc signe son meilleur classement historique à l'Indice mondial de l'innovation. Et enfin, le groupe OCP confirme sa solidité face à la flambée des prix du soufre.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-30.mp3" length="5432187" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>339</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 29/09/2026 : BERD, interchange bancaire et trafic aérien</title>
       <description>Au programme aujourd'hui : la BERD confirme sa confiance dans l'économie marocaine en relevant sa prévision de croissance à quatre virgule huit pour cent pour 2026. Ensuite, une bonne nouvelle pour les commerçants : Bank Al-Maghrib abaisse les frais d'interchange sur les paiements par carte à compter du premier octobre. Et enfin, les aéroports marocains continuent sur leur lancée, avec plus de vingt-deux millions de passagers enregistrés en seulement sept mois.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-16</guid>
       <pubDate>Thu, 16 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>279</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 15/07/2026 : Pétrole en hausse, déficit en baisse et innovation chez OCP</title>
-      <description>Au programme aujourd'hui : la reprise des hostilités au Moyen-Orient fait flamber le pétrole, avec des conséquences directes sur le portefeuille des Marocains. Côté finances publiques, une bonne nouvelle : le déficit du Trésor s'allège sensiblement à fin juin. Et enfin, OCP mise sur l'innovation pour ne plus dépendre des importations de soufre.</description>
-      <itunes:summary>Au programme aujourd'hui : la reprise des hostilités au Moyen-Orient fait flamber le pétrole, avec des conséquences directes sur le portefeuille des Marocains. Côté finances publiques, une bonne nouvelle : le déficit du Trésor s'allège sensiblement à fin juin. Et enfin, OCP mise sur l'innovation pour ne plus dépendre des importations de soufre.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-15.mp3" length="4812742" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-15</guid>
-      <pubDate>Wed, 15 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>300</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

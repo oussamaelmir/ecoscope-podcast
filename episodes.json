@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-09-30",
+    "date": "2026-09-30",
+    "title": "ÉcoScope — 30/09/2026 : El Mansouri cheffe du gouvernement, record au GII et résilience de l'OCP",
+    "description": "Au programme aujourd'hui : Fatima Ezzahra El Mansouri vient d'être nommée cheffe du gouvernement par le Roi Mohammed VI, une première qui va remodeler les orientations économiques du pays. Ensuite, le Maroc signe son meilleur classement historique à l'Indice mondial de l'innovation. Et enfin, le groupe OCP confirme sa solidité face à la flambée des prix du soufre.",
+    "filename": "ecoscope-2026-09-30.mp3",
+    "bytes": 5432187,
+    "duration": 339
+  },
+  {
     "guid": "ecoscope-2026-09-29",
     "date": "2026-09-29",
     "title": "ÉcoScope — 29/09/2026 : BERD, interchange bancaire et trafic aérien",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-16.mp3",
     "bytes": 4465402,
     "duration": 279
-  },
-  {
-    "guid": "ecoscope-2026-07-15",
-    "date": "2026-07-15",
-    "title": "ÉcoScope — 15/07/2026 : Pétrole en hausse, déficit en baisse et innovation chez OCP",
-    "description": "Au programme aujourd'hui : la reprise des hostilités au Moyen-Orient fait flamber le pétrole, avec des conséquences directes sur le portefeuille des Marocains. Côté finances publiques, une bonne nouvelle : le déficit du Trésor s'allège sensiblement à fin juin. Et enfin, OCP mise sur l'innovation pour ne plus dépendre des importations de soufre.",
-    "filename": "ecoscope-2026-07-15.mp3",
-    "bytes": 4812742,
-    "duration": 300
   }
 ]
