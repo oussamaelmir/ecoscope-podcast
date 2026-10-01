@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 07:03:53 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:03:53 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 01/10/2026 : BAD et aéroports, Tamwilcom en forme, croissance au T2</title>
+      <description>Au menu de cet épisode : la Banque africaine de développement accorde deux cent soixante-dix millions d'euros pour moderniser nos aéroports. Tamwilcom publie des chiffres solides pour le premier semestre, avec près de vingt-quatre milliards de dirhams de financements mobilisés. Et enfin, un point sur la santé de l'économie marocaine : croissance à quatre pour cent au deuxième trimestre et crédit bancaire en forte progression.</description>
+      <itunes:summary>Au menu de cet épisode : la Banque africaine de développement accorde deux cent soixante-dix millions d'euros pour moderniser nos aéroports. Tamwilcom publie des chiffres solides pour le premier semestre, avec près de vingt-quatre milliards de dirhams de financements mobilisés. Et enfin, un point sur la santé de l'économie marocaine : croissance à quatre pour cent au deuxième trimestre et crédit bancaire en forte progression.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-01.mp3" length="4387659" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>274</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 30/09/2026 : El Mansouri cheffe du gouvernement, record au GII et résilience de l'OCP</title>
       <description>Au programme aujourd'hui : Fatima Ezzahra El Mansouri vient d'être nommée cheffe du gouvernement par le Roi Mohammed VI, une première qui va remodeler les orientations économiques du pays. Ensuite, le Maroc signe son meilleur classement historique à l'Indice mondial de l'innovation. Et enfin, le groupe OCP confirme sa solidité face à la flambée des prix du soufre.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-17</guid>
       <pubDate>Fri, 17 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>322</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 16/07/2026 : Confiance des ménages, Maroc-France et accord Forafric</title>
-      <description>Au programme ce matin : le moral des ménages marocains s'améliore sur un an, mais les familles restent sous pression. À Rabat, la visite du Premier ministre français marque un tournant dans les relations économiques entre le Maroc et la France. Et du côté de l'agroalimentaire, le Crédit Agricole du Maroc tourne la page d'un contentieux de plus de cent quatre-vingt-dix millions de dirhams avec le groupe Forafric.</description>
-      <itunes:summary>Au programme ce matin : le moral des ménages marocains s'améliore sur un an, mais les familles restent sous pression. À Rabat, la visite du Premier ministre français marque un tournant dans les relations économiques entre le Maroc et la France. Et du côté de l'agroalimentaire, le Crédit Agricole du Maroc tourne la page d'un contentieux de plus de cent quatre-vingt-dix millions de dirhams avec le groupe Forafric.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-16.mp3" length="4465402" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-16</guid>
-      <pubDate>Thu, 16 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>279</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
