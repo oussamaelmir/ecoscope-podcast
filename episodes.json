@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-02",
+    "date": "2026-10-02",
+    "title": "ÉcoScope — 02/10/2026 : Attijariwafa au Ghana, carburants sous tension et Bourse en recul",
+    "description": "Au programme de cet épisode : Attijariwafa bank franchit une nouvelle étape dans sa conquête de l'Afrique anglophone en prenant le contrôle d'une banque ghanéenne. Ensuite, face à la hausse des prix des carburants, le gouvernement sort de sa réserve et prend des engagements envers les transporteurs. Et enfin, la Bourse de Casablanca tire un bilan mitigé de son troisième trimestre, avec un repli notable de son indice phare.",
+    "filename": "ecoscope-2026-10-02.mp3",
+    "bytes": 4753819,
+    "duration": 297
+  },
+  {
     "guid": "ecoscope-2026-10-01",
     "date": "2026-10-01",
     "title": "ÉcoScope — 01/10/2026 : BAD et aéroports, Tamwilcom en forme, croissance au T2",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-18.mp3",
     "bytes": 5396615,
     "duration": 337
-  },
-  {
-    "guid": "ecoscope-2026-07-17",
-    "date": "2026-07-17",
-    "title": "ÉcoScope — 17/07/2026 : RHN Maroc-France, croissance à 5,4% et exportations vers l'UE",
-    "description": "Au programme aujourd'hui : la quinzième Réunion de Haut Niveau entre le Maroc et la France a accouché d'accords concrets dans des secteurs stratégiques. Ensuite, le Haut-Commissariat au Plan annonce une accélération de la croissance à cinq virgule quatre pour cent au troisième trimestre. Et enfin, les exportations marocaines vers l'Union européenne atteignent deux virgule cinq milliards d'euros en mai, confirmant la résistance du Royaume face à un contexte européen difficile.",
-    "filename": "ecoscope-2026-07-17.mp3",
-    "bytes": 5163831,
-    "duration": 322
   }
 ]

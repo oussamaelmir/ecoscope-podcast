@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 01 Oct 2026 07:03:53 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:04:10 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 02/10/2026 : Attijariwafa au Ghana, carburants sous tension et Bourse en recul</title>
+      <description>Au programme de cet épisode : Attijariwafa bank franchit une nouvelle étape dans sa conquête de l'Afrique anglophone en prenant le contrôle d'une banque ghanéenne. Ensuite, face à la hausse des prix des carburants, le gouvernement sort de sa réserve et prend des engagements envers les transporteurs. Et enfin, la Bourse de Casablanca tire un bilan mitigé de son troisième trimestre, avec un repli notable de son indice phare.</description>
+      <itunes:summary>Au programme de cet épisode : Attijariwafa bank franchit une nouvelle étape dans sa conquête de l'Afrique anglophone en prenant le contrôle d'une banque ghanéenne. Ensuite, face à la hausse des prix des carburants, le gouvernement sort de sa réserve et prend des engagements envers les transporteurs. Et enfin, la Bourse de Casablanca tire un bilan mitigé de son troisième trimestre, avec un repli notable de son indice phare.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-02.mp3" length="4753819" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 01/10/2026 : BAD et aéroports, Tamwilcom en forme, croissance au T2</title>
       <description>Au menu de cet épisode : la Banque africaine de développement accorde deux cent soixante-dix millions d'euros pour moderniser nos aéroports. Tamwilcom publie des chiffres solides pour le premier semestre, avec près de vingt-quatre milliards de dirhams de financements mobilisés. Et enfin, un point sur la santé de l'économie marocaine : croissance à quatre pour cent au deuxième trimestre et crédit bancaire en forte progression.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-18</guid>
       <pubDate>Sat, 18 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>337</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 17/07/2026 : RHN Maroc-France, croissance à 5,4% et exportations vers l'UE</title>
-      <description>Au programme aujourd'hui : la quinzième Réunion de Haut Niveau entre le Maroc et la France a accouché d'accords concrets dans des secteurs stratégiques. Ensuite, le Haut-Commissariat au Plan annonce une accélération de la croissance à cinq virgule quatre pour cent au troisième trimestre. Et enfin, les exportations marocaines vers l'Union européenne atteignent deux virgule cinq milliards d'euros en mai, confirmant la résistance du Royaume face à un contexte européen difficile.</description>
-      <itunes:summary>Au programme aujourd'hui : la quinzième Réunion de Haut Niveau entre le Maroc et la France a accouché d'accords concrets dans des secteurs stratégiques. Ensuite, le Haut-Commissariat au Plan annonce une accélération de la croissance à cinq virgule quatre pour cent au troisième trimestre. Et enfin, les exportations marocaines vers l'Union européenne atteignent deux virgule cinq milliards d'euros en mai, confirmant la résistance du Royaume face à un contexte européen difficile.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-17.mp3" length="5163831" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-17</guid>
-      <pubDate>Fri, 17 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>322</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
