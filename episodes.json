@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-03",
+    "date": "2026-10-03",
+    "title": "ÉcoScope — 03/10/2026 : IDE record, échanges extérieurs et crédit bancaire en accélération",
+    "description": "Au programme aujourd'hui : les investissements étrangers atteignent un niveau record, avec un flux net en hausse de soixante-cinq pour cent en seulement huit mois. Ensuite, nous ferons le point sur les échanges extérieurs du Maroc : des exportations automobiles solides, mais un déficit commercial qui se creuse. Et enfin, bonne nouvelle du côté des banques, où le crédit et les dépôts sont en pleine accélération.",
+    "filename": "ecoscope-2026-10-03.mp3",
+    "bytes": 4632609,
+    "duration": 289
+  },
+  {
     "guid": "ecoscope-2026-10-02",
     "date": "2026-10-02",
     "title": "ÉcoScope — 02/10/2026 : Attijariwafa au Ghana, carburants sous tension et Bourse en recul",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-19.mp3",
     "bytes": 4689044,
     "duration": 293
-  },
-  {
-    "guid": "ecoscope-2026-07-18",
-    "date": "2026-07-18",
-    "title": "ÉcoScope — 18/07/2026 : OCP-Koch, cyberfraude bancaire et Auto Hall en Bourse",
-    "description": "Au programme ce matin : OCP signe un accord historique avec le géant américain Koch pour créer une nouvelle joint-venture dans les engrais phosphatés à Jorf Lasfar. Ensuite, Bank Al-Maghrib tire la sonnette d'alarme face à l'explosion des fraudes en ligne et lance une campagne de sensibilisation avec l'Autorité nationale du renseignement financier. Et enfin, Auto Hall prépare une augmentation de capital de près de deux cent cinquante millions de dirhams pour accélérer son développement.",
-    "filename": "ecoscope-2026-07-18.mp3",
-    "bytes": 5396615,
-    "duration": 337
   }
 ]

@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 02 Oct 2026 07:04:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:03:53 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 03/10/2026 : IDE record, échanges extérieurs et crédit bancaire en accélération</title>
+      <description>Au programme aujourd'hui : les investissements étrangers atteignent un niveau record, avec un flux net en hausse de soixante-cinq pour cent en seulement huit mois. Ensuite, nous ferons le point sur les échanges extérieurs du Maroc : des exportations automobiles solides, mais un déficit commercial qui se creuse. Et enfin, bonne nouvelle du côté des banques, où le crédit et les dépôts sont en pleine accélération.</description>
+      <itunes:summary>Au programme aujourd'hui : les investissements étrangers atteignent un niveau record, avec un flux net en hausse de soixante-cinq pour cent en seulement huit mois. Ensuite, nous ferons le point sur les échanges extérieurs du Maroc : des exportations automobiles solides, mais un déficit commercial qui se creuse. Et enfin, bonne nouvelle du côté des banques, où le crédit et les dépôts sont en pleine accélération.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-03.mp3" length="4632609" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>289</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 02/10/2026 : Attijariwafa au Ghana, carburants sous tension et Bourse en recul</title>
       <description>Au programme de cet épisode : Attijariwafa bank franchit une nouvelle étape dans sa conquête de l'Afrique anglophone en prenant le contrôle d'une banque ghanéenne. Ensuite, face à la hausse des prix des carburants, le gouvernement sort de sa réserve et prend des engagements envers les transporteurs. Et enfin, la Bourse de Casablanca tire un bilan mitigé de son troisième trimestre, avec un repli notable de son indice phare.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-19</guid>
       <pubDate>Sun, 19 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>293</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 18/07/2026 : OCP-Koch, cyberfraude bancaire et Auto Hall en Bourse</title>
-      <description>Au programme ce matin : OCP signe un accord historique avec le géant américain Koch pour créer une nouvelle joint-venture dans les engrais phosphatés à Jorf Lasfar. Ensuite, Bank Al-Maghrib tire la sonnette d'alarme face à l'explosion des fraudes en ligne et lance une campagne de sensibilisation avec l'Autorité nationale du renseignement financier. Et enfin, Auto Hall prépare une augmentation de capital de près de deux cent cinquante millions de dirhams pour accélérer son développement.</description>
-      <itunes:summary>Au programme ce matin : OCP signe un accord historique avec le géant américain Koch pour créer une nouvelle joint-venture dans les engrais phosphatés à Jorf Lasfar. Ensuite, Bank Al-Maghrib tire la sonnette d'alarme face à l'explosion des fraudes en ligne et lance une campagne de sensibilisation avec l'Autorité nationale du renseignement financier. Et enfin, Auto Hall prépare une augmentation de capital de près de deux cent cinquante millions de dirhams pour accélérer son développement.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-18.mp3" length="5396615" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-18</guid>
-      <pubDate>Sat, 18 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>337</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
