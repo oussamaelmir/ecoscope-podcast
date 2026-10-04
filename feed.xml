@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 03 Oct 2026 07:03:53 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:03:49 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 04/10/2026 : Bourse en recul, médicaments russes et souveraineté africaine à Casablanca</title>
+      <description>Au programme ce matin : la Bourse de Casablanca termine une nouvelle semaine dans le rouge, avec un MASI qui lâche près de trois pour cent. Ensuite, une statistique surprenante : le Maroc est devenu la troisième destination mondiale des certificats pharmaceutiques russes. Et enfin, le Casablanca Business Forum 2026 a appelé l'Afrique à construire sa propre souveraineté économique et numérique. On commence.</description>
+      <itunes:summary>Au programme ce matin : la Bourse de Casablanca termine une nouvelle semaine dans le rouge, avec un MASI qui lâche près de trois pour cent. Ensuite, une statistique surprenante : le Maroc est devenu la troisième destination mondiale des certificats pharmaceutiques russes. Et enfin, le Casablanca Business Forum 2026 a appelé l'Afrique à construire sa propre souveraineté économique et numérique. On commence.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-04.mp3" length="5060619" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>316</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 03/10/2026 : IDE record, échanges extérieurs et crédit bancaire en accélération</title>
       <description>Au programme aujourd'hui : les investissements étrangers atteignent un niveau record, avec un flux net en hausse de soixante-cinq pour cent en seulement huit mois. Ensuite, nous ferons le point sur les échanges extérieurs du Maroc : des exportations automobiles solides, mais un déficit commercial qui se creuse. Et enfin, bonne nouvelle du côté des banques, où le crédit et les dépôts sont en pleine accélération.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-20</guid>
       <pubDate>Mon, 20 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>322</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 19/07/2026 : Gazoduc atlantique, inégalités régionales et investissement hôtelier</title>
-      <description>Au programme aujourd'hui : le tronçon marocain du gazoduc Afrique-Atlantique se dessine avec précision, et les chiffres sont impressionnants. Ensuite, une étude sur dix ans confirme ce que beaucoup redoutaient : la richesse nationale reste très concentrée dans trois régions. Et enfin, le groupe hôtelier Pickalbatros annonce un plan d'investissement massif de trois cent cinquante millions de dollars au Maroc. Entrons dans le vif du sujet.</description>
-      <itunes:summary>Au programme aujourd'hui : le tronçon marocain du gazoduc Afrique-Atlantique se dessine avec précision, et les chiffres sont impressionnants. Ensuite, une étude sur dix ans confirme ce que beaucoup redoutaient : la richesse nationale reste très concentrée dans trois régions. Et enfin, le groupe hôtelier Pickalbatros annonce un plan d'investissement massif de trois cent cinquante millions de dollars au Maroc. Entrons dans le vif du sujet.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-19.mp3" length="4689044" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>293</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
