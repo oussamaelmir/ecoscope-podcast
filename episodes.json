@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-05",
+    "date": "2026-10-05",
+    "title": "ÉcoScope — 05/10/2026 : Facture énergétique en hausse, réforme budgétaire à horizon 2032 et Lockheed Martin cible le tissu industriel marocain",
+    "description": "Au programme ce matin : le pétrole à cent seize dollars le baril alourdit sérieusement la facture énergétique du Maroc, même si l'inflation reste étonnamment maîtrisée. Ensuite, le gouvernement dévoile une feuille de route ambitieuse pour moderniser la gestion des finances publiques jusqu'en 2032. Et enfin, le géant américain Lockheed Martin cible les entreprises marocaines pour intégrer ses chaînes de fabrication mondiales, à l'occasion du Marrakech Airshow.",
+    "filename": "ecoscope-2026-10-05.mp3",
+    "bytes": 5155160,
+    "duration": 322
+  },
+  {
     "guid": "ecoscope-2026-10-04",
     "date": "2026-10-04",
     "title": "ÉcoScope — 04/10/2026 : Bourse en recul, médicaments russes et souveraineté africaine à Casablanca",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-21.mp3",
     "bytes": 5104563,
     "duration": 318
-  },
-  {
-    "guid": "ecoscope-2026-07-20",
-    "date": "2026-07-20",
-    "title": "ÉcoScope — 20/07/2026 : Gazoduc Nigeria-Maroc, financement du Trésor et raffinage du lithium",
-    "description": "Au programme ce matin : une étape historique pour le Gazoduc Nigeria-Maroc, avec la signature d'un accord intergouvernemental par les États de la CEDEAO. Ensuite, un point précis sur les besoins de financement du Trésor pour le reste de l'année, qui restent considérables. Et enfin, nous verrons pourquoi le Maroc mise sur le raffinage du lithium pour s'imposer dans la filière mondiale des batteries électriques.",
-    "filename": "ecoscope-2026-07-20.mp3",
-    "bytes": 5153808,
-    "duration": 322
   }
 ]
