@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-06",
+    "date": "2026-10-06",
+    "title": "ÉcoScope — 06/10/2026 : Crédit bancaire en hausse, bénéfices boursiers et risques agricoles",
+    "description": "Au programme ce matin : le crédit bancaire franchit un nouveau palier, porté par une envolée des financements à l'investissement. Les sociétés cotées affichent des bénéfices en forte progression, mais attention, le tableau est plus nuancé qu'il n'y paraît. Et enfin, les vagues de chaleur font planer une menace sérieuse sur la prochaine campagne agricole.",
+    "filename": "ecoscope-2026-10-06.mp3",
+    "bytes": 4577857,
+    "duration": 286
+  },
+  {
     "guid": "ecoscope-2026-10-05",
     "date": "2026-10-05",
     "title": "ÉcoScope — 05/10/2026 : Facture énergétique en hausse, réforme budgétaire à horizon 2032 et Lockheed Martin cible le tissu industriel marocain",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-22.mp3",
     "bytes": 4669880,
     "duration": 291
-  },
-  {
-    "guid": "ecoscope-2026-07-21",
-    "date": "2026-07-21",
-    "title": "ÉcoScope — 21/07/2026 : Rapport Bank Al-Maghrib au Roi, interconnexion électrique Maroc-Portugal et perspectives budgétaires 2027",
-    "description": "Au programme de cet épisode : le wali de Bank Al-Maghrib a remis hier son rapport annuel au Roi Mohammed VI, avec des chiffres encourageants sur la croissance et l'inflation. Côté énergie, le Maroc et le Portugal relancent leur projet d'interconnexion électrique avec l'appui espéré de l'Union européenne. Et enfin, le Haut-Commissariat au Plan dessine les contours budgétaires de 2027 : un déficit qui se réduit, mais une croissance qui marque le pas.",
-    "filename": "ecoscope-2026-07-21.mp3",
-    "bytes": 5104563,
-    "duration": 318
   }
 ]

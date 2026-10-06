@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Oct 2026 07:04:02 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 07:03:57 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 06/10/2026 : Crédit bancaire en hausse, bénéfices boursiers et risques agricoles</title>
+      <description>Au programme ce matin : le crédit bancaire franchit un nouveau palier, porté par une envolée des financements à l'investissement. Les sociétés cotées affichent des bénéfices en forte progression, mais attention, le tableau est plus nuancé qu'il n'y paraît. Et enfin, les vagues de chaleur font planer une menace sérieuse sur la prochaine campagne agricole.</description>
+      <itunes:summary>Au programme ce matin : le crédit bancaire franchit un nouveau palier, porté par une envolée des financements à l'investissement. Les sociétés cotées affichent des bénéfices en forte progression, mais attention, le tableau est plus nuancé qu'il n'y paraît. Et enfin, les vagues de chaleur font planer une menace sérieuse sur la prochaine campagne agricole.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-06.mp3" length="4577857" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>286</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 05/10/2026 : Facture énergétique en hausse, réforme budgétaire à horizon 2032 et Lockheed Martin cible le tissu industriel marocain</title>
       <description>Au programme ce matin : le pétrole à cent seize dollars le baril alourdit sérieusement la facture énergétique du Maroc, même si l'inflation reste étonnamment maîtrisée. Ensuite, le gouvernement dévoile une feuille de route ambitieuse pour moderniser la gestion des finances publiques jusqu'en 2032. Et enfin, le géant américain Lockheed Martin cible les entreprises marocaines pour intégrer ses chaînes de fabrication mondiales, à l'occasion du Marrakech Airshow.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-22</guid>
       <pubDate>Wed, 22 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>291</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 21/07/2026 : Rapport Bank Al-Maghrib au Roi, interconnexion électrique Maroc-Portugal et perspectives budgétaires 2027</title>
-      <description>Au programme de cet épisode : le wali de Bank Al-Maghrib a remis hier son rapport annuel au Roi Mohammed VI, avec des chiffres encourageants sur la croissance et l'inflation. Côté énergie, le Maroc et le Portugal relancent leur projet d'interconnexion électrique avec l'appui espéré de l'Union européenne. Et enfin, le Haut-Commissariat au Plan dessine les contours budgétaires de 2027 : un déficit qui se réduit, mais une croissance qui marque le pas.</description>
-      <itunes:summary>Au programme de cet épisode : le wali de Bank Al-Maghrib a remis hier son rapport annuel au Roi Mohammed VI, avec des chiffres encourageants sur la croissance et l'inflation. Côté énergie, le Maroc et le Portugal relancent leur projet d'interconnexion électrique avec l'appui espéré de l'Union européenne. Et enfin, le Haut-Commissariat au Plan dessine les contours budgétaires de 2027 : un déficit qui se réduit, mais une croissance qui marque le pas.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-21.mp3" length="5104563" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-21</guid>
-      <pubDate>Tue, 21 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>318</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
