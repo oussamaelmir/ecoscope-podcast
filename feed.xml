@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 Oct 2026 07:03:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:04:07 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 07/10/2026 : Blé, Boeing et aide au logement</title>
+      <description>Au programme aujourd'hui : le gouvernement marocain prend une mesure forte pour protéger le prix du pain face à la flambée du blé sur les marchés mondiaux. Royal Air Maroc achève un cycle historique de livraisons d'avions neufs, un signal fort à l'approche de la Coupe du monde 2030. Et enfin, un nouveau décret améliore concrètement les conditions d'achat pour les bénéficiaires de l'aide directe au logement. Commençons sans attendre.</description>
+      <itunes:summary>Au programme aujourd'hui : le gouvernement marocain prend une mesure forte pour protéger le prix du pain face à la flambée du blé sur les marchés mondiaux. Royal Air Maroc achève un cycle historique de livraisons d'avions neufs, un signal fort à l'approche de la Coupe du monde 2030. Et enfin, un nouveau décret améliore concrètement les conditions d'achat pour les bénéficiaires de l'aide directe au logement. Commençons sans attendre.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-07.mp3" length="4730764" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>295</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 06/10/2026 : Crédit bancaire en hausse, bénéfices boursiers et risques agricoles</title>
       <description>Au programme ce matin : le crédit bancaire franchit un nouveau palier, porté par une envolée des financements à l'investissement. Les sociétés cotées affichent des bénéfices en forte progression, mais attention, le tableau est plus nuancé qu'il n'y paraît. Et enfin, les vagues de chaleur font planer une menace sérieuse sur la prochaine campagne agricole.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-23</guid>
       <pubDate>Thu, 23 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>313</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 22/07/2026 : Bilan bancaire record, Nador West Med sur la ligne de départ, et Curtiss-Wright s'installe au Maroc</title>
-      <description>Au programme ce matin : les banques marocaines affichent des profits historiques en 2025, mais Bank Al-Maghrib lance une alerte sur le crédit aux entreprises privées. Ensuite, le grand port de Nador West Med se prépare à accueillir ses premiers navires commerciaux d'ici la fin de l'année. Et enfin, un géant américain de l'aéronautique choisit le Maroc pour son premier ancrage sur le continent africain.</description>
-      <itunes:summary>Au programme ce matin : les banques marocaines affichent des profits historiques en 2025, mais Bank Al-Maghrib lance une alerte sur le crédit aux entreprises privées. Ensuite, le grand port de Nador West Med se prépare à accueillir ses premiers navires commerciaux d'ici la fin de l'année. Et enfin, un géant américain de l'aéronautique choisit le Maroc pour son premier ancrage sur le continent africain.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-22.mp3" length="4669880" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-22</guid>
-      <pubDate>Wed, 22 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>291</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

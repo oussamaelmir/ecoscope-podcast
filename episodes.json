@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-07",
+    "date": "2026-10-07",
+    "title": "ÉcoScope — 07/10/2026 : Blé, Boeing et aide au logement",
+    "description": "Au programme aujourd'hui : le gouvernement marocain prend une mesure forte pour protéger le prix du pain face à la flambée du blé sur les marchés mondiaux. Royal Air Maroc achève un cycle historique de livraisons d'avions neufs, un signal fort à l'approche de la Coupe du monde 2030. Et enfin, un nouveau décret améliore concrètement les conditions d'achat pour les bénéficiaires de l'aide directe au logement. Commençons sans attendre.",
+    "filename": "ecoscope-2026-10-07.mp3",
+    "bytes": 4730764,
+    "duration": 295
+  },
+  {
     "guid": "ecoscope-2026-10-06",
     "date": "2026-10-06",
     "title": "ÉcoScope — 06/10/2026 : Crédit bancaire en hausse, bénéfices boursiers et risques agricoles",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-23.mp3",
     "bytes": 5023415,
     "duration": 313
-  },
-  {
-    "guid": "ecoscope-2026-07-22",
-    "date": "2026-07-22",
-    "title": "ÉcoScope — 22/07/2026 : Bilan bancaire record, Nador West Med sur la ligne de départ, et Curtiss-Wright s'installe au Maroc",
-    "description": "Au programme ce matin : les banques marocaines affichent des profits historiques en 2025, mais Bank Al-Maghrib lance une alerte sur le crédit aux entreprises privées. Ensuite, le grand port de Nador West Med se prépare à accueillir ses premiers navires commerciaux d'ici la fin de l'année. Et enfin, un géant américain de l'aéronautique choisit le Maroc pour son premier ancrage sur le continent africain.",
-    "filename": "ecoscope-2026-07-22.mp3",
-    "bytes": 4669880,
-    "duration": 291
   }
 ]
