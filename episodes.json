@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-08",
+    "date": "2026-10-08",
+    "title": "ÉcoScope — 08/10/2026 : Commissions bancaires, Starlink à bord de RAM et boom des fonds immobiliers",
+    "description": "Au programme aujourd'hui : Bank Al-Maghrib abaisse le plafond des commissions sur les paiements par carte bancaire, une mesure concrète pour les commerçants et les consommateurs. Royal Air Maroc devient la première compagnie aérienne africaine à embarquer le Wi-Fi Starlink à bord de ses avions. Et enfin, les fonds immobiliers marocains, les OPCI, affichent une santé éclatante avec cent trente-quatre milliards de dirhams sous gestion et un taux d'occupation qui frôle les cent pour cent.",
+    "filename": "ecoscope-2026-10-08.mp3",
+    "bytes": 4663972,
+    "duration": 291
+  },
+  {
     "guid": "ecoscope-2026-10-07",
     "date": "2026-10-07",
     "title": "ÉcoScope — 07/10/2026 : Blé, Boeing et aide au logement",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-24.mp3",
     "bytes": 4600880,
     "duration": 287
-  },
-  {
-    "guid": "ecoscope-2026-07-23",
-    "date": "2026-07-23",
-    "title": "ÉcoScope — 23/07/2026 : Croissance à 5,3%, viandes rouges et câble Maroc-Allemagne dans l'impasse",
-    "description": "Au programme de cet épisode : la ministre des Finances présente des prévisions encourageantes au Parlement, avec une croissance attendue à cinq virgule trois pour cent en 2026. Ensuite, le gouvernement tente de faire baisser les prix de la viande rouge en supprimant les droits de douane sur les importations. Et enfin, le projet de câble sous-marin entre le Maroc et l'Allemagne, estimé à trente milliards de dollars, est bloqué par des désaccords bilatéraux.",
-    "filename": "ecoscope-2026-07-23.mp3",
-    "bytes": 5023415,
-    "duration": 313
   }
 ]

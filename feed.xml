@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Oct 2026 07:04:07 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:04:03 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 08/10/2026 : Commissions bancaires, Starlink à bord de RAM et boom des fonds immobiliers</title>
+      <description>Au programme aujourd'hui : Bank Al-Maghrib abaisse le plafond des commissions sur les paiements par carte bancaire, une mesure concrète pour les commerçants et les consommateurs. Royal Air Maroc devient la première compagnie aérienne africaine à embarquer le Wi-Fi Starlink à bord de ses avions. Et enfin, les fonds immobiliers marocains, les OPCI, affichent une santé éclatante avec cent trente-quatre milliards de dirhams sous gestion et un taux d'occupation qui frôle les cent pour cent.</description>
+      <itunes:summary>Au programme aujourd'hui : Bank Al-Maghrib abaisse le plafond des commissions sur les paiements par carte bancaire, une mesure concrète pour les commerçants et les consommateurs. Royal Air Maroc devient la première compagnie aérienne africaine à embarquer le Wi-Fi Starlink à bord de ses avions. Et enfin, les fonds immobiliers marocains, les OPCI, affichent une santé éclatante avec cent trente-quatre milliards de dirhams sous gestion et un taux d'occupation qui frôle les cent pour cent.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-08.mp3" length="4663972" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>291</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 07/10/2026 : Blé, Boeing et aide au logement</title>
       <description>Au programme aujourd'hui : le gouvernement marocain prend une mesure forte pour protéger le prix du pain face à la flambée du blé sur les marchés mondiaux. Royal Air Maroc achève un cycle historique de livraisons d'avions neufs, un signal fort à l'approche de la Coupe du monde 2030. Et enfin, un nouveau décret améliore concrètement les conditions d'achat pour les bénéficiaires de l'aide directe au logement. Commençons sans attendre.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-24</guid>
       <pubDate>Fri, 24 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>287</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 23/07/2026 : Croissance à 5,3%, viandes rouges et câble Maroc-Allemagne dans l'impasse</title>
-      <description>Au programme de cet épisode : la ministre des Finances présente des prévisions encourageantes au Parlement, avec une croissance attendue à cinq virgule trois pour cent en 2026. Ensuite, le gouvernement tente de faire baisser les prix de la viande rouge en supprimant les droits de douane sur les importations. Et enfin, le projet de câble sous-marin entre le Maroc et l'Allemagne, estimé à trente milliards de dollars, est bloqué par des désaccords bilatéraux.</description>
-      <itunes:summary>Au programme de cet épisode : la ministre des Finances présente des prévisions encourageantes au Parlement, avec une croissance attendue à cinq virgule trois pour cent en 2026. Ensuite, le gouvernement tente de faire baisser les prix de la viande rouge en supprimant les droits de douane sur les importations. Et enfin, le projet de câble sous-marin entre le Maroc et l'Allemagne, estimé à trente milliards de dollars, est bloqué par des désaccords bilatéraux.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-23.mp3" length="5023415" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-23</guid>
-      <pubDate>Thu, 23 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>313</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
