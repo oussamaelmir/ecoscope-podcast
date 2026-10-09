@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 Oct 2026 07:04:03 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:03:48 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 09/10/2026 : Discours royal au Parlement, record touristique et Marrakech Airshow</title>
+      <description>Au programme ce matin : le Roi Mohammed VI prononce un discours devant les deux Chambres du Parlement pour inaugurer la douzième Législature, avec en filigrane la question des priorités économiques du nouveau gouvernement. Côté tourisme, le Maroc franchit la barre des quinze virgule sept millions d'arrivées à fin septembre, en nette progression. Et enfin, le Marrakech Airshow accouche d'accords industriels concrets, avec près de neuf cent cinquante emplois à la clé et une flotte Royal Air Maroc qui va changer de visage.</description>
+      <itunes:summary>Au programme ce matin : le Roi Mohammed VI prononce un discours devant les deux Chambres du Parlement pour inaugurer la douzième Législature, avec en filigrane la question des priorités économiques du nouveau gouvernement. Côté tourisme, le Maroc franchit la barre des quinze virgule sept millions d'arrivées à fin septembre, en nette progression. Et enfin, le Marrakech Airshow accouche d'accords industriels concrets, avec près de neuf cent cinquante emplois à la clé et une flotte Royal Air Maroc qui va changer de visage.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-09.mp3" length="4565326" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>285</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 08/10/2026 : Commissions bancaires, Starlink à bord de RAM et boom des fonds immobiliers</title>
       <description>Au programme aujourd'hui : Bank Al-Maghrib abaisse le plafond des commissions sur les paiements par carte bancaire, une mesure concrète pour les commerçants et les consommateurs. Royal Air Maroc devient la première compagnie aérienne africaine à embarquer le Wi-Fi Starlink à bord de ses avions. Et enfin, les fonds immobiliers marocains, les OPCI, affichent une santé éclatante avec cent trente-quatre milliards de dirhams sous gestion et un taux d'occupation qui frôle les cent pour cent.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-25</guid>
       <pubDate>Sat, 25 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>289</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 24/07/2026 : Pétrole à 100 dollars, Tanger Med noté Investment Grade et Power Export en action</title>
-      <description>Au menu ce matin : le baril de Brent franchit le seuil des cent dollars sous l'effet des tensions en mer Rouge, ce qui fait peser un risque sérieux sur le budget marocain. Ensuite, Tanger Med Port Authority décroche une double notation Investment Grade de Moody's et de Standard and Poor's. Et enfin, le programme Power Export retient une centaine d'entreprises marocaines pour les accompagner vers les marchés extérieurs.</description>
-      <itunes:summary>Au menu ce matin : le baril de Brent franchit le seuil des cent dollars sous l'effet des tensions en mer Rouge, ce qui fait peser un risque sérieux sur le budget marocain. Ensuite, Tanger Med Port Authority décroche une double notation Investment Grade de Moody's et de Standard and Poor's. Et enfin, le programme Power Export retient une centaine d'entreprises marocaines pour les accompagner vers les marchés extérieurs.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-24.mp3" length="4600880" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-24</guid>
-      <pubDate>Fri, 24 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>287</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

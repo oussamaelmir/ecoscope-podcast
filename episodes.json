@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-09",
+    "date": "2026-10-09",
+    "title": "ÉcoScope — 09/10/2026 : Discours royal au Parlement, record touristique et Marrakech Airshow",
+    "description": "Au programme ce matin : le Roi Mohammed VI prononce un discours devant les deux Chambres du Parlement pour inaugurer la douzième Législature, avec en filigrane la question des priorités économiques du nouveau gouvernement. Côté tourisme, le Maroc franchit la barre des quinze virgule sept millions d'arrivées à fin septembre, en nette progression. Et enfin, le Marrakech Airshow accouche d'accords industriels concrets, avec près de neuf cent cinquante emplois à la clé et une flotte Royal Air Maroc qui va changer de visage.",
+    "filename": "ecoscope-2026-10-09.mp3",
+    "bytes": 4565326,
+    "duration": 285
+  },
+  {
     "guid": "ecoscope-2026-10-08",
     "date": "2026-10-08",
     "title": "ÉcoScope — 08/10/2026 : Commissions bancaires, Starlink à bord de RAM et boom des fonds immobiliers",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-25.mp3",
     "bytes": 4637211,
     "duration": 289
-  },
-  {
-    "guid": "ecoscope-2026-07-24",
-    "date": "2026-07-24",
-    "title": "ÉcoScope — 24/07/2026 : Pétrole à 100 dollars, Tanger Med noté Investment Grade et Power Export en action",
-    "description": "Au menu ce matin : le baril de Brent franchit le seuil des cent dollars sous l'effet des tensions en mer Rouge, ce qui fait peser un risque sérieux sur le budget marocain. Ensuite, Tanger Med Port Authority décroche une double notation Investment Grade de Moody's et de Standard and Poor's. Et enfin, le programme Power Export retient une centaine d'entreprises marocaines pour les accompagner vers les marchés extérieurs.",
-    "filename": "ecoscope-2026-07-24.mp3",
-    "bytes": 4600880,
-    "duration": 287
   }
 ]
