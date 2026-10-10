@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-10",
+    "date": "2026-10-10",
+    "title": "ÉcoScope — 10/10/2026 : Discours Royal au Parlement, investissement chinois à Tanger Tech et dirham numérique",
+    "description": "Au programme ce matin : le Roi Mohammed VI a ouvert la douzième Législature avec un discours ambitieux sur les réformes et la justice sociale. Ensuite, un groupe industriel chinois choisit Tanger Tech plutôt que la Slovaquie pour une usine de cent cinq millions d'euros. Et enfin, Bank Al-Maghrib publie deux documents de travail sur le dirham numérique, une réflexion qui pourrait transformer notre système financier.",
+    "filename": "ecoscope-2026-10-10.mp3",
+    "bytes": 4548639,
+    "duration": 284
+  },
+  {
     "guid": "ecoscope-2026-10-09",
     "date": "2026-10-09",
     "title": "ÉcoScope — 09/10/2026 : Discours royal au Parlement, record touristique et Marrakech Airshow",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-26.mp3",
     "bytes": 5084419,
     "duration": 317
-  },
-  {
-    "guid": "ecoscope-2026-07-25",
-    "date": "2026-07-25",
-    "title": "ÉcoScope — 25/07/2026 : Droits de douane américains, milliards de la BAD et tourisme record",
-    "description": "Au programme ce matin : le Maroc dans le viseur de Washington, avec une hausse des droits de douane américains et une mauvaise nouvelle supplémentaire pour les engrais d'OCP. Ensuite, une pluie de financements de la Banque africaine de développement, avec près de sept cents millions d'euros mobilisés en une seule journée pour des projets stratégiques. Et enfin, une très belle nouvelle pour le tourisme marocain, qui affiche près de neuf virgule quatre millions de visiteurs à mi-parcours de l'année.",
-    "filename": "ecoscope-2026-07-25.mp3",
-    "bytes": 4637211,
-    "duration": 289
   }
 ]
