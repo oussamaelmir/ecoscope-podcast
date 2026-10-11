@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-11",
+    "date": "2026-10-11",
+    "title": "ÉcoScope — 11/10/2026 : Dirham en baisse, liquidité bancaire sous tension et boom des voitures électrifiées",
+    "description": "Au programme aujourd'hui : le dirham continue de reculer face à l'euro et au dollar, avec des conséquences directes sur le pouvoir d'achat des ménages et le coût des importations. Nous ferons ensuite le point sur la liquidité bancaire, dont le déficit se creuse encore en septembre. Et enfin, bonne nouvelle pour la transition énergétique : les voitures hybrides et électriques représentent désormais près d'une vente sur cinq au Maroc.",
+    "filename": "ecoscope-2026-10-11.mp3",
+    "bytes": 4706210,
+    "duration": 294
+  },
+  {
     "guid": "ecoscope-2026-10-10",
     "date": "2026-10-10",
     "title": "ÉcoScope — 10/10/2026 : Discours Royal au Parlement, investissement chinois à Tanger Tech et dirham numérique",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-27.mp3",
     "bytes": 5346130,
     "duration": 334
-  },
-  {
-    "guid": "ecoscope-2026-07-26",
-    "date": "2026-07-26",
-    "title": "ÉcoScope — 26/07/2026 : TVA en recul, contrôle des changes renforcé, ciment en baisse",
-    "description": "Au programme aujourd'hui : les recettes nettes de TVA intérieure affichent un taux d'exécution inhabituellement bas à mi-année, et nous allons vous expliquer pourquoi ce chiffre est trompeur. Ensuite, l'Office des Changes révèle l'ampleur de sa surveillance sur les flux financiers extérieurs des entreprises. Et enfin, le secteur du bâtiment montre des signes d'essoufflement après une année 2025 très dynamique.",
-    "filename": "ecoscope-2026-07-26.mp3",
-    "bytes": 5084419,
-    "duration": 317
   }
 ]

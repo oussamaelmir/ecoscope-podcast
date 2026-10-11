@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 10 Oct 2026 07:03:57 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:03:46 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 11/10/2026 : Dirham en baisse, liquidité bancaire sous tension et boom des voitures électrifiées</title>
+      <description>Au programme aujourd'hui : le dirham continue de reculer face à l'euro et au dollar, avec des conséquences directes sur le pouvoir d'achat des ménages et le coût des importations. Nous ferons ensuite le point sur la liquidité bancaire, dont le déficit se creuse encore en septembre. Et enfin, bonne nouvelle pour la transition énergétique : les voitures hybrides et électriques représentent désormais près d'une vente sur cinq au Maroc.</description>
+      <itunes:summary>Au programme aujourd'hui : le dirham continue de reculer face à l'euro et au dollar, avec des conséquences directes sur le pouvoir d'achat des ménages et le coût des importations. Nous ferons ensuite le point sur la liquidité bancaire, dont le déficit se creuse encore en septembre. Et enfin, bonne nouvelle pour la transition énergétique : les voitures hybrides et électriques représentent désormais près d'une vente sur cinq au Maroc.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-11.mp3" length="4706210" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>294</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 10/10/2026 : Discours Royal au Parlement, investissement chinois à Tanger Tech et dirham numérique</title>
       <description>Au programme ce matin : le Roi Mohammed VI a ouvert la douzième Législature avec un discours ambitieux sur les réformes et la justice sociale. Ensuite, un groupe industriel chinois choisit Tanger Tech plutôt que la Slovaquie pour une usine de cent cinq millions d'euros. Et enfin, Bank Al-Maghrib publie deux documents de travail sur le dirham numérique, une réflexion qui pourrait transformer notre système financier.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-27</guid>
       <pubDate>Mon, 27 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>334</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 26/07/2026 : TVA en recul, contrôle des changes renforcé, ciment en baisse</title>
-      <description>Au programme aujourd'hui : les recettes nettes de TVA intérieure affichent un taux d'exécution inhabituellement bas à mi-année, et nous allons vous expliquer pourquoi ce chiffre est trompeur. Ensuite, l'Office des Changes révèle l'ampleur de sa surveillance sur les flux financiers extérieurs des entreprises. Et enfin, le secteur du bâtiment montre des signes d'essoufflement après une année 2025 très dynamique.</description>
-      <itunes:summary>Au programme aujourd'hui : les recettes nettes de TVA intérieure affichent un taux d'exécution inhabituellement bas à mi-année, et nous allons vous expliquer pourquoi ce chiffre est trompeur. Ensuite, l'Office des Changes révèle l'ampleur de sa surveillance sur les flux financiers extérieurs des entreprises. Et enfin, le secteur du bâtiment montre des signes d'essoufflement après une année 2025 très dynamique.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-26.mp3" length="5084419" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-26</guid>
-      <pubDate>Sun, 26 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>317</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
