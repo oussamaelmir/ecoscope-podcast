@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-12",
+    "date": "2026-10-12",
+    "title": "ÉcoScope — 12/10/2026 : Bourse en recul, nouveau terminal de Mohammed V et barrages au beau fixe",
+    "description": "Au programme aujourd'hui : la Bourse de Casablanca enchaîne une deuxième semaine consécutive dans le rouge, avec un MASI qui recule encore significativement. Ensuite, l'ONDA accélère les travaux du nouveau terminal de l'aéroport Mohammed V avec plus de 505 millions de dirhams de marchés publics. Et enfin, une bonne nouvelle pour le monde agricole : les barrages marocains affichent un taux de remplissage de 65,51 %, soit le double de l'an dernier, à l'approche de la nouvelle campagne.",
+    "filename": "ecoscope-2026-10-12.mp3",
+    "bytes": 4706182,
+    "duration": 294
+  },
+  {
     "guid": "ecoscope-2026-10-11",
     "date": "2026-10-11",
     "title": "ÉcoScope — 11/10/2026 : Dirham en baisse, liquidité bancaire sous tension et boom des voitures électrifiées",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-28.mp3",
     "bytes": 4586640,
     "duration": 286
-  },
-  {
-    "guid": "ecoscope-2026-07-27",
-    "date": "2026-07-27",
-    "title": "ÉcoScope — 27/07/2026 : Marché du travail fragile, l'État dévore le crédit bancaire, Renault et la 5G d'IAM en plein essor",
-    "description": "Au programme aujourd'hui : la Banque mondiale salue la croissance marocaine, mais tire la sonnette d'alarme sur un marché de l'emploi bien plus fragile qu'on ne le croyait. Ensuite, nous verrons comment l'État est devenu le premier client des banques marocaines, au détriment des entreprises et des ménages. Et enfin, deux signaux positifs pour l'économie : Renault renforce sa production au Maroc, et la 5G de Maroc Telecom commence à produire des effets bien concrets.",
-    "filename": "ecoscope-2026-07-27.mp3",
-    "bytes": 5346130,
-    "duration": 334
   }
 ]
