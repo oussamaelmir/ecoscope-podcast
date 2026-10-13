@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-13",
+    "date": "2026-10-13",
+    "title": "ÉcoScope — 13/10/2026 : Nouveau gouvernement, croissance revue à la baisse et pêche en pleine forme",
+    "description": "Au programme ce matin : la nouvelle coalition gouvernementale est formée, mais elle hérite d'un passif budgétaire particulièrement lourd. Côté macro, BMCE Capital Global Research revoit la croissance à la baisse à quatre virgule sept pour cent, pendant que le Trésor choisit de ne rien emprunter malgré près de cinq milliards de dirhams de soumissions. Et enfin, une bonne nouvelle du côté de la mer : la pêche côtière affiche une hausse de dix-neuf pour cent de ses débarquements à fin septembre.",
+    "filename": "ecoscope-2026-10-13.mp3",
+    "bytes": 5041391,
+    "duration": 315
+  },
+  {
     "guid": "ecoscope-2026-10-12",
     "date": "2026-10-12",
     "title": "ÉcoScope — 12/10/2026 : Bourse en recul, nouveau terminal de Mohammed V et barrages au beau fixe",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-29.mp3",
     "bytes": 5130015,
     "duration": 320
-  },
-  {
-    "guid": "ecoscope-2026-07-28",
-    "date": "2026-07-28",
-    "title": "ÉcoScope — 28/07/2026 : IPO de T2S, réforme des prix des médicaments et LGV Kénitra-Marrakech",
-    "description": "Au programme ce matin : un engouement historique pour l'introduction en Bourse de T2S, sursouscrite près de quarante-quatre fois par plus de cent onze mille investisseurs. Nous ferons ensuite le point sur le nouveau décret de réforme des prix des médicaments, adopté dans un contexte de négociations tendues entre le ministre de la Santé et les acteurs du secteur. Et pour finir, une nouvelle attribution de marché sur le chantier de la ligne à grande vitesse entre Kénitra et Marrakech, avec un contrat de plus de cinq cent soixante millions de dirhams décroché par le groupe TGCC.",
-    "filename": "ecoscope-2026-07-28.mp3",
-    "bytes": 4586640,
-    "duration": 286
   }
 ]

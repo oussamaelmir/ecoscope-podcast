@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 Oct 2026 07:03:53 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:04:17 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 13/10/2026 : Nouveau gouvernement, croissance revue à la baisse et pêche en pleine forme</title>
+      <description>Au programme ce matin : la nouvelle coalition gouvernementale est formée, mais elle hérite d'un passif budgétaire particulièrement lourd. Côté macro, BMCE Capital Global Research revoit la croissance à la baisse à quatre virgule sept pour cent, pendant que le Trésor choisit de ne rien emprunter malgré près de cinq milliards de dirhams de soumissions. Et enfin, une bonne nouvelle du côté de la mer : la pêche côtière affiche une hausse de dix-neuf pour cent de ses débarquements à fin septembre.</description>
+      <itunes:summary>Au programme ce matin : la nouvelle coalition gouvernementale est formée, mais elle hérite d'un passif budgétaire particulièrement lourd. Côté macro, BMCE Capital Global Research revoit la croissance à la baisse à quatre virgule sept pour cent, pendant que le Trésor choisit de ne rien emprunter malgré près de cinq milliards de dirhams de soumissions. Et enfin, une bonne nouvelle du côté de la mer : la pêche côtière affiche une hausse de dix-neuf pour cent de ses débarquements à fin septembre.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-13.mp3" length="5041391" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>315</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 12/10/2026 : Bourse en recul, nouveau terminal de Mohammed V et barrages au beau fixe</title>
       <description>Au programme aujourd'hui : la Bourse de Casablanca enchaîne une deuxième semaine consécutive dans le rouge, avec un MASI qui recule encore significativement. Ensuite, l'ONDA accélère les travaux du nouveau terminal de l'aéroport Mohammed V avec plus de 505 millions de dirhams de marchés publics. Et enfin, une bonne nouvelle pour le monde agricole : les barrages marocains affichent un taux de remplissage de 65,51 %, soit le double de l'an dernier, à l'approche de la nouvelle campagne.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-29</guid>
       <pubDate>Wed, 29 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>320</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 28/07/2026 : IPO de T2S, réforme des prix des médicaments et LGV Kénitra-Marrakech</title>
-      <description>Au programme ce matin : un engouement historique pour l'introduction en Bourse de T2S, sursouscrite près de quarante-quatre fois par plus de cent onze mille investisseurs. Nous ferons ensuite le point sur le nouveau décret de réforme des prix des médicaments, adopté dans un contexte de négociations tendues entre le ministre de la Santé et les acteurs du secteur. Et pour finir, une nouvelle attribution de marché sur le chantier de la ligne à grande vitesse entre Kénitra et Marrakech, avec un contrat de plus de cinq cent soixante millions de dirhams décroché par le groupe TGCC.</description>
-      <itunes:summary>Au programme ce matin : un engouement historique pour l'introduction en Bourse de T2S, sursouscrite près de quarante-quatre fois par plus de cent onze mille investisseurs. Nous ferons ensuite le point sur le nouveau décret de réforme des prix des médicaments, adopté dans un contexte de négociations tendues entre le ministre de la Santé et les acteurs du secteur. Et pour finir, une nouvelle attribution de marché sur le chantier de la ligne à grande vitesse entre Kénitra et Marrakech, avec un contrat de plus de cinq cent soixante millions de dirhams décroché par le groupe TGCC.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-28.mp3" length="4586640" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-28</guid>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>286</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
