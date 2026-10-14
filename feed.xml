@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Oct 2026 07:04:17 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:03:50 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 14/10/2026 : FMI optimiste sur le Maroc, finances publiques en amélioration et COSUMAR lance sa campagne sucrière</title>
+      <description>Au programme aujourd'hui : le FMI confirme une croissance solide pour le Maroc, mais le chômage reste un point de vigilance. Les finances publiques affichent une nette amélioration à fin septembre. Et COSUMAR lance une vaste campagne agricole sur soixante-trois mille hectares pour sécuriser notre production de sucre.</description>
+      <itunes:summary>Au programme aujourd'hui : le FMI confirme une croissance solide pour le Maroc, mais le chômage reste un point de vigilance. Les finances publiques affichent une nette amélioration à fin septembre. Et COSUMAR lance une vaste campagne agricole sur soixante-trois mille hectares pour sécuriser notre production de sucre.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-14.mp3" length="4546584" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>284</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 13/10/2026 : Nouveau gouvernement, croissance revue à la baisse et pêche en pleine forme</title>
       <description>Au programme ce matin : la nouvelle coalition gouvernementale est formée, mais elle hérite d'un passif budgétaire particulièrement lourd. Côté macro, BMCE Capital Global Research revoit la croissance à la baisse à quatre virgule sept pour cent, pendant que le Trésor choisit de ne rien emprunter malgré près de cinq milliards de dirhams de soumissions. Et enfin, une bonne nouvelle du côté de la mer : la pêche côtière affiche une hausse de dix-neuf pour cent de ses débarquements à fin septembre.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-07-30</guid>
       <pubDate>Thu, 30 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>312</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 29/07/2026 : Plan géant de l'ONEE, bénéfice record d'Attijariwafa et facture import en hausse</title>
-      <description>Au programme aujourd'hui : l'ONEE lance un plan d'investissement historique de plus de 248 milliards de dirhams pour transformer notre mix énergétique d'ici 2030. Attijariwafa bank affiche un bénéfice proche de six milliards de dirhams au premier semestre, signe d'un secteur bancaire en pleine forme. Et enfin, une facture qui inquiète : les importations de biens de consommation ont franchi le cap des 203 milliards de dirhams en 2025, une hausse qui interpelle sur la capacité industrielle du Maroc.</description>
-      <itunes:summary>Au programme aujourd'hui : l'ONEE lance un plan d'investissement historique de plus de 248 milliards de dirhams pour transformer notre mix énergétique d'ici 2030. Attijariwafa bank affiche un bénéfice proche de six milliards de dirhams au premier semestre, signe d'un secteur bancaire en pleine forme. Et enfin, une facture qui inquiète : les importations de biens de consommation ont franchi le cap des 203 milliards de dirhams en 2025, une hausse qui interpelle sur la capacité industrielle du Maroc.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-29.mp3" length="5130015" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-29</guid>
-      <pubDate>Wed, 29 Jul 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>320</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
