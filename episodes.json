@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-15",
+    "date": "2026-10-15",
+    "title": "ÉcoScope — 15/10/2026 : OCP s'empare d'Emaphos, 134 milliards pour le rail et la Bourse sous les 17 000 points",
+    "description": "Au programme aujourd'hui : OCP prend le contrôle total d'Emaphos et renforce sa maîtrise sur toute la chaîne phosphatière. Ensuite, le Maroc affiche un programme ferroviaire de cent trente-quatre milliards de dirhams et accueille un sommet africain du rail à Rabat. Et enfin, deux signaux forts du marché : Masen lance un grand appel d'offres solaire, pendant que la Bourse de Casablanca enfonce un seuil psychologique. Restez avec moi.",
+    "filename": "ecoscope-2026-10-15.mp3",
+    "bytes": 4929818,
+    "duration": 308
+  },
+  {
     "guid": "ecoscope-2026-10-14",
     "date": "2026-10-14",
     "title": "ÉcoScope — 14/10/2026 : FMI optimiste sur le Maroc, finances publiques en amélioration et COSUMAR lance sa campagne sucrière",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-07-31.mp3",
     "bytes": 4759687,
     "duration": 297
-  },
-  {
-    "guid": "ecoscope-2026-07-30",
-    "date": "2026-07-30",
-    "title": "ÉcoScope — 30/07/2026 : Discours du Trône, exportations agroalimentaires et sécurité hydrique",
-    "description": "Au programme ce matin : le Roi Mohammed VI a prononcé son Discours du Trône et placé la finance au cœur de la transformation du pays. Le secteur agroalimentaire marocain affiche une performance impressionnante à l'export, avec plus de 86 milliards de dirhams de recettes en 2025. Et sur le front de l'eau, deux avancées majeures en une seule journée : une garantie de 250 millions d'euros mobilisée pour l'ONEE, et la station de dessalement de Tanger qui avance à grands pas.",
-    "filename": "ecoscope-2026-07-30.mp3",
-    "bytes": 4996658,
-    "duration": 312
   }
 ]
