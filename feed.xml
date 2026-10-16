@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Oct 2026 07:04:16 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:05:01 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 16/10/2026 : Pouvoir d'achat en berne, commerce extérieur contrasté et Gigafactory à Kénitra</title>
+      <description>Au programme ce matin : une enquête du Haut-Commissariat au Plan qui révèle à quel point les ménages marocains peinent à joindre les deux bouts. Ensuite, un bilan contrasté du commerce extérieur, avec un secteur automobile toujours champion à l'export mais un déficit vis-à-vis du reste du monde qui continue de se creuser. Et enfin, une très bonne nouvelle industrielle : la Gigafactory de batteries de Kénitra vient de franchir une étape décisive, et ce en un temps record.</description>
+      <itunes:summary>Au programme ce matin : une enquête du Haut-Commissariat au Plan qui révèle à quel point les ménages marocains peinent à joindre les deux bouts. Ensuite, un bilan contrasté du commerce extérieur, avec un secteur automobile toujours champion à l'export mais un déficit vis-à-vis du reste du monde qui continue de se creuser. Et enfin, une très bonne nouvelle industrielle : la Gigafactory de batteries de Kénitra vient de franchir une étape décisive, et ce en un temps record.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-16.mp3" length="5053526" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>315</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 15/10/2026 : OCP s'empare d'Emaphos, 134 milliards pour le rail et la Bourse sous les 17 000 points</title>
       <description>Au programme aujourd'hui : OCP prend le contrôle total d'Emaphos et renforce sa maîtrise sur toute la chaîne phosphatière. Ensuite, le Maroc affiche un programme ferroviaire de cent trente-quatre milliards de dirhams et accueille un sommet africain du rail à Rabat. Et enfin, deux signaux forts du marché : Masen lance un grand appel d'offres solaire, pendant que la Bourse de Casablanca enfonce un seuil psychologique. Restez avec moi.</description>
@@ -672,17 +683,6 @@
       <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-01.mp3" length="4762215" type="audio/mpeg"/>
       <guid isPermaLink="false">ecoscope-2026-08-01</guid>
       <pubDate>Sat, 01 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>297</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 31/07/2026 : Gazoduc Nigeria-Maroc, retraites en suspens et fiscalité des entreprises</title>
-      <description>Au programme aujourd'hui : le projet de Gazoduc Nigeria-Maroc franchit un cap historique, avec l'adhésion officielle des pays de la CEDEAO. Ensuite, nous ferons le point sur la réforme des retraites, une nouvelle fois renvoyée au prochain gouvernement malgré des signaux financiers légèrement meilleurs. Et enfin, un rapport de l'OCDE place le Maroc parmi les pays où l'impôt sur les sociétés pèse le plus lourd au monde.</description>
-      <itunes:summary>Au programme aujourd'hui : le projet de Gazoduc Nigeria-Maroc franchit un cap historique, avec l'adhésion officielle des pays de la CEDEAO. Ensuite, nous ferons le point sur la réforme des retraites, une nouvelle fois renvoyée au prochain gouvernement malgré des signaux financiers légèrement meilleurs. Et enfin, un rapport de l'OCDE place le Maroc parmi les pays où l'impôt sur les sociétés pèse le plus lourd au monde.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-07-31.mp3" length="4759687" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-07-31</guid>
-      <pubDate>Fri, 31 Jul 2026 06:00:00 +0100</pubDate>
       <itunes:duration>297</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
