@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 Oct 2026 07:05:01 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:03:49 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 17/10/2026 : Nouveau gouvernement El Mansouri, Conseil de la concurrence et tensions obligataires</title>
+      <description>Au programme ce matin : la composition du nouveau gouvernement conduit par Fatima Ezzahra El Mansouri, avec un focus sur les ministres économiques qui vont piloter les grandes politiques du pays. Puis nous regarderons de près le rapport annuel du Conseil de la concurrence, qui tire la sonnette d'alarme sur les marchés des hydrocarbures, du ciment et de l'acier. Et enfin, nous ferons le point sur les tensions qui s'intensifient sur le marché obligataire marocain.</description>
+      <itunes:summary>Au programme ce matin : la composition du nouveau gouvernement conduit par Fatima Ezzahra El Mansouri, avec un focus sur les ministres économiques qui vont piloter les grandes politiques du pays. Puis nous regarderons de près le rapport annuel du Conseil de la concurrence, qui tire la sonnette d'alarme sur les marchés des hydrocarbures, du ciment et de l'acier. Et enfin, nous ferons le point sur les tensions qui s'intensifient sur le marché obligataire marocain.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-17.mp3" length="4550309" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>284</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 16/10/2026 : Pouvoir d'achat en berne, commerce extérieur contrasté et Gigafactory à Kénitra</title>
       <description>Au programme ce matin : une enquête du Haut-Commissariat au Plan qui révèle à quel point les ménages marocains peinent à joindre les deux bouts. Ensuite, un bilan contrasté du commerce extérieur, avec un secteur automobile toujours champion à l'export mais un déficit vis-à-vis du reste du monde qui continue de se creuser. Et enfin, une très bonne nouvelle industrielle : la Gigafactory de batteries de Kénitra vient de franchir une étape décisive, et ce en un temps record.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-02</guid>
       <pubDate>Sun, 02 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>282</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 01/08/2026 : Balance des paiements record, hausse des carburants et boom des exportations automobiles</title>
-      <description>Au programme aujourd'hui : l'Office des Changes publie son tableau de bord semestriel, et les résultats sont remarquables, que ce soit pour les investissements étrangers, le tourisme ou les transferts des Marocains résidant à l'étranger. Ensuite, une mauvaise nouvelle pour les automobilistes : les prix des carburants pourraient bondir dès ce mois d'août. Et enfin, le secteur automobile confirme qu'il est bien le champion des exportations marocaines, avec un premier semestre historique.</description>
-      <itunes:summary>Au programme aujourd'hui : l'Office des Changes publie son tableau de bord semestriel, et les résultats sont remarquables, que ce soit pour les investissements étrangers, le tourisme ou les transferts des Marocains résidant à l'étranger. Ensuite, une mauvaise nouvelle pour les automobilistes : les prix des carburants pourraient bondir dès ce mois d'août. Et enfin, le secteur automobile confirme qu'il est bien le champion des exportations marocaines, avec un premier semestre historique.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-01.mp3" length="4762215" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-01</guid>
-      <pubDate>Sat, 01 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>297</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

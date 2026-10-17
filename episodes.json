@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-17",
+    "date": "2026-10-17",
+    "title": "ÉcoScope — 17/10/2026 : Nouveau gouvernement El Mansouri, Conseil de la concurrence et tensions obligataires",
+    "description": "Au programme ce matin : la composition du nouveau gouvernement conduit par Fatima Ezzahra El Mansouri, avec un focus sur les ministres économiques qui vont piloter les grandes politiques du pays. Puis nous regarderons de près le rapport annuel du Conseil de la concurrence, qui tire la sonnette d'alarme sur les marchés des hydrocarbures, du ciment et de l'acier. Et enfin, nous ferons le point sur les tensions qui s'intensifient sur le marché obligataire marocain.",
+    "filename": "ecoscope-2026-10-17.mp3",
+    "bytes": 4550309,
+    "duration": 284
+  },
+  {
     "guid": "ecoscope-2026-10-16",
     "date": "2026-10-16",
     "title": "ÉcoScope — 16/10/2026 : Pouvoir d'achat en berne, commerce extérieur contrasté et Gigafactory à Kénitra",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-02.mp3",
     "bytes": 4515993,
     "duration": 282
-  },
-  {
-    "guid": "ecoscope-2026-08-01",
-    "date": "2026-08-01",
-    "title": "ÉcoScope — 01/08/2026 : Balance des paiements record, hausse des carburants et boom des exportations automobiles",
-    "description": "Au programme aujourd'hui : l'Office des Changes publie son tableau de bord semestriel, et les résultats sont remarquables, que ce soit pour les investissements étrangers, le tourisme ou les transferts des Marocains résidant à l'étranger. Ensuite, une mauvaise nouvelle pour les automobilistes : les prix des carburants pourraient bondir dès ce mois d'août. Et enfin, le secteur automobile confirme qu'il est bien le champion des exportations marocaines, avec un premier semestre historique.",
-    "filename": "ecoscope-2026-08-01.mp3",
-    "bytes": 4762215,
-    "duration": 297
   }
 ]
