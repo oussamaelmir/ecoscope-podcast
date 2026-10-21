@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-21",
+    "date": "2026-10-21",
+    "title": "ÉcoScope — 21/10/2026 : Réforme de l'IR, boom du tourisme et vote du programme gouvernemental",
+    "description": "Au programme ce matin : une réforme de l'impôt sur le revenu qui promet un allègement fiscal historique pour des millions de salariés. Ensuite, le tourisme confirme son statut de moteur de l'économie nationale avec des chiffres records en 2025. Et enfin, le programme gouvernemental d'El Mansouri passe demain devant la Chambre des représentants — mais ses ambitions sociales soulèvent déjà des questions sur les finances publiques.",
+    "filename": "ecoscope-2026-10-21.mp3",
+    "bytes": 4927700,
+    "duration": 307
+  },
+  {
     "guid": "ecoscope-2026-10-17",
     "date": "2026-10-17",
     "title": "ÉcoScope — 17/10/2026 : Nouveau gouvernement El Mansouri, Conseil de la concurrence et tensions obligataires",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-03.mp3",
     "bytes": 4681914,
     "duration": 292
-  },
-  {
-    "guid": "ecoscope-2026-08-02",
-    "date": "2026-08-02",
-    "title": "ÉcoScope — 02/08/2026 : Carburants stables, profits sans emplois et assurances au sommet",
-    "description": "Au programme aujourd'hui : une hausse des prix des carburants attendue depuis plusieurs jours qui ne s'est finalement pas produite, et ce pour des raisons encore floues. Ensuite, nous nous pencherons sur un paradoxe qui interroge : les entreprises marocaines font davantage de bénéfices, mais investissent et créent peu d'emplois. Et enfin, bonne nouvelle pour le secteur des assurances, qui affiche des résultats historiques en 2025 et se prépare à une réforme réglementaire de fond.",
-    "filename": "ecoscope-2026-08-02.mp3",
-    "bytes": 4515993,
-    "duration": 282
   }
 ]

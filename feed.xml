@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 Oct 2026 07:03:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:14:10 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 21/10/2026 : Réforme de l'IR, boom du tourisme et vote du programme gouvernemental</title>
+      <description>Au programme ce matin : une réforme de l'impôt sur le revenu qui promet un allègement fiscal historique pour des millions de salariés. Ensuite, le tourisme confirme son statut de moteur de l'économie nationale avec des chiffres records en 2025. Et enfin, le programme gouvernemental d'El Mansouri passe demain devant la Chambre des représentants — mais ses ambitions sociales soulèvent déjà des questions sur les finances publiques.</description>
+      <itunes:summary>Au programme ce matin : une réforme de l'impôt sur le revenu qui promet un allègement fiscal historique pour des millions de salariés. Ensuite, le tourisme confirme son statut de moteur de l'économie nationale avec des chiffres records en 2025. Et enfin, le programme gouvernemental d'El Mansouri passe demain devant la Chambre des représentants — mais ses ambitions sociales soulèvent déjà des questions sur les finances publiques.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-21.mp3" length="4927700" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>307</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 17/10/2026 : Nouveau gouvernement El Mansouri, Conseil de la concurrence et tensions obligataires</title>
       <description>Au programme ce matin : la composition du nouveau gouvernement conduit par Fatima Ezzahra El Mansouri, avec un focus sur les ministres économiques qui vont piloter les grandes politiques du pays. Puis nous regarderons de près le rapport annuel du Conseil de la concurrence, qui tire la sonnette d'alarme sur les marchés des hydrocarbures, du ciment et de l'acier. Et enfin, nous ferons le point sur les tensions qui s'intensifient sur le marché obligataire marocain.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-03</guid>
       <pubDate>Mon, 03 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>292</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 02/08/2026 : Carburants stables, profits sans emplois et assurances au sommet</title>
-      <description>Au programme aujourd'hui : une hausse des prix des carburants attendue depuis plusieurs jours qui ne s'est finalement pas produite, et ce pour des raisons encore floues. Ensuite, nous nous pencherons sur un paradoxe qui interroge : les entreprises marocaines font davantage de bénéfices, mais investissent et créent peu d'emplois. Et enfin, bonne nouvelle pour le secteur des assurances, qui affiche des résultats historiques en 2025 et se prépare à une réforme réglementaire de fond.</description>
-      <itunes:summary>Au programme aujourd'hui : une hausse des prix des carburants attendue depuis plusieurs jours qui ne s'est finalement pas produite, et ce pour des raisons encore floues. Ensuite, nous nous pencherons sur un paradoxe qui interroge : les entreprises marocaines font davantage de bénéfices, mais investissent et créent peu d'emplois. Et enfin, bonne nouvelle pour le secteur des assurances, qui affiche des résultats historiques en 2025 et se prépare à une réforme réglementaire de fond.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-02.mp3" length="4515993" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-02</guid>
-      <pubDate>Sun, 02 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>282</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
