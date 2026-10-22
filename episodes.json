@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-22",
+    "date": "2026-10-22",
+    "title": "ÉcoScope — 22/10/2026 : PLF 2027 au Parlement, OCP lève 150 millions de dollars, et le cash marocain bat des records",
+    "description": "Au programme ce matin : le projet de loi de finances 2027 entre dans l'arène parlementaire, dans un contexte budgétaire en nette amélioration mais qui soulève des questions de fond sur la qualité de la dépense publique. Ensuite, OCP revient sur les marchés internationaux et lève près de cent cinquante millions de dollars supplémentaires, un geste fort de confiance des investisseurs. Et enfin, un chiffre qui interpelle : la monnaie en circulation au Maroc a franchi les cinq cent treize milliards de dirhams, même alors que les paiements électroniques se réforment.",
+    "filename": "ecoscope-2026-10-22.mp3",
+    "bytes": 5237030,
+    "duration": 327
+  },
+  {
     "guid": "ecoscope-2026-10-21",
     "date": "2026-10-21",
     "title": "ÉcoScope — 21/10/2026 : Réforme de l'IR, boom du tourisme et vote du programme gouvernemental",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-04.mp3",
     "bytes": 4965729,
     "duration": 310
-  },
-  {
-    "guid": "ecoscope-2026-08-03",
-    "date": "2026-08-03",
-    "title": "ÉcoScope — 03/08/2026 : Crise de Sebta, records en bourse et montée en gamme électrique",
-    "description": "Au programme ce matin : la crise migratoire autour de Sebta, qui révèle une détresse sociale profonde et soulève de vraies questions économiques. Ensuite, une bonne nouvelle pour les marchés financiers marocains, qui ont battu des records en 2025 grâce à l'engouement des épargnants. Et enfin, comment le Maroc monte en gamme dans l'industrie du véhicule électrique, bien au-delà du simple assemblage.",
-    "filename": "ecoscope-2026-08-03.mp3",
-    "bytes": 4681914,
-    "duration": 292
   }
 ]

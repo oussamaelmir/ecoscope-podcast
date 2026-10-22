@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 13:14:10 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:03:58 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 22/10/2026 : PLF 2027 au Parlement, OCP lève 150 millions de dollars, et le cash marocain bat des records</title>
+      <description>Au programme ce matin : le projet de loi de finances 2027 entre dans l'arène parlementaire, dans un contexte budgétaire en nette amélioration mais qui soulève des questions de fond sur la qualité de la dépense publique. Ensuite, OCP revient sur les marchés internationaux et lève près de cent cinquante millions de dollars supplémentaires, un geste fort de confiance des investisseurs. Et enfin, un chiffre qui interpelle : la monnaie en circulation au Maroc a franchi les cinq cent treize milliards de dirhams, même alors que les paiements électroniques se réforment.</description>
+      <itunes:summary>Au programme ce matin : le projet de loi de finances 2027 entre dans l'arène parlementaire, dans un contexte budgétaire en nette amélioration mais qui soulève des questions de fond sur la qualité de la dépense publique. Ensuite, OCP revient sur les marchés internationaux et lève près de cent cinquante millions de dollars supplémentaires, un geste fort de confiance des investisseurs. Et enfin, un chiffre qui interpelle : la monnaie en circulation au Maroc a franchi les cinq cent treize milliards de dirhams, même alors que les paiements électroniques se réforment.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-22.mp3" length="5237030" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>327</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 21/10/2026 : Réforme de l'IR, boom du tourisme et vote du programme gouvernemental</title>
       <description>Au programme ce matin : une réforme de l'impôt sur le revenu qui promet un allègement fiscal historique pour des millions de salariés. Ensuite, le tourisme confirme son statut de moteur de l'économie nationale avec des chiffres records en 2025. Et enfin, le programme gouvernemental d'El Mansouri passe demain devant la Chambre des représentants — mais ses ambitions sociales soulèvent déjà des questions sur les finances publiques.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-04</guid>
       <pubDate>Tue, 04 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>310</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 03/08/2026 : Crise de Sebta, records en bourse et montée en gamme électrique</title>
-      <description>Au programme ce matin : la crise migratoire autour de Sebta, qui révèle une détresse sociale profonde et soulève de vraies questions économiques. Ensuite, une bonne nouvelle pour les marchés financiers marocains, qui ont battu des records en 2025 grâce à l'engouement des épargnants. Et enfin, comment le Maroc monte en gamme dans l'industrie du véhicule électrique, bien au-delà du simple assemblage.</description>
-      <itunes:summary>Au programme ce matin : la crise migratoire autour de Sebta, qui révèle une détresse sociale profonde et soulève de vraies questions économiques. Ensuite, une bonne nouvelle pour les marchés financiers marocains, qui ont battu des records en 2025 grâce à l'engouement des épargnants. Et enfin, comment le Maroc monte en gamme dans l'industrie du véhicule électrique, bien au-delà du simple assemblage.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-03.mp3" length="4681914" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-03</guid>
-      <pubDate>Mon, 03 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>292</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
