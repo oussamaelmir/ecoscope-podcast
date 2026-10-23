@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-23",
+    "date": "2026-10-23",
+    "title": "ÉcoScope — 23/10/2026 : BAD, entreprises publiques et IPO Jet Energy",
+    "description": "Au programme aujourd'hui : la Banque africaine de développement débloque près de cinq cents millions de dollars pour accélérer les réformes structurelles du Maroc. Les entreprises publiques affichent un bénéfice record en 2024, porté par l'OCP et le redressement de l'ONEE. Et enfin, Jet Energy s'apprête à faire son entrée à la Bourse de Casablanca, avec une fourchette de prix déjà annoncée. Commençons.",
+    "filename": "ecoscope-2026-10-23.mp3",
+    "bytes": 4754615,
+    "duration": 297
+  },
+  {
     "guid": "ecoscope-2026-10-22",
     "date": "2026-10-22",
     "title": "ÉcoScope — 22/10/2026 : PLF 2027 au Parlement, OCP lève 150 millions de dollars, et le cash marocain bat des records",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-21.mp3",
     "bytes": 4767230,
     "duration": 297
-  },
-  {
-    "guid": "ecoscope-2026-08-04",
-    "date": "2026-08-04",
-    "title": "ÉcoScope — 04/08/2026 : Carburant en hausse, chômage en baisse et le barrage Kheng Grou en avance",
-    "description": "Au programme de cet épisode : une nouvelle hausse d'un dirham à la pompe qui alourdit encore le budget des Marocains, les derniers chiffres du marché du travail publiés par le HCP qui révèlent une réalité contrastée, et enfin une bonne nouvelle pour la sécurité hydrique du pays avec le barrage géant Kheng Grou, dont la mise en eau est avancée à décembre prochain.",
-    "filename": "ecoscope-2026-08-04.mp3",
-    "bytes": 4965729,
-    "duration": 310
   }
 ]
