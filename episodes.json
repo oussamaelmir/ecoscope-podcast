@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-24",
+    "date": "2026-10-24",
+    "title": "ÉcoScope — 24/10/2026 : PLF 2027, réforme bancaire et financement du Mondial 2030",
+    "description": "Au programme ce matin : le projet de loi de finances 2027 vient d'être présenté au Parlement, avec des mesures concrètes sur vos impôts et sur le prix de la viande. Ensuite, Bank Al-Maghrib franchit une étape importante pour moderniser la réglementation bancaire. Et enfin, on vous explique comment l'État compte financer les grandes infrastructures du Mondial 2030 sans alourdir sa dette.",
+    "filename": "ecoscope-2026-10-24.mp3",
+    "bytes": 5167581,
+    "duration": 322
+  },
+  {
     "guid": "ecoscope-2026-10-23",
     "date": "2026-10-23",
     "title": "ÉcoScope — 23/10/2026 : BAD, entreprises publiques et IPO Jet Energy",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-22.mp3",
     "bytes": 4883837,
     "duration": 305
-  },
-  {
-    "guid": "ecoscope-2026-08-21",
-    "date": "2026-08-21",
-    "title": "ÉcoScope — 21/08/2026 : Déficit budgétaire en recul, OCP et engrais européens, importations turques en hausse",
-    "description": "Au programme ce matin : une bonne nouvelle pour les finances publiques, avec un déficit budgétaire qui recule malgré des dépenses en forte hausse. Ensuite, nous verrons comment les tensions mondiales sur le marché des engrais profitent au Maroc et renforcent le rôle stratégique de l'OCP en Europe. Et enfin, un coup d'œil sur la montée en puissance des importations turques, qui posent des questions sur la compétitivité de notre industrie locale.",
-    "filename": "ecoscope-2026-08-21.mp3",
-    "bytes": 4767230,
-    "duration": 297
   }
 ]
