@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 Oct 2026 07:04:02 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:04:04 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 25/10/2026 : PLF 2027, fiscalité Mondial 2030 et paiements numériques en plein essor</title>
+      <description>Au programme aujourd'hui : le projet de loi de finances 2027 affiche des ambitions colossales en matière d'investissement public et de création de postes budgétaires. Toujours dans ce PLF, deux mesures fiscales retiennent l'attention — un régime dérogatoire pour la Coupe du monde 2030 et une taxe alourdie sur les véhicules de luxe. Et enfin, Bank Al-Maghrib confirme que les Marocains paient de plus en plus vite et de plus en plus souvent en numérique.</description>
+      <itunes:summary>Au programme aujourd'hui : le projet de loi de finances 2027 affiche des ambitions colossales en matière d'investissement public et de création de postes budgétaires. Toujours dans ce PLF, deux mesures fiscales retiennent l'attention — un régime dérogatoire pour la Coupe du monde 2030 et une taxe alourdie sur les véhicules de luxe. Et enfin, Bank Al-Maghrib confirme que les Marocains paient de plus en plus vite et de plus en plus souvent en numérique.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-25.mp3" length="4752997" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 24/10/2026 : PLF 2027, réforme bancaire et financement du Mondial 2030</title>
       <description>Au programme ce matin : le projet de loi de finances 2027 vient d'être présenté au Parlement, avec des mesures concrètes sur vos impôts et sur le prix de la viande. Ensuite, Bank Al-Maghrib franchit une étape importante pour moderniser la réglementation bancaire. Et enfin, on vous explique comment l'État compte financer les grandes infrastructures du Mondial 2030 sans alourdir sa dette.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-23</guid>
       <pubDate>Sun, 23 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>288</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 22/08/2026 : Équipementier chinois au Maroc, Maersk mise sur le rail, et cuivre dans le Haut Atlas</title>
-      <description>Au programme ce matin : un fabricant chinois de composants automobiles choisit le Maroc pour sa toute première usine en dehors de l'Asie, un signal fort pour notre industrie. Ensuite, le géant du transport maritime Maersk s'appuie désormais sur le rail pour relier Tanger Med à Casablanca. Et enfin, des découvertes minières spectaculaires dans le Haut Atlas occidental relancent l'exploration cuprifère au Maroc.</description>
-      <itunes:summary>Au programme ce matin : un fabricant chinois de composants automobiles choisit le Maroc pour sa toute première usine en dehors de l'Asie, un signal fort pour notre industrie. Ensuite, le géant du transport maritime Maersk s'appuie désormais sur le rail pour relier Tanger Med à Casablanca. Et enfin, des découvertes minières spectaculaires dans le Haut Atlas occidental relancent l'exploration cuprifère au Maroc.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-22.mp3" length="4883837" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-22</guid>
-      <pubDate>Sat, 22 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>305</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
