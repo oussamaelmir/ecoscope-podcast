@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 07:04:04 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:04:30 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 26/10/2026 : PLF 2027, commerce extérieur et financement hydrique de l'ONEE</title>
+      <description>Au programme aujourd'hui : le projet de loi de finances 2027 confirme le maintien des subventions sur les produits de base et relance une mesure pour faire entrer l'économie informelle dans le circuit officiel. Côté échanges extérieurs, les exportations progressent mais le déficit commercial se creuse. Et enfin, la Banque européenne d'investissement s'apprête à injecter cent trente millions d'euros pour moderniser les infrastructures en eau de l'ONEE.</description>
+      <itunes:summary>Au programme aujourd'hui : le projet de loi de finances 2027 confirme le maintien des subventions sur les produits de base et relance une mesure pour faire entrer l'économie informelle dans le circuit officiel. Côté échanges extérieurs, les exportations progressent mais le déficit commercial se creuse. Et enfin, la Banque européenne d'investissement s'apprête à injecter cent trente millions d'euros pour moderniser les infrastructures en eau de l'ONEE.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-26.mp3" length="4851194" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>303</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 25/10/2026 : PLF 2027, fiscalité Mondial 2030 et paiements numériques en plein essor</title>
       <description>Au programme aujourd'hui : le projet de loi de finances 2027 affiche des ambitions colossales en matière d'investissement public et de création de postes budgétaires. Toujours dans ce PLF, deux mesures fiscales retiennent l'attention — un régime dérogatoire pour la Coupe du monde 2030 et une taxe alourdie sur les véhicules de luxe. Et enfin, Bank Al-Maghrib confirme que les Marocains paient de plus en plus vite et de plus en plus souvent en numérique.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-24</guid>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>296</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 23/08/2026 : Loi bancaire, énergie verte et hub commercial africain</title>
-      <description>Au programme : une réforme majeure qui renforce les outils de Bank Al-Maghrib face aux crises bancaires. Ensuite, l'énergie renouvelable s'ouvre davantage aux producteurs privés grâce à un nouveau cadre réglementaire. Et enfin, un rapport international confirme que le Maroc s'impose comme l'un des grands hubs commerciaux du continent africain.</description>
-      <itunes:summary>Au programme : une réforme majeure qui renforce les outils de Bank Al-Maghrib face aux crises bancaires. Ensuite, l'énergie renouvelable s'ouvre davantage aux producteurs privés grâce à un nouveau cadre réglementaire. Et enfin, un rapport international confirme que le Maroc s'impose comme l'un des grands hubs commerciaux du continent africain.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-23.mp3" length="4616285" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-23</guid>
-      <pubDate>Sun, 23 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>288</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
