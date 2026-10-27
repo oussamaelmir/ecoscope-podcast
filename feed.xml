@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 07:04:30 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:03:56 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 27/10/2026 : FM6I, prévisions FMI et Maroc Telecom</title>
+      <description>Au programme aujourd'hui : le Fonds Mohammed VI pour l'Investissement signe un accord colossal dans l'eau et l'énergie, avec près de cent trente milliards de dirhams de projets à la clé. Ensuite, le FMI revoit à la baisse ses prévisions de croissance pour le Maroc, un signal qui mérite qu'on s'y arrête. Et enfin, Maroc Telecom affiche de solides résultats à fin septembre, avec un chiffre d'affaires consolidé en hausse de cinq virgule un pour cent.</description>
+      <itunes:summary>Au programme aujourd'hui : le Fonds Mohammed VI pour l'Investissement signe un accord colossal dans l'eau et l'énergie, avec près de cent trente milliards de dirhams de projets à la clé. Ensuite, le FMI revoit à la baisse ses prévisions de croissance pour le Maroc, un signal qui mérite qu'on s'y arrête. Et enfin, Maroc Telecom affiche de solides résultats à fin septembre, avec un chiffre d'affaires consolidé en hausse de cinq virgule un pour cent.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-27.mp3" length="5008714" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>312</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 26/10/2026 : PLF 2027, commerce extérieur et financement hydrique de l'ONEE</title>
       <description>Au programme aujourd'hui : le projet de loi de finances 2027 confirme le maintien des subventions sur les produits de base et relance une mesure pour faire entrer l'économie informelle dans le circuit officiel. Côté échanges extérieurs, les exportations progressent mais le déficit commercial se creuse. Et enfin, la Banque européenne d'investissement s'apprête à injecter cent trente millions d'euros pour moderniser les infrastructures en eau de l'ONEE.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-25</guid>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>295</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 24/08/2026 : Sanlian à Tanger, échanges Maroc-Allemagne et taxonomie verte</title>
-      <description>Au programme ce matin : un nouveau groupe chinois pose ses valises à Tanger et renforce l'écosystème automobile du Royaume. Ensuite, les échanges entre le Maroc et l'Allemagne franchissent un nouveau cap, portés par l'industrie automobile. Et enfin, les exportateurs marocains prennent position sur la taxonomie verte et veulent en faire un atout plutôt qu'un obstacle.</description>
-      <itunes:summary>Au programme ce matin : un nouveau groupe chinois pose ses valises à Tanger et renforce l'écosystème automobile du Royaume. Ensuite, les échanges entre le Maroc et l'Allemagne franchissent un nouveau cap, portés par l'industrie automobile. Et enfin, les exportateurs marocains prennent position sur la taxonomie verte et veulent en faire un atout plutôt qu'un obstacle.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-24.mp3" length="4744188" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-24</guid>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>296</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

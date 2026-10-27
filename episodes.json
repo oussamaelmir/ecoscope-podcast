@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-27",
+    "date": "2026-10-27",
+    "title": "ÉcoScope — 27/10/2026 : FM6I, prévisions FMI et Maroc Telecom",
+    "description": "Au programme aujourd'hui : le Fonds Mohammed VI pour l'Investissement signe un accord colossal dans l'eau et l'énergie, avec près de cent trente milliards de dirhams de projets à la clé. Ensuite, le FMI revoit à la baisse ses prévisions de croissance pour le Maroc, un signal qui mérite qu'on s'y arrête. Et enfin, Maroc Telecom affiche de solides résultats à fin septembre, avec un chiffre d'affaires consolidé en hausse de cinq virgule un pour cent.",
+    "filename": "ecoscope-2026-10-27.mp3",
+    "bytes": 5008714,
+    "duration": 312
+  },
+  {
     "guid": "ecoscope-2026-10-26",
     "date": "2026-10-26",
     "title": "ÉcoScope — 26/10/2026 : PLF 2027, commerce extérieur et financement hydrique de l'ONEE",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-25.mp3",
     "bytes": 4736689,
     "duration": 295
-  },
-  {
-    "guid": "ecoscope-2026-08-24",
-    "date": "2026-08-24",
-    "title": "ÉcoScope — 24/08/2026 : Sanlian à Tanger, échanges Maroc-Allemagne et taxonomie verte",
-    "description": "Au programme ce matin : un nouveau groupe chinois pose ses valises à Tanger et renforce l'écosystème automobile du Royaume. Ensuite, les échanges entre le Maroc et l'Allemagne franchissent un nouveau cap, portés par l'industrie automobile. Et enfin, les exportateurs marocains prennent position sur la taxonomie verte et veulent en faire un atout plutôt qu'un obstacle.",
-    "filename": "ecoscope-2026-08-24.mp3",
-    "bytes": 4744188,
-    "duration": 296
   }
 ]
