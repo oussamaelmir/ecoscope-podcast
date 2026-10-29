@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 Oct 2026 07:04:15 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:03:29 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 29/10/2026 : Méga-ports royaux, IPO Laprophan et LGV Kénitra-Marrakech</title>
+      <description>Au programme aujourd'hui : le Roi Mohammed VI préside une séance de travail décisive sur deux méga-projets portuaires, Nador West Med et Tanger Med 3. Ensuite, le groupe pharmaceutique Laprophan décroche le feu vert pour la plus grande introduction en Bourse de ces dernières années à Casablanca. Et enfin, Jet Contractors remporte un contrat de plus de quatre cent trente-sept millions de dirhams pour construire cinq gares de la future ligne à grande vitesse entre Kénitra et Marrakech.</description>
+      <itunes:summary>Au programme aujourd'hui : le Roi Mohammed VI préside une séance de travail décisive sur deux méga-projets portuaires, Nador West Med et Tanger Med 3. Ensuite, le groupe pharmaceutique Laprophan décroche le feu vert pour la plus grande introduction en Bourse de ces dernières années à Casablanca. Et enfin, Jet Contractors remporte un contrat de plus de quatre cent trente-sept millions de dirhams pour construire cinq gares de la future ligne à grande vitesse entre Kénitra et Marrakech.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-29.mp3" length="4993707" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>312</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 28/10/2026 : Déficit budgétaire en nette amélioration, Ryanair muscle sa présence au Maroc, et le Royaume grimpe au 4e rang des destinations d'investissement en Afrique</title>
       <description>Au programme ce matin : les finances publiques du Maroc s'améliorent fortement, avec un déficit budgétaire en net recul à fin septembre. Ryanair scelle un partenariat historique avec l'Office National Marocain du Tourisme, avec une programmation hivernale jamais vue. Et le Maroc gagne du terrain sur la carte des investissements en Afrique, selon un rapport de référence. C'est parti.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-27</guid>
       <pubDate>Thu, 27 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>309</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 26/08/2026 : Maroc-Espagne, Stellantis à Kénitra et le RER de Casablanca</title>
-      <description>Au programme aujourd'hui : les échanges entre le Maroc et l'Espagne ont franchi un cap impressionnant en 2025, confirmant la solidité d'un partenariat stratégique. Ensuite, l'usine Stellantis de Kénitra s'apprête à produire deux nouveaux modèles Fiat, renforçant encore le rôle du Maroc comme hub automobile africain. Et enfin, le futur RER de Casablanca avance : deux marchés de construction de gares viennent d'être attribués pour près de cinq cents millions de dirhams.</description>
-      <itunes:summary>Au programme aujourd'hui : les échanges entre le Maroc et l'Espagne ont franchi un cap impressionnant en 2025, confirmant la solidité d'un partenariat stratégique. Ensuite, l'usine Stellantis de Kénitra s'apprête à produire deux nouveaux modèles Fiat, renforçant encore le rôle du Maroc comme hub automobile africain. Et enfin, le futur RER de Casablanca avance : deux marchés de construction de gares viennent d'être attribués pour près de cinq cents millions de dirhams.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-26.mp3" length="4792674" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-26</guid>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>299</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
