@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-30",
+    "date": "2026-10-30",
+    "title": "ÉcoScope — 30/10/2026 : Casablanca notée Investment Grade, grands chantiers du PLF 2027, et l'IA au service de la santé",
+    "description": "Au programme ce matin : Casablanca entre dans l'histoire en décrochant une notation Investment Grade, une première absolue pour une commune marocaine. Ensuite, le projet de loi de finances 2027 dévoile ses grandes ambitions en matière d'eau et d'hydrocarbures, avec des chiffres qui donnent le vertige. Et enfin, la healthtech marocaine signe l'une de ses plus grandes levées de fonds, portée par l'intelligence artificielle appliquée à la santé.",
+    "filename": "ecoscope-2026-10-30.mp3",
+    "bytes": 5254595,
+    "duration": 328
+  },
+  {
     "guid": "ecoscope-2026-10-29",
     "date": "2026-10-29",
     "title": "ÉcoScope — 29/10/2026 : Méga-ports royaux, IPO Laprophan et LGV Kénitra-Marrakech",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-28.mp3",
     "bytes": 5058562,
     "duration": 316
-  },
-  {
-    "guid": "ecoscope-2026-08-27",
-    "date": "2026-08-27",
-    "title": "ÉcoScope — 27/08/2026 : OCP aux États-Unis, chômage des jeunes en Afrique du Nord et crédit bancaire productif",
-    "description": "Au programme aujourd'hui : OCP frappe fort aux États-Unis avec un investissement colossal dans une usine d'engrais en Louisiane. Nous ferons ensuite le point sur un rapport de l'OIT qui tire la sonnette d'alarme sur le chômage des jeunes en Afrique du Nord, une réalité qui interpelle directement le Maroc. Et enfin, nous regarderons ce que nous dit la structure du crédit bancaire sur la santé et l'orientation de l'économie marocaine.",
-    "filename": "ecoscope-2026-08-27.mp3",
-    "bytes": 4949456,
-    "duration": 309
   }
 ]

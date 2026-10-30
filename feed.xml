@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 Oct 2026 07:03:29 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:04:21 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 30/10/2026 : Casablanca notée Investment Grade, grands chantiers du PLF 2027, et l'IA au service de la santé</title>
+      <description>Au programme ce matin : Casablanca entre dans l'histoire en décrochant une notation Investment Grade, une première absolue pour une commune marocaine. Ensuite, le projet de loi de finances 2027 dévoile ses grandes ambitions en matière d'eau et d'hydrocarbures, avec des chiffres qui donnent le vertige. Et enfin, la healthtech marocaine signe l'une de ses plus grandes levées de fonds, portée par l'intelligence artificielle appliquée à la santé.</description>
+      <itunes:summary>Au programme ce matin : Casablanca entre dans l'histoire en décrochant une notation Investment Grade, une première absolue pour une commune marocaine. Ensuite, le projet de loi de finances 2027 dévoile ses grandes ambitions en matière d'eau et d'hydrocarbures, avec des chiffres qui donnent le vertige. Et enfin, la healthtech marocaine signe l'une de ses plus grandes levées de fonds, portée par l'intelligence artificielle appliquée à la santé.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-30.mp3" length="5254595" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>328</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 29/10/2026 : Méga-ports royaux, IPO Laprophan et LGV Kénitra-Marrakech</title>
       <description>Au programme aujourd'hui : le Roi Mohammed VI préside une séance de travail décisive sur deux méga-projets portuaires, Nador West Med et Tanger Med 3. Ensuite, le groupe pharmaceutique Laprophan décroche le feu vert pour la plus grande introduction en Bourse de ces dernières années à Casablanca. Et enfin, Jet Contractors remporte un contrat de plus de quatre cent trente-sept millions de dirhams pour construire cinq gares de la future ligne à grande vitesse entre Kénitra et Marrakech.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>316</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 27/08/2026 : OCP aux États-Unis, chômage des jeunes en Afrique du Nord et crédit bancaire productif</title>
-      <description>Au programme aujourd'hui : OCP frappe fort aux États-Unis avec un investissement colossal dans une usine d'engrais en Louisiane. Nous ferons ensuite le point sur un rapport de l'OIT qui tire la sonnette d'alarme sur le chômage des jeunes en Afrique du Nord, une réalité qui interpelle directement le Maroc. Et enfin, nous regarderons ce que nous dit la structure du crédit bancaire sur la santé et l'orientation de l'économie marocaine.</description>
-      <itunes:summary>Au programme aujourd'hui : OCP frappe fort aux États-Unis avec un investissement colossal dans une usine d'engrais en Louisiane. Nous ferons ensuite le point sur un rapport de l'OIT qui tire la sonnette d'alarme sur le chômage des jeunes en Afrique du Nord, une réalité qui interpelle directement le Maroc. Et enfin, nous regarderons ce que nous dit la structure du crédit bancaire sur la santé et l'orientation de l'économie marocaine.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-27.mp3" length="4949456" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-27</guid>
-      <pubDate>Thu, 27 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>309</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
