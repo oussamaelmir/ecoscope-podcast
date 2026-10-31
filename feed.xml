@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 30 Oct 2026 07:04:21 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:03:16 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 31/10/2026 : Déficit commercial, obligation BAD en dirham et PLF 2027</title>
+      <description>Au programme ce matin : la balance commerciale marocaine à fin septembre révèle des exportations industrielles en plein essor, mais un déficit qui se creuse à toute vitesse. Ensuite, une première historique sur les marchés financiers : la Banque africaine de développement émet une obligation en dirham marocain. Et enfin, le débat parlementaire sur le budget 2027 apporte des précisions importantes sur la réforme de l'impôt sur le revenu et l'encadrement du télétravail.</description>
+      <itunes:summary>Au programme ce matin : la balance commerciale marocaine à fin septembre révèle des exportations industrielles en plein essor, mais un déficit qui se creuse à toute vitesse. Ensuite, une première historique sur les marchés financiers : la Banque africaine de développement émet une obligation en dirham marocain. Et enfin, le débat parlementaire sur le budget 2027 apporte des précisions importantes sur la réforme de l'impôt sur le revenu et l'encadrement du télétravail.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-10-31.mp3" length="4882530" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>305</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 30/10/2026 : Casablanca notée Investment Grade, grands chantiers du PLF 2027, et l'IA au service de la santé</title>
       <description>Au programme ce matin : Casablanca entre dans l'histoire en décrochant une notation Investment Grade, une première absolue pour une commune marocaine. Ensuite, le projet de loi de finances 2027 dévoile ses grandes ambitions en matière d'eau et d'hydrocarbures, avec des chiffres qui donnent le vertige. Et enfin, la healthtech marocaine signe l'une de ses plus grandes levées de fonds, portée par l'intelligence artificielle appliquée à la santé.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-29</guid>
       <pubDate>Sat, 29 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>292</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 28/08/2026 : Centres d'appels sous pression, Trésor en difficulté et phosphate pour batteries électriques</title>
-      <description>Au programme aujourd'hui : les premières fermetures de centres d'appels au Maroc après la nouvelle réglementation française, et leurs conséquences humaines très concrètes. Ensuite, le marché obligataire qui marque le pas, laissant le Trésor dans l'attente. Et enfin, une opportunité stratégique que le Maroc pourrait saisir dans la chaîne des batteries électriques, grâce à son phosphate.</description>
-      <itunes:summary>Au programme aujourd'hui : les premières fermetures de centres d'appels au Maroc après la nouvelle réglementation française, et leurs conséquences humaines très concrètes. Ensuite, le marché obligataire qui marque le pas, laissant le Trésor dans l'attente. Et enfin, une opportunité stratégique que le Maroc pourrait saisir dans la chaîne des batteries électriques, grâce à son phosphate.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-28.mp3" length="5058562" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-28</guid>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>316</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

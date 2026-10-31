@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-10-31",
+    "date": "2026-10-31",
+    "title": "ÉcoScope — 31/10/2026 : Déficit commercial, obligation BAD en dirham et PLF 2027",
+    "description": "Au programme ce matin : la balance commerciale marocaine à fin septembre révèle des exportations industrielles en plein essor, mais un déficit qui se creuse à toute vitesse. Ensuite, une première historique sur les marchés financiers : la Banque africaine de développement émet une obligation en dirham marocain. Et enfin, le débat parlementaire sur le budget 2027 apporte des précisions importantes sur la réforme de l'impôt sur le revenu et l'encadrement du télétravail.",
+    "filename": "ecoscope-2026-10-31.mp3",
+    "bytes": 4882530,
+    "duration": 305
+  },
+  {
     "guid": "ecoscope-2026-10-30",
     "date": "2026-10-30",
     "title": "ÉcoScope — 30/10/2026 : Casablanca notée Investment Grade, grands chantiers du PLF 2027, et l'IA au service de la santé",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-29.mp3",
     "bytes": 4683202,
     "duration": 292
-  },
-  {
-    "guid": "ecoscope-2026-08-28",
-    "date": "2026-08-28",
-    "title": "ÉcoScope — 28/08/2026 : Centres d'appels sous pression, Trésor en difficulté et phosphate pour batteries électriques",
-    "description": "Au programme aujourd'hui : les premières fermetures de centres d'appels au Maroc après la nouvelle réglementation française, et leurs conséquences humaines très concrètes. Ensuite, le marché obligataire qui marque le pas, laissant le Trésor dans l'attente. Et enfin, une opportunité stratégique que le Maroc pourrait saisir dans la chaîne des batteries électriques, grâce à son phosphate.",
-    "filename": "ecoscope-2026-08-28.mp3",
-    "bytes": 5058562,
-    "duration": 316
   }
 ]
