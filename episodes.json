@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-01",
+    "date": "2026-11-01",
+    "title": "ÉcoScope — 01/11/2026 : IDE en hausse, Nador West Med lancé, et PLF 2027 défendu par Lekjaa",
+    "description": "Au programme aujourd'hui : des chiffres remarquables sur les investissements étrangers et les transferts de la diaspora marocaine, qui témoignent d'une confiance solide dans l'économie nationale. Nous verrons ensuite le lancement historique du premier terminal à conteneurs du port Nador West Med. Et enfin, retour sur les débats budgétaires à la Chambre des représentants, où le ministre des Finances a défendu les grandes orientations du projet de loi de finances 2027.",
+    "filename": "ecoscope-2026-11-01.mp3",
+    "bytes": 5141690,
+    "duration": 321
+  },
+  {
     "guid": "ecoscope-2026-10-31",
     "date": "2026-10-31",
     "title": "ÉcoScope — 31/10/2026 : Déficit commercial, obligation BAD en dirham et PLF 2027",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-30.mp3",
     "bytes": 5283872,
     "duration": 330
-  },
-  {
-    "guid": "ecoscope-2026-08-29",
-    "date": "2026-08-29",
-    "title": "ÉcoScope — 29/08/2026 : Fiscalité des multinationales, patrimoine des ménages et boom du trafic aérien",
-    "description": "Au programme ce matin : le Maroc resserre son filet fiscal autour des multinationales grâce à une toute nouvelle loi sur la transparence des bénéfices. Ensuite, un paradoxe saisissant révélé par les chiffres officiels : les ménages marocains sont plus riches sur le papier, mais se sentent plus pauvres dans leur quotidien. Et enfin, une bonne nouvelle pour le tourisme et la connectivité du Royaume : les aéroports marocains ont franchi le cap des vingt-deux millions de passagers en seulement sept mois.",
-    "filename": "ecoscope-2026-08-29.mp3",
-    "bytes": 4683202,
-    "duration": 292
   }
 ]
