@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Nov 2026 07:03:31 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:03:14 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 02/11/2026 : MASI en chute, carburants en ordre dispersé et douanes boostées par l'IA</title>
+      <description>Au programme ce matin : la Bourse de Casablanca sort d'un octobre très difficile et engage une réforme profonde de son indice phare, le MASI. Ensuite, les prix à la pompe ont bougé cette nuit du côté du gasoil et de l'essence, avec des écarts inédits entre les distributeurs. Et enfin, une belle performance pour les douanes marocaines, qui ont récupéré sept cent trente millions de dirhams grâce à l'intelligence artificielle.</description>
+      <itunes:summary>Au programme ce matin : la Bourse de Casablanca sort d'un octobre très difficile et engage une réforme profonde de son indice phare, le MASI. Ensuite, les prix à la pompe ont bougé cette nuit du côté du gasoil et de l'essence, avec des écarts inédits entre les distributeurs. Et enfin, une belle performance pour les douanes marocaines, qui ont récupéré sept cent trente millions de dirhams grâce à l'intelligence artificielle.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-02.mp3" length="4608797" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>287</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 01/11/2026 : IDE en hausse, Nador West Med lancé, et PLF 2027 défendu par Lekjaa</title>
       <description>Au programme aujourd'hui : des chiffres remarquables sur les investissements étrangers et les transferts de la diaspora marocaine, qui témoignent d'une confiance solide dans l'économie nationale. Nous verrons ensuite le lancement historique du premier terminal à conteneurs du port Nador West Med. Et enfin, retour sur les débats budgétaires à la Chambre des représentants, où le ministre des Finances a défendu les grandes orientations du projet de loi de finances 2027.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-08-31</guid>
       <pubDate>Mon, 31 Aug 2026 06:00:00 +0100</pubDate>
       <itunes:duration>314</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 30/08/2026 : Déficit commercial en hausse, fonds IFC-EOS pour les créances douteuses et exportations marocaines en forme</title>
-      <description>Au programme aujourd'hui : le déficit commercial du Maroc a fortement progressé au premier semestre, un signal macro-économique à décrypter. Nous verrons aussi comment un fonds international pourrait transformer la gestion des créances douteuses dans les banques marocaines. Et enfin, bonne nouvelle du côté des exportations : le textile et les légumes sous serre confirment la montée en puissance du Maroc sur les marchés européens.</description>
-      <itunes:summary>Au programme aujourd'hui : le déficit commercial du Maroc a fortement progressé au premier semestre, un signal macro-économique à décrypter. Nous verrons aussi comment un fonds international pourrait transformer la gestion des créances douteuses dans les banques marocaines. Et enfin, bonne nouvelle du côté des exportations : le textile et les légumes sous serre confirment la montée en puissance du Maroc sur les marchés européens.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-30.mp3" length="5283872" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-30</guid>
-      <pubDate>Sun, 30 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>330</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

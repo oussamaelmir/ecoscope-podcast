@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-02",
+    "date": "2026-11-02",
+    "title": "ÉcoScope — 02/11/2026 : MASI en chute, carburants en ordre dispersé et douanes boostées par l'IA",
+    "description": "Au programme ce matin : la Bourse de Casablanca sort d'un octobre très difficile et engage une réforme profonde de son indice phare, le MASI. Ensuite, les prix à la pompe ont bougé cette nuit du côté du gasoil et de l'essence, avec des écarts inédits entre les distributeurs. Et enfin, une belle performance pour les douanes marocaines, qui ont récupéré sept cent trente millions de dirhams grâce à l'intelligence artificielle.",
+    "filename": "ecoscope-2026-11-02.mp3",
+    "bytes": 4608797,
+    "duration": 287
+  },
+  {
     "guid": "ecoscope-2026-11-01",
     "date": "2026-11-01",
     "title": "ÉcoScope — 01/11/2026 : IDE en hausse, Nador West Med lancé, et PLF 2027 défendu par Lekjaa",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-08-31.mp3",
     "bytes": 5034654,
     "duration": 314
-  },
-  {
-    "guid": "ecoscope-2026-08-30",
-    "date": "2026-08-30",
-    "title": "ÉcoScope — 30/08/2026 : Déficit commercial en hausse, fonds IFC-EOS pour les créances douteuses et exportations marocaines en forme",
-    "description": "Au programme aujourd'hui : le déficit commercial du Maroc a fortement progressé au premier semestre, un signal macro-économique à décrypter. Nous verrons aussi comment un fonds international pourrait transformer la gestion des créances douteuses dans les banques marocaines. Et enfin, bonne nouvelle du côté des exportations : le textile et les légumes sous serre confirment la montée en puissance du Maroc sur les marchés européens.",
-    "filename": "ecoscope-2026-08-30.mp3",
-    "bytes": 5283872,
-    "duration": 330
   }
 ]
