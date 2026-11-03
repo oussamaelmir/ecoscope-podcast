@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-03",
+    "date": "2026-11-03",
+    "title": "ÉcoScope — 03/11/2026 : Trésor obligataire sous pression, Managem reprend sa cotation et Jet Energy en Bourse",
+    "description": "Au programme ce matin : le Trésor marocain adapte sa stratégie d'emprunt face à la remontée des taux longs, le groupe minier Managem reprend sa cotation en Bourse après plusieurs jours de suspension, et l'introduction en Bourse de Jet Energy attire l'attention des analystes qui recommandent la patience aux investisseurs.",
+    "filename": "ecoscope-2026-11-03.mp3",
+    "bytes": 4531918,
+    "duration": 283
+  },
+  {
     "guid": "ecoscope-2026-11-02",
     "date": "2026-11-02",
     "title": "ÉcoScope — 02/11/2026 : MASI en chute, carburants en ordre dispersé et douanes boostées par l'IA",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-01.mp3",
     "bytes": 4356342,
     "duration": 272
-  },
-  {
-    "guid": "ecoscope-2026-08-31",
-    "date": "2026-08-31",
-    "title": "ÉcoScope — 31/08/2026 : TVA Apple, investissements américains et viande ovine",
-    "description": "Au programme aujourd'hui : Apple intègre la TVA marocaine de vingt pour cent sur l'App Store, avec des répercussions dès le 14 septembre sur les prix des applications. Ensuite, les États-Unis placent le Maroc au cœur de leur stratégie d'approvisionnement en ressources stratégiques. Et enfin, la viande ovine reste obstinément au-dessus de cent cinquante dirhams le kilogramme, malgré la reprise des importations depuis l'Espagne.",
-    "filename": "ecoscope-2026-08-31.mp3",
-    "bytes": 5034654,
-    "duration": 314
   }
 ]

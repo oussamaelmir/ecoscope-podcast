@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Nov 2026 07:03:14 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:03:17 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 03/11/2026 : Trésor obligataire sous pression, Managem reprend sa cotation et Jet Energy en Bourse</title>
+      <description>Au programme ce matin : le Trésor marocain adapte sa stratégie d'emprunt face à la remontée des taux longs, le groupe minier Managem reprend sa cotation en Bourse après plusieurs jours de suspension, et l'introduction en Bourse de Jet Energy attire l'attention des analystes qui recommandent la patience aux investisseurs.</description>
+      <itunes:summary>Au programme ce matin : le Trésor marocain adapte sa stratégie d'emprunt face à la remontée des taux longs, le groupe minier Managem reprend sa cotation en Bourse après plusieurs jours de suspension, et l'introduction en Bourse de Jet Energy attire l'attention des analystes qui recommandent la patience aux investisseurs.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-03.mp3" length="4531918" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>283</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 02/11/2026 : MASI en chute, carburants en ordre dispersé et douanes boostées par l'IA</title>
       <description>Au programme ce matin : la Bourse de Casablanca sort d'un octobre très difficile et engage une réforme profonde de son indice phare, le MASI. Ensuite, les prix à la pompe ont bougé cette nuit du côté du gasoil et de l'essence, avec des écarts inédits entre les distributeurs. Et enfin, une belle performance pour les douanes marocaines, qui ont récupéré sept cent trente millions de dirhams grâce à l'intelligence artificielle.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-01</guid>
       <pubDate>Tue, 01 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>272</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 31/08/2026 : TVA Apple, investissements américains et viande ovine</title>
-      <description>Au programme aujourd'hui : Apple intègre la TVA marocaine de vingt pour cent sur l'App Store, avec des répercussions dès le 14 septembre sur les prix des applications. Ensuite, les États-Unis placent le Maroc au cœur de leur stratégie d'approvisionnement en ressources stratégiques. Et enfin, la viande ovine reste obstinément au-dessus de cent cinquante dirhams le kilogramme, malgré la reprise des importations depuis l'Espagne.</description>
-      <itunes:summary>Au programme aujourd'hui : Apple intègre la TVA marocaine de vingt pour cent sur l'App Store, avec des répercussions dès le 14 septembre sur les prix des applications. Ensuite, les États-Unis placent le Maroc au cœur de leur stratégie d'approvisionnement en ressources stratégiques. Et enfin, la viande ovine reste obstinément au-dessus de cent cinquante dirhams le kilogramme, malgré la reprise des importations depuis l'Espagne.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-08-31.mp3" length="5034654" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-08-31</guid>
-      <pubDate>Mon, 31 Aug 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>314</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
