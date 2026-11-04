@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-04",
+    "date": "2026-11-04",
+    "title": "ÉcoScope — 04/11/2026 : Pouvoir d'achat, Tanger Med 3 et textile marocain",
+    "description": "Au programme de cet épisode : le gouvernement sort de sa réserve sur la question du pouvoir d'achat et crée une commission interministérielle pour surveiller les prix. Dans le Nord du Maroc, Tanger Med annonce une troisième phase d'extension à huit milliards de dirhams, dans une région qui concentre plus de vingt et un milliards d'investissements pour 2027. Et enfin, le secteur textile veut rompre avec la sous-traitance grâce à deux virgule trois milliards de dirhams engagés pour produire davantage sur le sol marocain.",
+    "filename": "ecoscope-2026-11-04.mp3",
+    "bytes": 4892133,
+    "duration": 305
+  },
+  {
     "guid": "ecoscope-2026-11-03",
     "date": "2026-11-03",
     "title": "ÉcoScope — 03/11/2026 : Trésor obligataire sous pression, Managem reprend sa cotation et Jet Energy en Bourse",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-02.mp3",
     "bytes": 4658959,
     "duration": 291
-  },
-  {
-    "guid": "ecoscope-2026-09-01",
-    "date": "2026-09-01",
-    "title": "ÉcoScope — 01/09/2026 : Crédit en hausse, immobilier en rebond et un géant chinois au Maroc",
-    "description": "Au programme ce matin : le crédit bancaire poursuit son envolée et confirme une dynamique d'investissement solide à fin juillet. Le marché immobilier, lui, surprend par la vigueur de ses volumes de transactions au deuxième trimestre. Et enfin, un groupe chinois spécialisé dans les réseaux électriques pose ses premières valises au Maroc. Trois sujets, trois signaux forts pour l'économie du Royaume.",
-    "filename": "ecoscope-2026-09-01.mp3",
-    "bytes": 4356342,
-    "duration": 272
   }
 ]

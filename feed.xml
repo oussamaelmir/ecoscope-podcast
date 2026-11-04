@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 07:03:17 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:03:40 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 04/11/2026 : Pouvoir d'achat, Tanger Med 3 et textile marocain</title>
+      <description>Au programme de cet épisode : le gouvernement sort de sa réserve sur la question du pouvoir d'achat et crée une commission interministérielle pour surveiller les prix. Dans le Nord du Maroc, Tanger Med annonce une troisième phase d'extension à huit milliards de dirhams, dans une région qui concentre plus de vingt et un milliards d'investissements pour 2027. Et enfin, le secteur textile veut rompre avec la sous-traitance grâce à deux virgule trois milliards de dirhams engagés pour produire davantage sur le sol marocain.</description>
+      <itunes:summary>Au programme de cet épisode : le gouvernement sort de sa réserve sur la question du pouvoir d'achat et crée une commission interministérielle pour surveiller les prix. Dans le Nord du Maroc, Tanger Med annonce une troisième phase d'extension à huit milliards de dirhams, dans une région qui concentre plus de vingt et un milliards d'investissements pour 2027. Et enfin, le secteur textile veut rompre avec la sous-traitance grâce à deux virgule trois milliards de dirhams engagés pour produire davantage sur le sol marocain.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-04.mp3" length="4892133" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>305</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 03/11/2026 : Trésor obligataire sous pression, Managem reprend sa cotation et Jet Energy en Bourse</title>
       <description>Au programme ce matin : le Trésor marocain adapte sa stratégie d'emprunt face à la remontée des taux longs, le groupe minier Managem reprend sa cotation en Bourse après plusieurs jours de suspension, et l'introduction en Bourse de Jet Energy attire l'attention des analystes qui recommandent la patience aux investisseurs.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-02</guid>
       <pubDate>Wed, 02 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>291</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 01/09/2026 : Crédit en hausse, immobilier en rebond et un géant chinois au Maroc</title>
-      <description>Au programme ce matin : le crédit bancaire poursuit son envolée et confirme une dynamique d'investissement solide à fin juillet. Le marché immobilier, lui, surprend par la vigueur de ses volumes de transactions au deuxième trimestre. Et enfin, un groupe chinois spécialisé dans les réseaux électriques pose ses premières valises au Maroc. Trois sujets, trois signaux forts pour l'économie du Royaume.</description>
-      <itunes:summary>Au programme ce matin : le crédit bancaire poursuit son envolée et confirme une dynamique d'investissement solide à fin juillet. Le marché immobilier, lui, surprend par la vigueur de ses volumes de transactions au deuxième trimestre. Et enfin, un groupe chinois spécialisé dans les réseaux électriques pose ses premières valises au Maroc. Trois sujets, trois signaux forts pour l'économie du Royaume.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-01.mp3" length="4356342" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-01</guid>
-      <pubDate>Tue, 01 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>272</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
