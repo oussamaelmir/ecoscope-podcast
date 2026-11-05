@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Nov 2026 07:03:40 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:03:54 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 05/11/2026 : Choc alimentaire mondial, aide au transport routier et marché auto en plein boom</title>
+      <description>Au programme aujourd'hui : une alerte sérieuse sur les prix alimentaires mondiaux, avec une hausse cumulée attendue de plus de dix-huit pour cent sur deux ans qui fait peser une pression inédite sur le pouvoir d'achat des Marocains et sur le budget de l'État. Nous parlerons ensuite de la nouvelle aide exceptionnelle de quatre cents millions de dirhams débloquée par le gouvernement pour le secteur du transport routier. Et enfin, bonne nouvelle pour l'industrie automobile : le marché a bondi de plus de trente-trois pour cent en 2025, avec deux cent trente-cinq mille véhicules vendus.</description>
+      <itunes:summary>Au programme aujourd'hui : une alerte sérieuse sur les prix alimentaires mondiaux, avec une hausse cumulée attendue de plus de dix-huit pour cent sur deux ans qui fait peser une pression inédite sur le pouvoir d'achat des Marocains et sur le budget de l'État. Nous parlerons ensuite de la nouvelle aide exceptionnelle de quatre cents millions de dirhams débloquée par le gouvernement pour le secteur du transport routier. Et enfin, bonne nouvelle pour l'industrie automobile : le marché a bondi de plus de trente-trois pour cent en 2025, avec deux cent trente-cinq mille véhicules vendus.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-05.mp3" length="4909743" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>306</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 04/11/2026 : Pouvoir d'achat, Tanger Med 3 et textile marocain</title>
       <description>Au programme de cet épisode : le gouvernement sort de sa réserve sur la question du pouvoir d'achat et crée une commission interministérielle pour surveiller les prix. Dans le Nord du Maroc, Tanger Med annonce une troisième phase d'extension à huit milliards de dirhams, dans une région qui concentre plus de vingt et un milliards d'investissements pour 2027. Et enfin, le secteur textile veut rompre avec la sous-traitance grâce à deux virgule trois milliards de dirhams engagés pour produire davantage sur le sol marocain.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-03</guid>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>297</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 02/09/2026 : Devises au beau fixe, déficit commercial en hausse et OCP sous pression</title>
-      <description>Au programme aujourd'hui : les trois grandes sources de devises du Maroc affichent toutes des hausses remarquables à fin juillet, un signe de vitalité économique indéniable. Mais attention, le déficit commercial continue lui aussi de se creuser à un rythme soutenu. Et enfin, le groupe OCP publie des résultats en recul pour le premier semestre 2026, dans un contexte mondial particulièrement agité.</description>
-      <itunes:summary>Au programme aujourd'hui : les trois grandes sources de devises du Maroc affichent toutes des hausses remarquables à fin juillet, un signe de vitalité économique indéniable. Mais attention, le déficit commercial continue lui aussi de se creuser à un rythme soutenu. Et enfin, le groupe OCP publie des résultats en recul pour le premier semestre 2026, dans un contexte mondial particulièrement agité.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-02.mp3" length="4658959" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-02</guid>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>291</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

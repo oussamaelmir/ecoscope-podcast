@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-05",
+    "date": "2026-11-05",
+    "title": "ÉcoScope — 05/11/2026 : Choc alimentaire mondial, aide au transport routier et marché auto en plein boom",
+    "description": "Au programme aujourd'hui : une alerte sérieuse sur les prix alimentaires mondiaux, avec une hausse cumulée attendue de plus de dix-huit pour cent sur deux ans qui fait peser une pression inédite sur le pouvoir d'achat des Marocains et sur le budget de l'État. Nous parlerons ensuite de la nouvelle aide exceptionnelle de quatre cents millions de dirhams débloquée par le gouvernement pour le secteur du transport routier. Et enfin, bonne nouvelle pour l'industrie automobile : le marché a bondi de plus de trente-trois pour cent en 2025, avec deux cent trente-cinq mille véhicules vendus.",
+    "filename": "ecoscope-2026-11-05.mp3",
+    "bytes": 4909743,
+    "duration": 306
+  },
+  {
     "guid": "ecoscope-2026-11-04",
     "date": "2026-11-04",
     "title": "ÉcoScope — 04/11/2026 : Pouvoir d'achat, Tanger Med 3 et textile marocain",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-03.mp3",
     "bytes": 4767178,
     "duration": 297
-  },
-  {
-    "guid": "ecoscope-2026-09-02",
-    "date": "2026-09-02",
-    "title": "ÉcoScope — 02/09/2026 : Devises au beau fixe, déficit commercial en hausse et OCP sous pression",
-    "description": "Au programme aujourd'hui : les trois grandes sources de devises du Maroc affichent toutes des hausses remarquables à fin juillet, un signe de vitalité économique indéniable. Mais attention, le déficit commercial continue lui aussi de se creuser à un rythme soutenu. Et enfin, le groupe OCP publie des résultats en recul pour le premier semestre 2026, dans un contexte mondial particulièrement agité.",
-    "filename": "ecoscope-2026-09-02.mp3",
-    "bytes": 4658959,
-    "duration": 291
   }
 ]
