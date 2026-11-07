@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 06 Nov 2026 07:03:28 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:03:40 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 07/11/2026 : Nador West Med, facture énergétique et PLF 2027</title>
+      <description>Au programme aujourd'hui : le port Nador West Med entre officiellement en service et les provinces du Sud s'affirment comme un nouveau moteur de croissance pour le Maroc. Nous verrons aussi comment la guerre au Moyen-Orient alourdit dangereusement la facture énergétique du Royaume. Et enfin, le projet de loi de finances 2027 dévoile des priorités ambitieuses : un bond spectaculaire du budget de l'emploi et des milliards pour les infrastructures.</description>
+      <itunes:summary>Au programme aujourd'hui : le port Nador West Med entre officiellement en service et les provinces du Sud s'affirment comme un nouveau moteur de croissance pour le Maroc. Nous verrons aussi comment la guerre au Moyen-Orient alourdit dangereusement la facture énergétique du Royaume. Et enfin, le projet de loi de finances 2027 dévoile des priorités ambitieuses : un bond spectaculaire du budget de l'emploi et des milliards pour les infrastructures.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-07.mp3" length="4864540" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>303</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 06/11/2026 : Rebond de la Bourse, crédit moins cher et Fonds Mohammed VI à 7,2 milliards</title>
       <description>Au programme ce matin : la Bourse de Casablanca signe une semaine de reprise spectaculaire, avec un MASI en hausse de près de cinq pour cent. Côté banques, le coût du crédit continue de reculer et les dépôts franchissent un nouveau seuil. Et enfin, le Fonds Mohammed VI pour l'Investissement publie son premier rapport d'impact : sept virgule deux milliards de dirhams engagés, et des effets concrets sur l'emploi et les territoires.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-05</guid>
       <pubDate>Sat, 05 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>302</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 04/09/2026 : Nador West Med lève 2,2 milliards, PLF 2027 et flambée du pétrole</title>
-      <description>Au programme ce matin : Nador West Med boucle une levée de fonds colossale de deux virgule deux milliards de dirhams pour accélérer le développement du complexe industrialo-portuaire de l'Oriental. Ensuite, cap sur le projet de loi de finances 2027, qui dessine une nouvelle philosophie fiscale pour l'État marocain. Et enfin, les frappes américaines en Iran font flamber le pétrole et le gaz à des niveaux inédits depuis des mois, avec des conséquences directes pour le Maroc.</description>
-      <itunes:summary>Au programme ce matin : Nador West Med boucle une levée de fonds colossale de deux virgule deux milliards de dirhams pour accélérer le développement du complexe industrialo-portuaire de l'Oriental. Ensuite, cap sur le projet de loi de finances 2027, qui dessine une nouvelle philosophie fiscale pour l'État marocain. Et enfin, les frappes américaines en Iran font flamber le pétrole et le gaz à des niveaux inédits depuis des mois, avec des conséquences directes pour le Maroc.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-04.mp3" length="4995404" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-04</guid>
-      <pubDate>Fri, 04 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>312</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
