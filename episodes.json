@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-08",
+    "date": "2026-11-08",
+    "title": "ÉcoScope — 08/11/2026 : Croissance à 4,8 %, tensions industrielles et tourisme en plein essor",
+    "description": "Au programme aujourd'hui : la BERD revoit à la hausse ses prévisions de croissance pour le Maroc, portées par un solide rebond agricole. Côté industrie, les coûts de production grimpent et les perspectives d'emploi s'assombrissent pour la fin de l'année. Et enfin, bonne nouvelle pour le tourisme : près de trente et un millions de nuitées enregistrées à fin août, soit une hausse de huit pour cent.",
+    "filename": "ecoscope-2026-11-08.mp3",
+    "bytes": 4784339,
+    "duration": 298
+  },
+  {
     "guid": "ecoscope-2026-11-07",
     "date": "2026-11-07",
     "title": "ÉcoScope — 07/11/2026 : Nador West Med, facture énergétique et PLF 2027",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-06.mp3",
     "bytes": 5146357,
     "duration": 321
-  },
-  {
-    "guid": "ecoscope-2026-09-05",
-    "date": "2026-09-05",
-    "title": "ÉcoScope — 05/09/2026 : AMO à 25 millions de bénéficiaires, recettes fiscales locales en hausse et bonne santé des sociétés cotées",
-    "description": "Au programme ce matin : la CNSS publie des chiffres records sur la couverture médicale obligatoire et la masse salariale déclarée en 2025. Ensuite, les recettes fiscales des collectivités territoriales bondissent de plus de 17 pour cent à fin juillet 2026. Et enfin, les sociétés cotées en bourse affichent un chiffre d'affaires en hausse de 11 pour cent au premier semestre. Trois sujets qui dessinent l'état de santé de l'économie marocaine.",
-    "filename": "ecoscope-2026-09-05.mp3",
-    "bytes": 4834150,
-    "duration": 302
   }
 ]

@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 07 Nov 2026 07:03:40 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:03:10 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 08/11/2026 : Croissance à 4,8 %, tensions industrielles et tourisme en plein essor</title>
+      <description>Au programme aujourd'hui : la BERD revoit à la hausse ses prévisions de croissance pour le Maroc, portées par un solide rebond agricole. Côté industrie, les coûts de production grimpent et les perspectives d'emploi s'assombrissent pour la fin de l'année. Et enfin, bonne nouvelle pour le tourisme : près de trente et un millions de nuitées enregistrées à fin août, soit une hausse de huit pour cent.</description>
+      <itunes:summary>Au programme aujourd'hui : la BERD revoit à la hausse ses prévisions de croissance pour le Maroc, portées par un solide rebond agricole. Côté industrie, les coûts de production grimpent et les perspectives d'emploi s'assombrissent pour la fin de l'année. Et enfin, bonne nouvelle pour le tourisme : près de trente et un millions de nuitées enregistrées à fin août, soit une hausse de huit pour cent.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-08.mp3" length="4784339" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>298</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 07/11/2026 : Nador West Med, facture énergétique et PLF 2027</title>
       <description>Au programme aujourd'hui : le port Nador West Med entre officiellement en service et les provinces du Sud s'affirment comme un nouveau moteur de croissance pour le Maroc. Nous verrons aussi comment la guerre au Moyen-Orient alourdit dangereusement la facture énergétique du Royaume. Et enfin, le projet de loi de finances 2027 dévoile des priorités ambitieuses : un bond spectaculaire du budget de l'emploi et des milliards pour les infrastructures.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-06</guid>
       <pubDate>Sun, 06 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>321</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 05/09/2026 : AMO à 25 millions de bénéficiaires, recettes fiscales locales en hausse et bonne santé des sociétés cotées</title>
-      <description>Au programme ce matin : la CNSS publie des chiffres records sur la couverture médicale obligatoire et la masse salariale déclarée en 2025. Ensuite, les recettes fiscales des collectivités territoriales bondissent de plus de 17 pour cent à fin juillet 2026. Et enfin, les sociétés cotées en bourse affichent un chiffre d'affaires en hausse de 11 pour cent au premier semestre. Trois sujets qui dessinent l'état de santé de l'économie marocaine.</description>
-      <itunes:summary>Au programme ce matin : la CNSS publie des chiffres records sur la couverture médicale obligatoire et la masse salariale déclarée en 2025. Ensuite, les recettes fiscales des collectivités territoriales bondissent de plus de 17 pour cent à fin juillet 2026. Et enfin, les sociétés cotées en bourse affichent un chiffre d'affaires en hausse de 11 pour cent au premier semestre. Trois sujets qui dessinent l'état de santé de l'économie marocaine.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-05.mp3" length="4834150" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-05</guid>
-      <pubDate>Sat, 05 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>302</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
