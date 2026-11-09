@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Nov 2026 07:03:10 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:03:39 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 09/11/2026 : Campagne agricole, prix des tomates et startups marocaines à la traîne</title>
+      <description>Au programme aujourd'hui : le Maroc lance officiellement sa campagne agricole 2026-2027 avec des ambitions élevées et des mesures de soutien concrètes pour les agriculteurs. Côté marchés, les prix des tomates commencent à refluer après la suspension des exportations vers l'Afrique. Et enfin, un constat préoccupant pour l'écosystème des startups marocaines, qui reste très loin derrière ses voisins de la région MENA en matière de levées de fonds.</description>
+      <itunes:summary>Au programme aujourd'hui : le Maroc lance officiellement sa campagne agricole 2026-2027 avec des ambitions élevées et des mesures de soutien concrètes pour les agriculteurs. Côté marchés, les prix des tomates commencent à refluer après la suspension des exportations vers l'Afrique. Et enfin, un constat préoccupant pour l'écosystème des startups marocaines, qui reste très loin derrière ses voisins de la région MENA en matière de levées de fonds.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-09.mp3" length="4965730" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>310</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 08/11/2026 : Croissance à 4,8 %, tensions industrielles et tourisme en plein essor</title>
       <description>Au programme aujourd'hui : la BERD revoit à la hausse ses prévisions de croissance pour le Maroc, portées par un solide rebond agricole. Côté industrie, les coûts de production grimpent et les perspectives d'emploi s'assombrissent pour la fin de l'année. Et enfin, bonne nouvelle pour le tourisme : près de trente et un millions de nuitées enregistrées à fin août, soit une hausse de huit pour cent.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>309</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 06/09/2026 : Maroc 1er en Afrique pour les investissements, textile sous pression européenne, accord Maroc-Italie</title>
-      <description>Au programme aujourd'hui : le Maroc décroche la première place en Afrique dans un classement mondial sur la liberté des investissements, une reconnaissance historique. Ensuite, l'industrie textile marocaine se prépare à une révolution réglementaire imposée par l'Europe. Et enfin, un accord concret vient de rapprocher les milieux d'affaires marocains et italiens, avec des retombées attendues aussi bien pour les entreprises que pour la diaspora marocaine en Italie.</description>
-      <itunes:summary>Au programme aujourd'hui : le Maroc décroche la première place en Afrique dans un classement mondial sur la liberté des investissements, une reconnaissance historique. Ensuite, l'industrie textile marocaine se prépare à une révolution réglementaire imposée par l'Europe. Et enfin, un accord concret vient de rapprocher les milieux d'affaires marocains et italiens, avec des retombées attendues aussi bien pour les entreprises que pour la diaspora marocaine en Italie.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-06.mp3" length="5146357" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-06</guid>
-      <pubDate>Sun, 06 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>321</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
