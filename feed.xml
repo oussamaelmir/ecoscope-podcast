@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 10 Nov 2026 07:03:31 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:03:13 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 11/11/2026 : IS à 40 %, bons du Trésor en hausse et gazoduc Nigeria-Maroc</title>
+      <description>Au programme de cet épisode : la majorité parlementaire propose d'élargir le taux d'impôt sur les sociétés à quarante pour cent à plusieurs secteurs clés, dont les hydrocarbures, le ciment et les télécoms. Nous verrons ensuite pourquoi les taux des bons du Trésor repartent à la hausse et ce que cela signifie pour le financement de l'État. Et enfin, une avancée majeure pour le gazoduc Nigeria-Maroc : Abuja courtise le géant pétrolier émirati ADNOC pour financer ce chantier colossal.</description>
+      <itunes:summary>Au programme de cet épisode : la majorité parlementaire propose d'élargir le taux d'impôt sur les sociétés à quarante pour cent à plusieurs secteurs clés, dont les hydrocarbures, le ciment et les télécoms. Nous verrons ensuite pourquoi les taux des bons du Trésor repartent à la hausse et ce que cela signifie pour le financement de l'État. Et enfin, une avancée majeure pour le gazoduc Nigeria-Maroc : Abuja courtise le géant pétrolier émirati ADNOC pour financer ce chantier colossal.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-11.mp3" length="4659354" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>291</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 10/11/2026 : IS hydrocarbures à 40 %, fusion Label'Vie–Retail Holding et crédit immobilier en déséquilibre</title>
       <description>Au menu ce matin : le projet de loi de finances 2027 met la pression sur les géants des hydrocarbures avec un impôt sur les sociétés porté à quarante pour cent, et soulève une zone grise fiscale sur les indemnités salariales. Ensuite, la fusion entre Label'Vie et Retail Holding franchit une étape décisive avec le visa de l'AMMC sur le prospectus de l'opération. Et enfin, un déséquilibre inquiétant dans le crédit immobilier : les promoteurs empruntent de plus en plus, mais les ménages peinent toujours à accéder au logement.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-09</guid>
       <pubDate>Wed, 09 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>274</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 08/09/2026 : Akhannouch à l'OCDE, boom des créations d'entreprises et Akdital s'installe à Riyad</title>
-      <description>Au programme de cet épisode : le chef du gouvernement Aziz Akhannouch défend le bilan économique du Maroc devant l'OCDE à Paris, avec une croissance de quatre virgule neuf pour cent en 2025 à la clé. Ensuite, les chiffres de la création d'entreprises pour le premier semestre 2026 confirment un tissu entrepreneurial en pleine expansion. Et pour finir, le groupe hospitalier marocain Akdital franchit une étape historique en ouvrant son premier hôpital à Riyad, en Arabie Saoudite.</description>
-      <itunes:summary>Au programme de cet épisode : le chef du gouvernement Aziz Akhannouch défend le bilan économique du Maroc devant l'OCDE à Paris, avec une croissance de quatre virgule neuf pour cent en 2025 à la clé. Ensuite, les chiffres de la création d'entreprises pour le premier semestre 2026 confirment un tissu entrepreneurial en pleine expansion. Et pour finir, le groupe hospitalier marocain Akdital franchit une étape historique en ouvrant son premier hôpital à Riyad, en Arabie Saoudite.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-08.mp3" length="4924799" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-08</guid>
-      <pubDate>Tue, 08 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>307</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
