@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-12",
+    "date": "2026-11-12",
+    "title": "ÉcoScope — 12/11/2026 : Crise de la tomate, Bourse de Casablanca et industrie automobile",
+    "description": "Au programme de cet épisode : la pénurie de tomates qui pèse sur les ménages marocains, entre virus dévastateur et débat sur les priorités de l'export agricole. Puis un double coup de projecteur sur la Bourse de Casablanca, avec la chute du MASI et l'introduction de Jet Energy au prix fort. Et enfin, une industrie automobile marocaine au sommet du continent, avec en prime un transfert stratégique de production Boeing vers Casablanca.",
+    "filename": "ecoscope-2026-11-12.mp3",
+    "bytes": 4775548,
+    "duration": 298
+  },
+  {
     "guid": "ecoscope-2026-11-11",
     "date": "2026-11-11",
     "title": "ÉcoScope — 11/11/2026 : IS à 40 %, bons du Trésor en hausse et gazoduc Nigeria-Maroc",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-10.mp3",
     "bytes": 5156834,
     "duration": 322
-  },
-  {
-    "guid": "ecoscope-2026-09-09",
-    "date": "2026-09-09",
-    "title": "ÉcoScope — 09/09/2026 : Programme social RNI, Jouahri distingué mondialement, grève des transporteurs",
-    "description": "Au programme aujourd'hui : le RNI dévoile un plan social colossal de deux cent vingt-quatre milliards de dirhams à l'horizon 2031. Abdellatif Jouahri, le gouverneur de Bank Al-Maghrib, entre dans le palmarès des vingt-cinq meilleurs banquiers centraux du monde. Et les professionnels du transport routier de marchandises menacent de paralyser leur secteur dès le 14 septembre. Trois sujets qui touchent directement au quotidien des Marocains.",
-    "filename": "ecoscope-2026-09-09.mp3",
-    "bytes": 4391477,
-    "duration": 274
   }
 ]

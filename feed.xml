@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 07:03:13 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:03:53 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 12/11/2026 : Crise de la tomate, Bourse de Casablanca et industrie automobile</title>
+      <description>Au programme de cet épisode : la pénurie de tomates qui pèse sur les ménages marocains, entre virus dévastateur et débat sur les priorités de l'export agricole. Puis un double coup de projecteur sur la Bourse de Casablanca, avec la chute du MASI et l'introduction de Jet Energy au prix fort. Et enfin, une industrie automobile marocaine au sommet du continent, avec en prime un transfert stratégique de production Boeing vers Casablanca.</description>
+      <itunes:summary>Au programme de cet épisode : la pénurie de tomates qui pèse sur les ménages marocains, entre virus dévastateur et débat sur les priorités de l'export agricole. Puis un double coup de projecteur sur la Bourse de Casablanca, avec la chute du MASI et l'introduction de Jet Energy au prix fort. Et enfin, une industrie automobile marocaine au sommet du continent, avec en prime un transfert stratégique de production Boeing vers Casablanca.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-12.mp3" length="4775548" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>298</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 11/11/2026 : IS à 40 %, bons du Trésor en hausse et gazoduc Nigeria-Maroc</title>
       <description>Au programme de cet épisode : la majorité parlementaire propose d'élargir le taux d'impôt sur les sociétés à quarante pour cent à plusieurs secteurs clés, dont les hydrocarbures, le ciment et les télécoms. Nous verrons ensuite pourquoi les taux des bons du Trésor repartent à la hausse et ce que cela signifie pour le financement de l'État. Et enfin, une avancée majeure pour le gazoduc Nigeria-Maroc : Abuja courtise le géant pétrolier émirati ADNOC pour financer ce chantier colossal.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-10</guid>
       <pubDate>Thu, 10 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>322</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 09/09/2026 : Programme social RNI, Jouahri distingué mondialement, grève des transporteurs</title>
-      <description>Au programme aujourd'hui : le RNI dévoile un plan social colossal de deux cent vingt-quatre milliards de dirhams à l'horizon 2031. Abdellatif Jouahri, le gouverneur de Bank Al-Maghrib, entre dans le palmarès des vingt-cinq meilleurs banquiers centraux du monde. Et les professionnels du transport routier de marchandises menacent de paralyser leur secteur dès le 14 septembre. Trois sujets qui touchent directement au quotidien des Marocains.</description>
-      <itunes:summary>Au programme aujourd'hui : le RNI dévoile un plan social colossal de deux cent vingt-quatre milliards de dirhams à l'horizon 2031. Abdellatif Jouahri, le gouverneur de Bank Al-Maghrib, entre dans le palmarès des vingt-cinq meilleurs banquiers centraux du monde. Et les professionnels du transport routier de marchandises menacent de paralyser leur secteur dès le 14 septembre. Trois sujets qui touchent directement au quotidien des Marocains.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-09.mp3" length="4391477" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-09</guid>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>274</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
