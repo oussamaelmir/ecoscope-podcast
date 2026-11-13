@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 07:03:53 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:03:11 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 13/11/2026 : Aide sociale revalorisée, PLF 2027 en vote final, Wafa Assurance rachète La Marocaine Vie</title>
+      <description>Au programme aujourd'hui : le gouvernement revalorise l'aide sociale directe à six cents dirhams et dégaine des mesures pour freiner la hausse des prix alimentaires. Côté budget, la première partie du projet de loi de finances deux mille vingt-sept vient d'être adoptée en commission et le vote final approche. Et enfin, une opération de taille dans le secteur des assurances : Wafa Assurance s'apprête à prendre le contrôle de La Marocaine Vie.</description>
+      <itunes:summary>Au programme aujourd'hui : le gouvernement revalorise l'aide sociale directe à six cents dirhams et dégaine des mesures pour freiner la hausse des prix alimentaires. Côté budget, la première partie du projet de loi de finances deux mille vingt-sept vient d'être adoptée en commission et le vote final approche. Et enfin, une opération de taille dans le secteur des assurances : Wafa Assurance s'apprête à prendre le contrôle de La Marocaine Vie.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-13.mp3" length="4669861" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>291</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 12/11/2026 : Crise de la tomate, Bourse de Casablanca et industrie automobile</title>
       <description>Au programme de cet épisode : la pénurie de tomates qui pèse sur les ménages marocains, entre virus dévastateur et débat sur les priorités de l'export agricole. Puis un double coup de projecteur sur la Bourse de Casablanca, avec la chute du MASI et l'introduction de Jet Energy au prix fort. Et enfin, une industrie automobile marocaine au sommet du continent, avec en prime un transfert stratégique de production Boeing vers Casablanca.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-11</guid>
       <pubDate>Fri, 11 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>324</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 10/09/2026 : Carburants solaires à Tan-Tan, cryptos dans le viseur du GAFI et frais bancaires réduits pour les petits commerçants</title>
-      <description>Au programme ce matin : un groupe suisse va produire du carburant renouvelable dans le sud du Maroc, une annonce qui confirme l'ambition énergétique du Royaume. Ensuite, le gendarme mondial de la finance tire la sonnette d'alarme sur l'interdiction des cryptomonnaies au Maroc. Et enfin, Bank Al-Maghrib réduit les frais bancaires pour encourager les petits commerçants à accepter la carte. Trois sujets, trois enjeux concrets pour l'économie marocaine.</description>
-      <itunes:summary>Au programme ce matin : un groupe suisse va produire du carburant renouvelable dans le sud du Maroc, une annonce qui confirme l'ambition énergétique du Royaume. Ensuite, le gendarme mondial de la finance tire la sonnette d'alarme sur l'interdiction des cryptomonnaies au Maroc. Et enfin, Bank Al-Maghrib réduit les frais bancaires pour encourager les petits commerçants à accepter la carte. Trois sujets, trois enjeux concrets pour l'économie marocaine.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-10.mp3" length="5156834" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-10</guid>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>322</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
