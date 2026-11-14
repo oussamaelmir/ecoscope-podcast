@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Nov 2026 07:03:11 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:03:08 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 14/11/2026 : BAD-Maroc, OCP se désendette, et l'eau dessalée trop bon marché</title>
+      <description>Au programme aujourd'hui : le Maroc signe un accord de financement massif avec la Banque africaine de développement pour accélérer ses réformes structurelles. OCP, le géant phosphatier, rembourse par anticipation un emprunt obligataire de dix ans, signal fort sur la santé de ses finances. Et enfin, la Cour des comptes tire la sonnette d'alarme sur un écart tarifaire alarmant dans le secteur de l'eau dessalée.</description>
+      <itunes:summary>Au programme aujourd'hui : le Maroc signe un accord de financement massif avec la Banque africaine de développement pour accélérer ses réformes structurelles. OCP, le géant phosphatier, rembourse par anticipation un emprunt obligataire de dix ans, signal fort sur la santé de ses finances. Et enfin, la Cour des comptes tire la sonnette d'alarme sur un écart tarifaire alarmant dans le secteur de l'eau dessalée.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-14.mp3" length="4880874" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>304</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 13/11/2026 : Aide sociale revalorisée, PLF 2027 en vote final, Wafa Assurance rachète La Marocaine Vie</title>
       <description>Au programme aujourd'hui : le gouvernement revalorise l'aide sociale directe à six cents dirhams et dégaine des mesures pour freiner la hausse des prix alimentaires. Côté budget, la première partie du projet de loi de finances deux mille vingt-sept vient d'être adoptée en commission et le vote final approche. Et enfin, une opération de taille dans le secteur des assurances : Wafa Assurance s'apprête à prendre le contrôle de La Marocaine Vie.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-12</guid>
       <pubDate>Sat, 12 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>288</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 11/09/2026 : Nador West Med opérationnel, deux nouvelles ZAI créées, la colère des transporteurs monte</title>
-      <description>Au programme aujourd'hui : le port de Nador West Med franchit une étape historique avec son Terminal Est prêt à accueillir ses premières escales commerciales. Le Conseil de gouvernement donne son feu vert à deux nouvelles Zones d'accélération industrielle. Et les syndicats du transport haussent le ton face à une coupe brutale des subventions, avec une grève annoncée pour le 14 septembre.</description>
-      <itunes:summary>Au programme aujourd'hui : le port de Nador West Med franchit une étape historique avec son Terminal Est prêt à accueillir ses premières escales commerciales. Le Conseil de gouvernement donne son feu vert à deux nouvelles Zones d'accélération industrielle. Et les syndicats du transport haussent le ton face à une coupe brutale des subventions, avec une grève annoncée pour le 14 septembre.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-11.mp3" length="5196074" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-11</guid>
-      <pubDate>Fri, 11 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>324</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
