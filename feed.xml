@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 14 Nov 2026 07:03:08 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:02:45 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 15/11/2026 : PLF 2027 et l'informel, réserves de change, et paradoxe de la pêche</title>
+      <description>Au programme aujourd'hui : le gouvernement veut faire entrer l'économie informelle dans le circuit fiscal pour financer ses ambitions sociales, un chantier immense qui concerne des millions de Marocains. Côté finances, les réserves de change atteignent des sommets, mais les taux obligataires longs ne cessent de grimper. Et enfin, un paradoxe dans la pêche : des volumes record à quai, mais la sardine qui s'affiche à trente dirhams le kilo chez le poissonnier.</description>
+      <itunes:summary>Au programme aujourd'hui : le gouvernement veut faire entrer l'économie informelle dans le circuit fiscal pour financer ses ambitions sociales, un chantier immense qui concerne des millions de Marocains. Côté finances, les réserves de change atteignent des sommets, mais les taux obligataires longs ne cessent de grimper. Et enfin, un paradoxe dans la pêche : des volumes record à quai, mais la sardine qui s'affiche à trente dirhams le kilo chez le poissonnier.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-15.mp3" length="4733764" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>295</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 14/11/2026 : BAD-Maroc, OCP se désendette, et l'eau dessalée trop bon marché</title>
       <description>Au programme aujourd'hui : le Maroc signe un accord de financement massif avec la Banque africaine de développement pour accélérer ses réformes structurelles. OCP, le géant phosphatier, rembourse par anticipation un emprunt obligataire de dix ans, signal fort sur la santé de ses finances. Et enfin, la Cour des comptes tire la sonnette d'alarme sur un écart tarifaire alarmant dans le secteur de l'eau dessalée.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>312</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 12/09/2026 : CGEM, solaire flottant et nouvelles règles immobilières</title>
-      <description>Au programme aujourd'hui : le président de la CGEM, Mehdi Tazi, dévoile les cinq priorités économiques du patronat marocain pour les mois à venir. On parlera aussi d'énergie solaire flottante, avec une étude ambitieuse lancée sur douze barrages du bassin du Sebou. Et enfin, une décision de la Direction générale des impôts qui change les règles du jeu dans l'immobilier : le chèque ordinaire, c'est terminé.</description>
-      <itunes:summary>Au programme aujourd'hui : le président de la CGEM, Mehdi Tazi, dévoile les cinq priorités économiques du patronat marocain pour les mois à venir. On parlera aussi d'énergie solaire flottante, avec une étude ambitieuse lancée sur douze barrages du bassin du Sebou. Et enfin, une décision de la Direction générale des impôts qui change les règles du jeu dans l'immobilier : le chèque ordinaire, c'est terminé.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-12.mp3" length="4616293" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-12</guid>
-      <pubDate>Sat, 12 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>288</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
