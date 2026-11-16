@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Nov 2026 07:02:45 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:02:38 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 16/11/2026 : PLF 2027 adopté, industrie de défense et dirham digital</title>
+      <description>Au programme ce matin : le budget de l'État pour 2027 vient de franchir une étape législative majeure à la Chambre des représentants. Le Maroc accélère aussi sa montée en puissance dans l'industrie de défense, avec plus de trois cent trente millions de dollars de projets autorisés. Et enfin, Bank Al-Maghrib lève un coin du voile sur son projet de dirham digital, en partenariat avec le FMI et la Banque mondiale.</description>
+      <itunes:summary>Au programme ce matin : le budget de l'État pour 2027 vient de franchir une étape législative majeure à la Chambre des représentants. Le Maroc accélère aussi sa montée en puissance dans l'industrie de défense, avec plus de trois cent trente millions de dollars de projets autorisés. Et enfin, Bank Al-Maghrib lève un coin du voile sur son projet de dirham digital, en partenariat avec le FMI et la Banque mondiale.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-16.mp3" length="4353391" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>271</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 15/11/2026 : PLF 2027 et l'informel, réserves de change, et paradoxe de la pêche</title>
       <description>Au programme aujourd'hui : le gouvernement veut faire entrer l'économie informelle dans le circuit fiscal pour financer ses ambitions sociales, un chantier immense qui concerne des millions de Marocains. Côté finances, les réserves de change atteignent des sommets, mais les taux obligataires longs ne cessent de grimper. Et enfin, un paradoxe dans la pêche : des volumes record à quai, mais la sardine qui s'affiche à trente dirhams le kilo chez le poissonnier.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>332</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 13/09/2026 : PLF 2027, Bourse de Casablanca dans le rouge et Aya Gold &amp; Silver mise sur Boumadine</title>
-      <description>Au programme ce matin : le projet de loi de finances 2027 dévoile ses ambitions de croissance et ses grandes orientations fiscales. Ensuite, la Bourse de Casablanca a terminé la semaine dans le rouge, mais une valeur bancaire tire son épingle du jeu avec un potentiel de hausse très séduisant. Et enfin, le groupe minier Aya Gold and Silver mise sur un nouveau gisement pour doubler sa production d'argent au Maroc.</description>
-      <itunes:summary>Au programme ce matin : le projet de loi de finances 2027 dévoile ses ambitions de croissance et ses grandes orientations fiscales. Ensuite, la Bourse de Casablanca a terminé la semaine dans le rouge, mais une valeur bancaire tire son épingle du jeu avec un potentiel de hausse très séduisant. Et enfin, le groupe minier Aya Gold and Silver mise sur un nouveau gisement pour doubler sa production d'argent au Maroc.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-13.mp3" length="5005893" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>312</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
