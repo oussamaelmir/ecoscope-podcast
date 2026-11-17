@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 07:02:38 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:03:06 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 17/11/2026 : Réforme de l'IR, Bourse de Casablanca et tourisme en hausse</title>
+      <description>Au programme aujourd'hui : la réforme de l'impôt sur le revenu crée une zone d'incertitude pour les salariés rémunérés au net, et ce sont les employeurs qui devront trancher. Du côté des marchés, la Bourse de Casablanca affiche un potentiel de hausse de vingt virgule sept pour cent malgré des révisions à la baisse. Et enfin, le tourisme marocain confirme sa belle dynamique avec trente-quatre virgule huit millions de nuitées à fin septembre et deux cents projets d'investissement territorial annoncés.</description>
+      <itunes:summary>Au programme aujourd'hui : la réforme de l'impôt sur le revenu crée une zone d'incertitude pour les salariés rémunérés au net, et ce sont les employeurs qui devront trancher. Du côté des marchés, la Bourse de Casablanca affiche un potentiel de hausse de vingt virgule sept pour cent malgré des révisions à la baisse. Et enfin, le tourisme marocain confirme sa belle dynamique avec trente-quatre virgule huit millions de nuitées à fin septembre et deux cents projets d'investissement territorial annoncés.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-17.mp3" length="4582023" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>286</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 16/11/2026 : PLF 2027 adopté, industrie de défense et dirham digital</title>
       <description>Au programme ce matin : le budget de l'État pour 2027 vient de franchir une étape législative majeure à la Chambre des représentants. Le Maroc accélère aussi sa montée en puissance dans l'industrie de défense, avec plus de trois cent trente millions de dollars de projets autorisés. Et enfin, Bank Al-Maghrib lève un coin du voile sur son projet de dirham digital, en partenariat avec le FMI et la Banque mondiale.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>314</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 14/09/2026 : PLF 2027, coût du travail et importations de bétail</title>
-      <description>Au programme aujourd'hui : le rapport préparatoire du budget 2027 dévoile des objectifs ambitieux pour les finances publiques, avec un déficit visé à trois pour cent du PIB. Ensuite, une étude internationale place le Maroc au quinzième rang mondial des pays où il coûte le plus cher d'embaucher. Et enfin, la flambée des prix du cheptel en Europe freine les importations de bétail, avec des conséquences potentielles sur les prix de la viande pour les consommateurs marocains.</description>
-      <itunes:summary>Au programme aujourd'hui : le rapport préparatoire du budget 2027 dévoile des objectifs ambitieux pour les finances publiques, avec un déficit visé à trois pour cent du PIB. Ensuite, une étude internationale place le Maroc au quinzième rang mondial des pays où il coûte le plus cher d'embaucher. Et enfin, la flambée des prix du cheptel en Europe freine les importations de bétail, avec des conséquences potentielles sur les prix de la viande pour les consommateurs marocains.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-14.mp3" length="5318454" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>332</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
