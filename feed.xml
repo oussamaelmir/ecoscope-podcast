@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 07:03:06 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:03:03 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 18/11/2026 : PLF 2027 amendé, PIB par habitant à 5 000 dollars et hausse du fret maritime</title>
+      <description>Au programme aujourd'hui : la Chambre des représentants a adopté plusieurs amendements au projet de loi de finances 2027, avec des mesures concrètes pour les stagiaires, les auto-entrepreneurs et les consommateurs de cigarettes électroniques. Ensuite, une projection du FMI place le Maroc au-dessus des cinq mille dollars de PIB par habitant pour la première fois de son histoire. Et enfin, trois géants mondiaux du transport maritime relèvent simultanément leurs tarifs vers le Maroc, ce qui pourrait peser sur le coût des importations.</description>
+      <itunes:summary>Au programme aujourd'hui : la Chambre des représentants a adopté plusieurs amendements au projet de loi de finances 2027, avec des mesures concrètes pour les stagiaires, les auto-entrepreneurs et les consommateurs de cigarettes électroniques. Ensuite, une projection du FMI place le Maroc au-dessus des cinq mille dollars de PIB par habitant pour la première fois de son histoire. Et enfin, trois géants mondiaux du transport maritime relèvent simultanément leurs tarifs vers le Maroc, ce qui pourrait peser sur le coût des importations.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-18.mp3" length="4932313" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>308</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 17/11/2026 : Réforme de l'IR, Bourse de Casablanca et tourisme en hausse</title>
       <description>Au programme aujourd'hui : la réforme de l'impôt sur le revenu crée une zone d'incertitude pour les salariés rémunérés au net, et ce sont les employeurs qui devront trancher. Du côté des marchés, la Bourse de Casablanca affiche un potentiel de hausse de vingt virgule sept pour cent malgré des révisions à la baisse. Et enfin, le tourisme marocain confirme sa belle dynamique avec trente-quatre virgule huit millions de nuitées à fin septembre et deux cents projets d'investissement territorial annoncés.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-16</guid>
       <pubDate>Wed, 16 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>306</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 15/09/2026 : Déficit budgétaire, stockage d'énergie à Benguerir et menace sur l'automobile marocaine</title>
-      <description>Au programme de cet épisode : les finances publiques sous tension, avec un déficit budgétaire qui continue de se creuser à quelques semaines de la présentation du projet de loi de finances 2027. Ensuite, une première historique pour la transition énergétique marocaine, avec la mise en service d'un système de stockage d'énergie par batteries à Benguerir par OCP Green Energy. Et enfin, une menace qui pèse sur l'industrie automobile marocaine, dans le viseur des lobbies industriels européens à Bruxelles.</description>
-      <itunes:summary>Au programme de cet épisode : les finances publiques sous tension, avec un déficit budgétaire qui continue de se creuser à quelques semaines de la présentation du projet de loi de finances 2027. Ensuite, une première historique pour la transition énergétique marocaine, avec la mise en service d'un système de stockage d'énergie par batteries à Benguerir par OCP Green Energy. Et enfin, une menace qui pèse sur l'industrie automobile marocaine, dans le viseur des lobbies industriels européens à Bruxelles.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-15.mp3" length="5028881" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>314</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
