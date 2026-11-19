@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 07:03:03 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:02:50 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 19/11/2026 : IPO Laprophan en feu, alerte sur l'automobile et le gasoil bat un record</title>
+      <description>Au programme aujourd'hui : un succès historique pour l'entrée en bourse de Laprophan, qui a suscité un engouement massif avec plus de quinze milliards de dirhams de demandes. Ensuite, le ministre de l'Industrie tire la sonnette d'alarme sur une réglementation européenne qui pourrait fragiliser notre filière automobile. Et enfin, le gasoil franchit la barre des dix-sept dirhams le litre, un record qui dépasse même le pic de la crise ukrainienne de 2022.</description>
+      <itunes:summary>Au programme aujourd'hui : un succès historique pour l'entrée en bourse de Laprophan, qui a suscité un engouement massif avec plus de quinze milliards de dirhams de demandes. Ensuite, le ministre de l'Industrie tire la sonnette d'alarme sur une réglementation européenne qui pourrait fragiliser notre filière automobile. Et enfin, le gasoil franchit la barre des dix-sept dirhams le litre, un record qui dépasse même le pic de la crise ukrainienne de 2022.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-19.mp3" length="4762608" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 18/11/2026 : PLF 2027 amendé, PIB par habitant à 5 000 dollars et hausse du fret maritime</title>
       <description>Au programme aujourd'hui : la Chambre des représentants a adopté plusieurs amendements au projet de loi de finances 2027, avec des mesures concrètes pour les stagiaires, les auto-entrepreneurs et les consommateurs de cigarettes électroniques. Ensuite, une projection du FMI place le Maroc au-dessus des cinq mille dollars de PIB par habitant pour la première fois de son histoire. Et enfin, trois géants mondiaux du transport maritime relèvent simultanément leurs tarifs vers le Maroc, ce qui pourrait peser sur le coût des importations.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-17</guid>
       <pubDate>Thu, 17 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>296</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 16/09/2026 : Nador West Med prêt à ouvrir, stock d'eau au plus haut et OPA sur CMT</title>
-      <description>Au programme ce matin : Nador West Med se prépare à ouvrir ses portes commerciales avant la fin de l'année, et ce port pas comme les autres pourrait bien redessiner la carte économique du nord du Maroc. Nous ferons aussi le point sur les réserves en eau des barrages, qui atteignent leur niveau le plus élevé depuis dix ans, une excellente nouvelle à l'approche de la campagne agricole. Et enfin, un mouvement boursier à surveiller : l'AMMC vient de déclarer recevable une offre publique d'achat sur la Compagnie Minière de Touissit.</description>
-      <itunes:summary>Au programme ce matin : Nador West Med se prépare à ouvrir ses portes commerciales avant la fin de l'année, et ce port pas comme les autres pourrait bien redessiner la carte économique du nord du Maroc. Nous ferons aussi le point sur les réserves en eau des barrages, qui atteignent leur niveau le plus élevé depuis dix ans, une excellente nouvelle à l'approche de la campagne agricole. Et enfin, un mouvement boursier à surveiller : l'AMMC vient de déclarer recevable une offre publique d'achat sur la Compagnie Minière de Touissit.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-16.mp3" length="4908478" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-16</guid>
-      <pubDate>Wed, 16 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>306</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
