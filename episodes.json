@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-20",
+    "date": "2026-11-20",
+    "title": "ÉcoScope — 20/11/2026 : Prix alimentaires, réforme des CRI et financement des PME",
+    "description": "Au menu ce matin : le gouvernement passe à l'action pour faire baisser les prix des viandes et légumes, avec des mesures concrètes qui touchent directement votre porte-monnaie. Ensuite, les Centres régionaux d'investissement changent de tutelle, et cela va transformer la façon dont les projets sont accueillis dans les régions. Enfin, Tamwilcom lance une nouvelle offre de financement pour soutenir les entreprises, avec une simplification bienvenue pour les PME.",
+    "filename": "ecoscope-2026-11-20.mp3",
+    "bytes": 4833219,
+    "duration": 301
+  },
+  {
     "guid": "ecoscope-2026-11-19",
     "date": "2026-11-19",
     "title": "ÉcoScope — 19/11/2026 : IPO Laprophan en feu, alerte sur l'automobile et le gasoil bat un record",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-18.mp3",
     "bytes": 4956142,
     "duration": 309
-  },
-  {
-    "guid": "ecoscope-2026-09-17",
-    "date": "2026-09-17",
-    "title": "ÉcoScope — 17/09/2026 : Maroc dans l'indice J.P. Morgan, débat sur le SMIG à 5 000 DH, et finances publiques à fin août",
-    "description": "Au menu de cet épisode : le Maroc fait son entrée dans un tout nouvel indice de dette souveraine signé J.P. Morgan, une reconnaissance qui pourrait changer la donne pour le financement de l'État. Ensuite, nous nous pencherons sur le débat qui agite économistes et entreprises : est-il réaliste de porter le salaire minimum à cinq mille dirhams ? Et enfin, un point sur les finances publiques à fin août : les recettes progressent, mais les dépenses progressent encore plus vite.",
-    "filename": "ecoscope-2026-09-17.mp3",
-    "bytes": 4742594,
-    "duration": 296
   }
 ]

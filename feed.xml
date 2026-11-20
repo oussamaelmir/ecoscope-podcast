@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 07:02:50 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:03:16 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 20/11/2026 : Prix alimentaires, réforme des CRI et financement des PME</title>
+      <description>Au menu ce matin : le gouvernement passe à l'action pour faire baisser les prix des viandes et légumes, avec des mesures concrètes qui touchent directement votre porte-monnaie. Ensuite, les Centres régionaux d'investissement changent de tutelle, et cela va transformer la façon dont les projets sont accueillis dans les régions. Enfin, Tamwilcom lance une nouvelle offre de financement pour soutenir les entreprises, avec une simplification bienvenue pour les PME.</description>
+      <itunes:summary>Au menu ce matin : le gouvernement passe à l'action pour faire baisser les prix des viandes et légumes, avec des mesures concrètes qui touchent directement votre porte-monnaie. Ensuite, les Centres régionaux d'investissement changent de tutelle, et cela va transformer la façon dont les projets sont accueillis dans les régions. Enfin, Tamwilcom lance une nouvelle offre de financement pour soutenir les entreprises, avec une simplification bienvenue pour les PME.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-20.mp3" length="4833219" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>301</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 19/11/2026 : IPO Laprophan en feu, alerte sur l'automobile et le gasoil bat un record</title>
       <description>Au programme aujourd'hui : un succès historique pour l'entrée en bourse de Laprophan, qui a suscité un engouement massif avec plus de quinze milliards de dirhams de demandes. Ensuite, le ministre de l'Industrie tire la sonnette d'alarme sur une réglementation européenne qui pourrait fragiliser notre filière automobile. Et enfin, le gasoil franchit la barre des dix-sept dirhams le litre, un record qui dépasse même le pic de la crise ukrainienne de 2022.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>309</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 17/09/2026 : Maroc dans l'indice J.P. Morgan, débat sur le SMIG à 5 000 DH, et finances publiques à fin août</title>
-      <description>Au menu de cet épisode : le Maroc fait son entrée dans un tout nouvel indice de dette souveraine signé J.P. Morgan, une reconnaissance qui pourrait changer la donne pour le financement de l'État. Ensuite, nous nous pencherons sur le débat qui agite économistes et entreprises : est-il réaliste de porter le salaire minimum à cinq mille dirhams ? Et enfin, un point sur les finances publiques à fin août : les recettes progressent, mais les dépenses progressent encore plus vite.</description>
-      <itunes:summary>Au menu de cet épisode : le Maroc fait son entrée dans un tout nouvel indice de dette souveraine signé J.P. Morgan, une reconnaissance qui pourrait changer la donne pour le financement de l'État. Ensuite, nous nous pencherons sur le débat qui agite économistes et entreprises : est-il réaliste de porter le salaire minimum à cinq mille dirhams ? Et enfin, un point sur les finances publiques à fin août : les recettes progressent, mais les dépenses progressent encore plus vite.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-17.mp3" length="4742594" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-17</guid>
-      <pubDate>Thu, 17 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>296</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
