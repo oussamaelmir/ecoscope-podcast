@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-22",
+    "date": "2026-11-22",
+    "title": "ÉcoScope — 22/11/2026 : Raffinage post-Samir, pièces auto en hausse et immobilier en léger recul",
+    "description": "Au programme aujourd'hui : dix ans après l'arrêt de la raffinerie Samir, trois scénarios s'ouvrent pour repenser la souveraineté énergétique du Maroc. Côté industrie, les exportations marocaines de pièces automobiles vers l'Espagne ont presque doublé en neuf mois, un signal fort de la montée en puissance de notre filière. Et enfin, le marché immobilier montre des signes de refroidissement : les prix reculent légèrement au troisième trimestre, selon les chiffres de Bank Al-Maghrib et de l'ANCFCC.",
+    "filename": "ecoscope-2026-11-22.mp3",
+    "bytes": 5290496,
+    "duration": 330
+  },
+  {
     "guid": "ecoscope-2026-11-21",
     "date": "2026-11-21",
     "title": "ÉcoScope — 21/11/2026 : Attijariwafa en hausse, PLF 2027 et la notation d'OCP confirmée",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-21.mp3",
     "bytes": 4852026,
     "duration": 303
-  },
-  {
-    "guid": "ecoscope-2026-09-19",
-    "date": "2026-09-19",
-    "title": "ÉcoScope — 19/09/2026 : Bourse en repli pré-électoral, OCP Nutricrops signe avec le Brésil, et tension sur les taux longs",
-    "description": "Au programme ce matin : la Bourse de Casablanca accuse une nouvelle correction, les investisseurs retenant leur souffle avant les législatives du 23 septembre. Côté grandes manœuvres internationales, OCP Nutricrops vient de signer un accord majeur avec le Brésil pour livrer trois virgule huit millions de tonnes d'engrais. Et enfin, le marché des capitaux affiche soixante-dix virgule huit sept milliards de dirhams de levées à fin juillet, dans un contexte de tension sur les taux longs.",
-    "filename": "ecoscope-2026-09-19.mp3",
-    "bytes": 4991704,
-    "duration": 311
   }
 ]

@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 07:03:08 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:03:08 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 22/11/2026 : Raffinage post-Samir, pièces auto en hausse et immobilier en léger recul</title>
+      <description>Au programme aujourd'hui : dix ans après l'arrêt de la raffinerie Samir, trois scénarios s'ouvrent pour repenser la souveraineté énergétique du Maroc. Côté industrie, les exportations marocaines de pièces automobiles vers l'Espagne ont presque doublé en neuf mois, un signal fort de la montée en puissance de notre filière. Et enfin, le marché immobilier montre des signes de refroidissement : les prix reculent légèrement au troisième trimestre, selon les chiffres de Bank Al-Maghrib et de l'ANCFCC.</description>
+      <itunes:summary>Au programme aujourd'hui : dix ans après l'arrêt de la raffinerie Samir, trois scénarios s'ouvrent pour repenser la souveraineté énergétique du Maroc. Côté industrie, les exportations marocaines de pièces automobiles vers l'Espagne ont presque doublé en neuf mois, un signal fort de la montée en puissance de notre filière. Et enfin, le marché immobilier montre des signes de refroidissement : les prix reculent légèrement au troisième trimestre, selon les chiffres de Bank Al-Maghrib et de l'ANCFCC.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-22.mp3" length="5290496" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>330</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 21/11/2026 : Attijariwafa en hausse, PLF 2027 et la notation d'OCP confirmée</title>
       <description>Au programme aujourd'hui : Attijariwafa bank publie des résultats en nette progression sur les neuf premiers mois de l'année, portés par une chute spectaculaire du coût du risque. Du côté du budget, le projet de loi de finances 2027 passe en commission et les syndicats prennent la parole. Et enfin, OCP préserve sa notation investment grade malgré une année difficile pour l'industrie des engrais.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>303</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 19/09/2026 : Bourse en repli pré-électoral, OCP Nutricrops signe avec le Brésil, et tension sur les taux longs</title>
-      <description>Au programme ce matin : la Bourse de Casablanca accuse une nouvelle correction, les investisseurs retenant leur souffle avant les législatives du 23 septembre. Côté grandes manœuvres internationales, OCP Nutricrops vient de signer un accord majeur avec le Brésil pour livrer trois virgule huit millions de tonnes d'engrais. Et enfin, le marché des capitaux affiche soixante-dix virgule huit sept milliards de dirhams de levées à fin juillet, dans un contexte de tension sur les taux longs.</description>
-      <itunes:summary>Au programme ce matin : la Bourse de Casablanca accuse une nouvelle correction, les investisseurs retenant leur souffle avant les législatives du 23 septembre. Côté grandes manœuvres internationales, OCP Nutricrops vient de signer un accord majeur avec le Brésil pour livrer trois virgule huit millions de tonnes d'engrais. Et enfin, le marché des capitaux affiche soixante-dix virgule huit sept milliards de dirhams de levées à fin juillet, dans un contexte de tension sur les taux longs.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-19.mp3" length="4991704" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>311</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
