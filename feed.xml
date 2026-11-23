@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 07:03:08 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:03:08 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 23/11/2026 : Finance verte, exportations vers la Chine et TPME face au Mondial 2030</title>
+      <description>Au programme aujourd'hui : Bank Al-Maghrib s'allie à la Banque européenne d'investissement pour mieux gérer les risques climatiques dans le secteur bancaire. Ensuite, une excellente nouvelle pour les exportateurs marocains : leurs produits peuvent désormais entrer en Chine sans droits de douane. Et enfin, les petites et moyennes entreprises tirent la sonnette d'alarme face aux grands chantiers de la Coupe du monde 2030.</description>
+      <itunes:summary>Au programme aujourd'hui : Bank Al-Maghrib s'allie à la Banque européenne d'investissement pour mieux gérer les risques climatiques dans le secteur bancaire. Ensuite, une excellente nouvelle pour les exportateurs marocains : leurs produits peuvent désormais entrer en Chine sans droits de douane. Et enfin, les petites et moyennes entreprises tirent la sonnette d'alarme face aux grands chantiers de la Coupe du monde 2030.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-23.mp3" length="4774724" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>298</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 22/11/2026 : Raffinage post-Samir, pièces auto en hausse et immobilier en léger recul</title>
       <description>Au programme aujourd'hui : dix ans après l'arrêt de la raffinerie Samir, trois scénarios s'ouvrent pour repenser la souveraineté énergétique du Maroc. Côté industrie, les exportations marocaines de pièces automobiles vers l'Espagne ont presque doublé en neuf mois, un signal fort de la montée en puissance de notre filière. Et enfin, le marché immobilier montre des signes de refroidissement : les prix reculent légèrement au troisième trimestre, selon les chiffres de Bank Al-Maghrib et de l'ANCFCC.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>294</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 21/09/2026 : Fiscalité électorale, bourse en berne et Marrakech Airshow</title>
-      <description>Au programme de cet épisode : la campagne des législatives 2026 prend une tournure très concrète avec les propositions fiscales des partis, qui pourraient changer la donne pour votre bulletin de paie. Côté marchés, la Bourse de Casablanca reste dans le rouge depuis janvier, malgré un regain d'activité en juillet. Et enfin, le Marrakech Airshow approche à grands pas, avec la confirmation d'une présence émiratie de poids qui illustre l'ambition industrielle du Maroc.</description>
-      <itunes:summary>Au programme de cet épisode : la campagne des législatives 2026 prend une tournure très concrète avec les propositions fiscales des partis, qui pourraient changer la donne pour votre bulletin de paie. Côté marchés, la Bourse de Casablanca reste dans le rouge depuis janvier, malgré un regain d'activité en juillet. Et enfin, le Marrakech Airshow approche à grands pas, avec la confirmation d'une présence émiratie de poids qui illustre l'ambition industrielle du Maroc.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-21.mp3" length="4852026" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>303</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
