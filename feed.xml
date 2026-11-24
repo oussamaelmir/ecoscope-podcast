@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 07:03:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:02:54 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 24/11/2026 : Carburants sans compensation, soutien agricole et chantier des data centers</title>
+      <description>Au programme aujourd'hui : le ministre des Finances Fouzi Lekjaa ferme définitivement la porte à toute subvention des carburants, et ce n'est pas sans conséquences pour votre portefeuille. Ensuite, le gouvernement détaille son arsenal de soutien pour la campagne agricole 2026-2027, entre semences, engrais et reconstitution du cheptel. Et enfin, trois ministères se mettent autour de la table pour lancer le chantier des centres de données au Maroc, une infrastructure clé pour l'économie numérique de demain.</description>
+      <itunes:summary>Au programme aujourd'hui : le ministre des Finances Fouzi Lekjaa ferme définitivement la porte à toute subvention des carburants, et ce n'est pas sans conséquences pour votre portefeuille. Ensuite, le gouvernement détaille son arsenal de soutien pour la campagne agricole 2026-2027, entre semences, engrais et reconstitution du cheptel. Et enfin, trois ministères se mettent autour de la table pour lancer le chantier des centres de données au Maroc, une infrastructure clé pour l'économie numérique de demain.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-24.mp3" length="5163854" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>322</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 23/11/2026 : Finance verte, exportations vers la Chine et TPME face au Mondial 2030</title>
       <description>Au programme aujourd'hui : Bank Al-Maghrib s'allie à la Banque européenne d'investissement pour mieux gérer les risques climatiques dans le secteur bancaire. Ensuite, une excellente nouvelle pour les exportateurs marocains : leurs produits peuvent désormais entrer en Chine sans droits de douane. Et enfin, les petites et moyennes entreprises tirent la sonnette d'alarme face aux grands chantiers de la Coupe du monde 2030.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>280</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 22/09/2026 : OCP devant la justice américaine, pouvoir d'achat à la rentrée et partenariat hydrique Maroc-Allemagne</title>
-      <description>Au menu de cet épisode : OCP joue une partie serrée aux États-Unis entre bataille juridique et nouvelle levée de fonds. Ensuite, la rentrée met à rude épreuve le budget des ménages marocains, dans un contexte de consommation dynamique mais de confiance fragile. Et enfin, le Maroc et l'Allemagne renforcent leur coopération pour sécuriser l'accès à l'eau potable face au changement climatique.</description>
-      <itunes:summary>Au menu de cet épisode : OCP joue une partie serrée aux États-Unis entre bataille juridique et nouvelle levée de fonds. Ensuite, la rentrée met à rude épreuve le budget des ménages marocains, dans un contexte de consommation dynamique mais de confiance fragile. Et enfin, le Maroc et l'Allemagne renforcent leur coopération pour sécuriser l'accès à l'eau potable face au changement climatique.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-22.mp3" length="4714601" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>294</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

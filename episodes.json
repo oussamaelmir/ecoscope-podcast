@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-24",
+    "date": "2026-11-24",
+    "title": "ÉcoScope — 24/11/2026 : Carburants sans compensation, soutien agricole et chantier des data centers",
+    "description": "Au programme aujourd'hui : le ministre des Finances Fouzi Lekjaa ferme définitivement la porte à toute subvention des carburants, et ce n'est pas sans conséquences pour votre portefeuille. Ensuite, le gouvernement détaille son arsenal de soutien pour la campagne agricole 2026-2027, entre semences, engrais et reconstitution du cheptel. Et enfin, trois ministères se mettent autour de la table pour lancer le chantier des centres de données au Maroc, une infrastructure clé pour l'économie numérique de demain.",
+    "filename": "ecoscope-2026-11-24.mp3",
+    "bytes": 5163854,
+    "duration": 322
+  },
+  {
     "guid": "ecoscope-2026-11-23",
     "date": "2026-11-23",
     "title": "ÉcoScope — 23/11/2026 : Finance verte, exportations vers la Chine et TPME face au Mondial 2030",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-23.mp3",
     "bytes": 4491809,
     "duration": 280
-  },
-  {
-    "guid": "ecoscope-2026-09-22",
-    "date": "2026-09-22",
-    "title": "ÉcoScope — 22/09/2026 : OCP devant la justice américaine, pouvoir d'achat à la rentrée et partenariat hydrique Maroc-Allemagne",
-    "description": "Au menu de cet épisode : OCP joue une partie serrée aux États-Unis entre bataille juridique et nouvelle levée de fonds. Ensuite, la rentrée met à rude épreuve le budget des ménages marocains, dans un contexte de consommation dynamique mais de confiance fragile. Et enfin, le Maroc et l'Allemagne renforcent leur coopération pour sécuriser l'accès à l'eau potable face au changement climatique.",
-    "filename": "ecoscope-2026-09-22.mp3",
-    "bytes": 4714601,
-    "duration": 294
   }
 ]
