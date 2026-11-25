@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-25",
+    "date": "2026-11-25",
+    "title": "ÉcoScope — 25/11/2026 : Dialogue social, épargne nationale et TVA sur l'électricité",
+    "description": "Au programme aujourd'hui : les syndicats et le gouvernement se retrouvent autour de la table pour parler salaires et retraites, avec des revendications fortes mais sans accord chiffré pour l'instant. Ensuite, le ministre de l'Économie Fouzi Lekjaa appelle à mieux mobiliser l'épargne des Marocains au service des grands chantiers du pays. Et enfin, bonne nouvelle pour votre portefeuille : malgré une hausse de la TVA sur l'électricité à vingt pour cent depuis janvier, vos factures, elles, ne bougent pas.",
+    "filename": "ecoscope-2026-11-25.mp3",
+    "bytes": 4652246,
+    "duration": 290
+  },
+  {
     "guid": "ecoscope-2026-11-24",
     "date": "2026-11-24",
     "title": "ÉcoScope — 24/11/2026 : Carburants sans compensation, soutien agricole et chantier des data centers",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-24.mp3",
     "bytes": 4889236,
     "duration": 305
-  },
-  {
-    "guid": "ecoscope-2026-09-23",
-    "date": "2026-09-23",
-    "title": "ÉcoScope — 23/09/2026 : Taux directeur stable, médicaments moins chers, et grand chantier ferroviaire de l'ONCF",
-    "description": "Au programme aujourd'hui : Bank Al-Maghrib a maintenu son taux directeur inchangé, mais ses nouvelles prévisions méritent qu'on s'y attarde. Ensuite, une bonne nouvelle pour le porte-monnaie des Marocains : près de trois cents médicaments vont voir leur prix baisser, parfois très fortement. Et enfin, l'ONCF dévoile un programme d'investissement massif pour transformer le rail marocain d'ici 2030.",
-    "filename": "ecoscope-2026-09-23.mp3",
-    "bytes": 4491809,
-    "duration": 280
   }
 ]

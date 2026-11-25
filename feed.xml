@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 07:02:54 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:02:59 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 25/11/2026 : Dialogue social, épargne nationale et TVA sur l'électricité</title>
+      <description>Au programme aujourd'hui : les syndicats et le gouvernement se retrouvent autour de la table pour parler salaires et retraites, avec des revendications fortes mais sans accord chiffré pour l'instant. Ensuite, le ministre de l'Économie Fouzi Lekjaa appelle à mieux mobiliser l'épargne des Marocains au service des grands chantiers du pays. Et enfin, bonne nouvelle pour votre portefeuille : malgré une hausse de la TVA sur l'électricité à vingt pour cent depuis janvier, vos factures, elles, ne bougent pas.</description>
+      <itunes:summary>Au programme aujourd'hui : les syndicats et le gouvernement se retrouvent autour de la table pour parler salaires et retraites, avec des revendications fortes mais sans accord chiffré pour l'instant. Ensuite, le ministre de l'Économie Fouzi Lekjaa appelle à mieux mobiliser l'épargne des Marocains au service des grands chantiers du pays. Et enfin, bonne nouvelle pour votre portefeuille : malgré une hausse de la TVA sur l'électricité à vingt pour cent depuis janvier, vos factures, elles, ne bougent pas.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-25.mp3" length="4652246" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>290</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 24/11/2026 : Carburants sans compensation, soutien agricole et chantier des data centers</title>
       <description>Au programme aujourd'hui : le ministre des Finances Fouzi Lekjaa ferme définitivement la porte à toute subvention des carburants, et ce n'est pas sans conséquences pour votre portefeuille. Ensuite, le gouvernement détaille son arsenal de soutien pour la campagne agricole 2026-2027, entre semences, engrais et reconstitution du cheptel. Et enfin, trois ministères se mettent autour de la table pour lancer le chantier des centres de données au Maroc, une infrastructure clé pour l'économie numérique de demain.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>305</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 23/09/2026 : Taux directeur stable, médicaments moins chers, et grand chantier ferroviaire de l'ONCF</title>
-      <description>Au programme aujourd'hui : Bank Al-Maghrib a maintenu son taux directeur inchangé, mais ses nouvelles prévisions méritent qu'on s'y attarde. Ensuite, une bonne nouvelle pour le porte-monnaie des Marocains : près de trois cents médicaments vont voir leur prix baisser, parfois très fortement. Et enfin, l'ONCF dévoile un programme d'investissement massif pour transformer le rail marocain d'ici 2030.</description>
-      <itunes:summary>Au programme aujourd'hui : Bank Al-Maghrib a maintenu son taux directeur inchangé, mais ses nouvelles prévisions méritent qu'on s'y attarde. Ensuite, une bonne nouvelle pour le porte-monnaie des Marocains : près de trois cents médicaments vont voir leur prix baisser, parfois très fortement. Et enfin, l'ONCF dévoile un programme d'investissement massif pour transformer le rail marocain d'ici 2030.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-23.mp3" length="4491809" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-23</guid>
-      <pubDate>Wed, 23 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>280</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
