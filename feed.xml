@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 07:02:59 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:03:15 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 26/11/2026 : Industrie de défense, Mondial 2030 et accord aérien Maroc-Chine</title>
+      <description>Au programme aujourd'hui : le Roi Mohammed VI engage le Maroc dans un chantier industriel de défense à hauteur de cinquante milliards de dirhams de revenus annuels potentiels. Ensuite, le gouvernement chiffre pour la première fois l'impact du Mondial 2030 sur l'emploi, avec plus de huit cent quarante mille postes attendus. Et enfin, Rabat et Pékin signent un accord aérien majeur qui ouvre quatorze nouvelles liaisons et protège Royal Air Maroc sur le marché chinois.</description>
+      <itunes:summary>Au programme aujourd'hui : le Roi Mohammed VI engage le Maroc dans un chantier industriel de défense à hauteur de cinquante milliards de dirhams de revenus annuels potentiels. Ensuite, le gouvernement chiffre pour la première fois l'impact du Mondial 2030 sur l'emploi, avec plus de huit cent quarante mille postes attendus. Et enfin, Rabat et Pékin signent un accord aérien majeur qui ouvre quatorze nouvelles liaisons et protège Royal Air Maroc sur le marché chinois.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-26.mp3" length="4739184" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>296</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 25/11/2026 : Dialogue social, épargne nationale et TVA sur l'électricité</title>
       <description>Au programme aujourd'hui : les syndicats et le gouvernement se retrouvent autour de la table pour parler salaires et retraites, avec des revendications fortes mais sans accord chiffré pour l'instant. Ensuite, le ministre de l'Économie Fouzi Lekjaa appelle à mieux mobiliser l'épargne des Marocains au service des grands chantiers du pays. Et enfin, bonne nouvelle pour votre portefeuille : malgré une hausse de la TVA sur l'électricité à vingt pour cent depuis janvier, vos factures, elles, ne bougent pas.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>282</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 24/09/2026 : Législatives, compétitivité automobile et création d'entreprises</title>
-      <description>Au programme ce matin : les résultats des législatives 2026 sont tombés, et la majorité sortante est reconduite — nous allons voir ce que cela signifie concrètement pour les grands chantiers économiques. Ensuite, une étude internationale confirme que le Maroc est la destination industrielle automobile la moins chère au monde, devant la Chine et le Mexique. Et enfin, le dynamisme entrepreneurial marocain reste bien réel : plus de cinquante et un mille nouvelles entreprises créées en six mois, mais avec de fortes disparités territoriales.</description>
-      <itunes:summary>Au programme ce matin : les résultats des législatives 2026 sont tombés, et la majorité sortante est reconduite — nous allons voir ce que cela signifie concrètement pour les grands chantiers économiques. Ensuite, une étude internationale confirme que le Maroc est la destination industrielle automobile la moins chère au monde, devant la Chine et le Mexique. Et enfin, le dynamisme entrepreneurial marocain reste bien réel : plus de cinquante et un mille nouvelles entreprises créées en six mois, mais avec de fortes disparités territoriales.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-24.mp3" length="4889236" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>305</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
