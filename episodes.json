@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-27",
+    "date": "2026-11-27",
+    "title": "ÉcoScope — 27/11/2026 : Dialogue social à 50 milliards, financement du Trésor 2027 et nouvelle gouvernance à Saham Bank",
+    "description": "Au programme aujourd'hui : le gouvernement met un chiffre sur ses engagements sociaux, près de cinquante milliards de dirhams, et ouvre le dialogue avec les syndicats. Côté finances publiques, trois décrets encadrent la stratégie d'endettement du Maroc pour 2027. Et dans le secteur bancaire, Saham Bank annonce un changement à sa tête à compter du premier janvier prochain.",
+    "filename": "ecoscope-2026-11-27.mp3",
+    "bytes": 4680322,
+    "duration": 292
+  },
+  {
     "guid": "ecoscope-2026-11-26",
     "date": "2026-11-26",
     "title": "ÉcoScope — 26/11/2026 : Industrie de défense, Mondial 2030 et accord aérien Maroc-Chine",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-26.mp3",
     "bytes": 4738383,
     "duration": 296
-  },
-  {
-    "guid": "ecoscope-2026-09-25",
-    "date": "2026-09-25",
-    "title": "ÉcoScope — 25/09/2026 : Attentes du secteur privé, finances publiques et l'ONCF primé à Berlin",
-    "description": "Au programme aujourd'hui : au lendemain des élections législatives, les acteurs économiques marocains parlent sans détour et dressent leur feuille de route pour le prochain gouvernement. Nous ferons également le point sur l'état des finances publiques à fin août. Et enfin, bonne nouvelle pour le rail marocain : l'ONCF revient de Berlin avec un prix international et un partenariat de poids.",
-    "filename": "ecoscope-2026-09-25.mp3",
-    "bytes": 4518524,
-    "duration": 282
   }
 ]

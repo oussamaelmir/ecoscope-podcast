@@ -26,7 +26,18 @@
       <itunes:category text="Business News"/>
     </itunes:category>
     <atom:link href="https://oussamaelmir.github.io/ecoscope-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Nov 2026 07:03:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:03:00 +0100</lastBuildDate>
+    <item>
+      <title>ÉcoScope — 27/11/2026 : Dialogue social à 50 milliards, financement du Trésor 2027 et nouvelle gouvernance à Saham Bank</title>
+      <description>Au programme aujourd'hui : le gouvernement met un chiffre sur ses engagements sociaux, près de cinquante milliards de dirhams, et ouvre le dialogue avec les syndicats. Côté finances publiques, trois décrets encadrent la stratégie d'endettement du Maroc pour 2027. Et dans le secteur bancaire, Saham Bank annonce un changement à sa tête à compter du premier janvier prochain.</description>
+      <itunes:summary>Au programme aujourd'hui : le gouvernement met un chiffre sur ses engagements sociaux, près de cinquante milliards de dirhams, et ouvre le dialogue avec les syndicats. Côté finances publiques, trois décrets encadrent la stratégie d'endettement du Maroc pour 2027. Et dans le secteur bancaire, Saham Bank annonce un changement à sa tête à compter du premier janvier prochain.</itunes:summary>
+      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-11-27.mp3" length="4680322" type="audio/mpeg"/>
+      <guid isPermaLink="false">ecoscope-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:duration>292</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ÉcoScope — 26/11/2026 : Industrie de défense, Mondial 2030 et accord aérien Maroc-Chine</title>
       <description>Au programme aujourd'hui : le Roi Mohammed VI engage le Maroc dans un chantier industriel de défense à hauteur de cinquante milliards de dirhams de revenus annuels potentiels. Ensuite, le gouvernement chiffre pour la première fois l'impact du Mondial 2030 sur l'emploi, avec plus de huit cent quarante mille postes attendus. Et enfin, Rabat et Pékin signent un accord aérien majeur qui ouvre quatorze nouvelles liaisons et protège Royal Air Maroc sur le marché chinois.</description>
@@ -673,17 +684,6 @@
       <guid isPermaLink="false">ecoscope-2026-09-26</guid>
       <pubDate>Sat, 26 Sep 2026 06:00:00 +0100</pubDate>
       <itunes:duration>296</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ÉcoScope — 25/09/2026 : Attentes du secteur privé, finances publiques et l'ONCF primé à Berlin</title>
-      <description>Au programme aujourd'hui : au lendemain des élections législatives, les acteurs économiques marocains parlent sans détour et dressent leur feuille de route pour le prochain gouvernement. Nous ferons également le point sur l'état des finances publiques à fin août. Et enfin, bonne nouvelle pour le rail marocain : l'ONCF revient de Berlin avec un prix international et un partenariat de poids.</description>
-      <itunes:summary>Au programme aujourd'hui : au lendemain des élections législatives, les acteurs économiques marocains parlent sans détour et dressent leur feuille de route pour le prochain gouvernement. Nous ferons également le point sur l'état des finances publiques à fin août. Et enfin, bonne nouvelle pour le rail marocain : l'ONCF revient de Berlin avec un prix international et un partenariat de poids.</itunes:summary>
-      <enclosure url="https://oussamaelmir.github.io/ecoscope-podcast/episodes/ecoscope-2026-09-25.mp3" length="4518524" type="audio/mpeg"/>
-      <guid isPermaLink="false">ecoscope-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:00:00 +0100</pubDate>
-      <itunes:duration>282</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
