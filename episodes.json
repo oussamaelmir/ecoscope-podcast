@@ -1,5 +1,14 @@
 [
   {
+    "guid": "ecoscope-2026-11-28",
+    "date": "2026-11-28",
+    "title": "ÉcoScope — 28/11/2026 : Résultats bancaires, chute des importations de blé et introduction en Bourse de Retail Holding",
+    "description": "Au programme aujourd'hui : Attijariwafa bank profite à plein de la dynamique des grands chantiers du Maroc, avec des résultats en hausse à fin septembre. Ensuite, les importations de blé devraient chuter de quarante-quatre pour cent cette année, grâce au retour des pluies et au rebond de la récolte nationale. Et enfin, Retail Holding, la filiale immobilière du groupe LabelVie, s'apprête à faire son entrée à la Bourse de Casablanca après le feu vert de l'AMMC.",
+    "filename": "ecoscope-2026-11-28.mp3",
+    "bytes": 4985008,
+    "duration": 311
+  },
+  {
     "guid": "ecoscope-2026-11-27",
     "date": "2026-11-27",
     "title": "ÉcoScope — 27/11/2026 : Dialogue social à 50 milliards, financement du Trésor 2027 et nouvelle gouvernance à Saham Bank",
@@ -529,14 +538,5 @@
     "filename": "ecoscope-2026-09-27.mp3",
     "bytes": 4477674,
     "duration": 279
-  },
-  {
-    "guid": "ecoscope-2026-09-26",
-    "date": "2026-09-26",
-    "title": "ÉcoScope — 26/09/2026 : Trésor sous pression, Heidelberg quitte Ciments du Maroc, TVA Meta dès octobre",
-    "description": "Au programme aujourd'hui : le Trésor doit encore lever près de 46 milliards de dirhams avant la fin de l'année, une pression budgétaire considérable. Ensuite, le géant allemand Heidelberg Materials quitte totalement le capital de Ciments du Maroc, et cette sortie fait du bruit à la Bourse de Casablanca. Enfin, Meta va appliquer une TVA de 20 pour cent sur la publicité digitale au Maroc dès le 1er octobre, une mauvaise nouvelle pour les PME et les entrepreneurs du numérique.",
-    "filename": "ecoscope-2026-09-26.mp3",
-    "bytes": 4738383,
-    "duration": 296
   }
 ]
